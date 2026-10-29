@@ -24,7 +24,7 @@ def clean_data(path: Path):
     if missing:
         raise ValueError(f"Missing required columns: {sorted(missing)}")
     df = raw.copy()
-    df["Order_Date"] = pd.to_datetime(df["Order_Date"], errors="coerce", dayfirst=True)
+    df["Order_Date"] = pd.to_datetime(df["Order_Date"], format="mixed", errors="coerce", dayfirst=True)
     for col in ("Units_Sold", "Unit_Price", "Discount_%", "Profit"):
         if col in df:
             df[col] = pd.to_numeric(df[col], errors="coerce")
