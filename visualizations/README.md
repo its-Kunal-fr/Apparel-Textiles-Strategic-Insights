@@ -1,14 +1,11 @@
 # Visualizations
 
-Save exported charts and dashboard screenshots here.
+Charts in this folder are calculated from the cleaned subset of the synthetic fashion retail dataset documented in `../data/README.md`.
 
-Suggested charts:
-- Weekly net sales and units trend
-- Revenue and margin by category
-- Top products by sales or contribution
-- Discount depth versus margin
-- Return rate by category or SKU
-- Inventory ageing and stockout indicators
-- Actual versus forecast demand with error metrics
+- [Monthly estimated sales](monthly_sales.svg) — July 2023 to July 2025.
+- [Estimated sales by product category](category_sales.svg) — totals for retained rows.
+- [Naive forecast vs actual](forecast_holdout.svg) — final five months held out chronologically.
 
-Every visualization should include a descriptive title, units, time range, and a short interpretation. Only publish charts generated from documented data; label synthetic examples as simulated.
+The source currency is unspecified. Sales are calculated as units × unit price × (1 − discount), treating missing discount as zero and excluding invalid discounts. These are demonstration outputs, not evidence of real retailer performance.
+
+Run `python src/analysis_pipeline.py --input data/raw/snitch_fashion_sales_uncleaned.csv --output-dir outputs` to generate PNG charts and CSV tables from the data.
