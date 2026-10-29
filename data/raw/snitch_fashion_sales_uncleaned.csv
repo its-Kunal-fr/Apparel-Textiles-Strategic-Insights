@@ -1,0 +1,2501 @@
+Order_ID,Product_Category,Product_Name,Units_Sold,Unit_Price,Discount_%,Sales_Amount,Order_Date,City,Segment,Profit
+1000,Jeans,Slim Fit Jeans,,842.0,0.6,0.0,2025-02-27,Delhi,B2C,2137.45
+1001,Jeans,Slim Fit Jeans,1.0,,,0.0,2025-07-15,Ahmedabad,,1588.15
+1002,Jackets,Puffer Coat,1.0,637.82,,0.0,02-01-2025,Mumbai,B2B,-158.03
+1003,Shoes,Loafers,2.0,2962.27,,0.0,18-06-2025,bengaluru,B2B,2296.5
+1004,Accessories,Belts,1.0,2881.07,0.27,2103.18,,hyderbad,,63.66
+1005,T-Shirts,Crop Top,,,,0.0,2023-12-05,Mumbai,B2B,1477.73
+1006,Jeans,Boyfriend Jeans,1.0,2060.85,,0.0,2024-04-02,Ahmedabad,B2B,198.36
+1007,Dresses,Casual Midi,,3669.56,,0.0,,Bangalore,B2C,2490.01
+1008,Accessories,Sunglasses,,,,0.0,,Ahmedabad,B2C,-886.8
+1009,T-Shirts,Oversized T-shirt,5.0,,,0.0,2025-07-20,Bangalore,B2B,-972.73
+1010,T-Shirts,Crop Top,0.0,4007.02,,0.0,,Pune,B2B,-950.38
+1011,Accessories,Belts,0.0,,,0.0,27-05-2025,Delhi,B2C,1370.67
+1012,Jeans,Straight Cut,4.0,,0.21,0.0,2024/08/22,Ahmedabad,,843.61
+1013,T-Shirts,Crop Top,,,0.62,0.0,,Pune,B2C,1279.58
+1014,Shoes,Loafers,4.0,,,0.0,21-09-2024,Hyd,,-889.25
+1015,Shoes,Sneakers,6.0,,,0.0,,Ahmedabad,,793.8
+1016,T-Shirts,Crop Top,,,,0.0,26-10-2024,Hyderabad,B2B,1881.89
+1017,T-Shirts,Oversized T-shirt,3.0,468.53,,0.0,,Mumbai,B2B,-195.65
+1018,Dresses,Maxi Dress,4.0,,,0.0,2024-04-13,bengaluru,B2C,2102.56
+1019,Dresses,Casual Midi,,4064.4,0.7,0.0,2024/10/22,Ahmedabad,B2C,877.21
+1020,Jeans,Boyfriend Jeans,1.0,,,0.0,19-03-2025,Pune,B2B,669.75
+1021,Dresses,Wrap Dress,,,,0.0,2024-05-05,bengaluru,B2B,-705.72
+1031,Dresses,Wrap Dress,,1872.05,0.15,0.0,2025/05/27,Pune,B2C,-863.9
+1023,Shoes,Slip-ons,,,,0.0,,Mumbai,,-875.51
+1024,Jackets,Puffer Coat,-2.0,,1.19,0.0,2025/02/19,Delhi,B2B,491.1
+1025,Jeans,Straight Cut,4.0,4595.08,,0.0,2025/07/18,Bangalore,,330.82
+1026,Accessories,Sunglasses,,,,0.0,2024-12-21,Ahmedabad,B2B,-194.77
+1027,Accessories,Belts,1.0,,,0.0,,hyderbad,B2B,1085.36
+1028,T-Shirts,Classic Tee,-2.0,,,0.0,,hyderbad,B2B,2060.03
+1029,T-Shirts,Classic Tee,4.0,,,0.0,,Mumbai,,1737.92
+1030,Dresses,Maxi Dress,3.0,1069.77,,0.0,2023-09-03,Hyd,B2C,1155.38
+1031,Dresses,Wrap Dress,4.0,,,0.0,2025/01/31,Bangalore,B2B,-960.24
+1032,Jeans,Boyfriend Jeans,,2182.01,,0.0,2025/01/25,Delhi,,1377.61
+1033,Jeans,Straight Cut,,,,0.0,13-11-2024,Hyd,B2B,903.69
+1034,Jackets,Puffer Coat,0.0,4449.36,0.94,0.0,13-07-2025,Delhi,B2B,-282.68
+1035,Jackets,Bomber Jacket,-1.0,,0.94,0.0,,Ahmedabad,B2C,-199.18
+1036,T-Shirts,Graphic Tee,-2.0,2721.83,,0.0,2024-04-06,Ahmedabad,B2B,1213.95
+1037,Accessories,Sunglasses,2.0,,1.1,0.0,,Ahmedabad,B2B,907.77
+1038,T-Shirts,Crop Top,3.0,1692.38,,0.0,2024-01-20,bengaluru,B2C,1704.49
+1039,Shoes,Boots,,1372.16,0.56,0.0,20-05-2025,Hyd,B2C,1626.51
+1040,Jackets,Denim Jacket,,,,0.0,15-11-2024,Ahmedabad,B2C,693.6
+1041,Jackets,Puffer Coat,,,,0.0,2025/03/07,Ahmedabad,B2C,-983.06
+1042,Dresses,Bodycon,,,,0.0,2025-04-12,Pune,,283.39
+1043,T-Shirts,Graphic Tee,,4575.93,0.56,0.0,2025/04/05,Ahmedabad,,442.14
+1044,T-Shirts,Classic Tee,,,,0.0,2024/09/12,bengaluru,B2B,-80.23
+1045,Accessories,Sunglasses,,3477.16,,0.0,10-02-2025,Hyd,B2B,1323.75
+1046,Jeans,Slim Fit Jeans,-1.0,2441.92,0.92,-195.35,,Delhi,,1004.91
+1047,Jeans,Straight Cut,3.0,,,0.0,12-06-2025,Hyd,B2C,-395.76
+1048,Jeans,Straight Cut,5.0,,0.41,0.0,16-10-2024,Delhi,,2409.26
+1049,T-Shirts,Graphic Tee,,,,0.0,,Mumbai,B2C,19.87
+1050,Jeans,Slim Fit Jeans,-1.0,1083.16,,0.0,2025/07/08,Pune,B2C,2904.29
+1051,Jeans,Boyfriend Jeans,,,0.57,0.0,2025-04-26,Delhi,B2C,2857.9
+1052,Jeans,Ripped Denim,,3252.49,0.56,0.0,2023-12-08,Bangalore,,-11.15
+1053,Dresses,Maxi Dress,,714.23,1.29,0.0,2025/07/21,Delhi,,1057.24
+1054,T-Shirts,Classic Tee,,,,0.0,2025-02-12,Pune,,1002.96
+1055,Jeans,Boyfriend Jeans,0.0,,,0.0,2024-03-02,Pune,B2B,1374.9
+1056,Accessories,Sunglasses,6.0,,,0.0,2025/07/11,Mumbai,B2C,-343.36
+1057,Jackets,Puffer Coat,4.0,,0.04,0.0,2024-12-23,Pune,,1725.76
+1058,T-Shirts,Oversized T-shirt,,3982.53,1.08,0.0,14-08-2024,Pune,B2C,1912.49
+1059,Jeans,Boyfriend Jeans,0.0,2927.57,0.19,0.0,,Delhi,,2218.42
+1060,Jeans,Ripped Denim,,2813.51,,0.0,2025/07/14,Pune,,94.96
+1061,Accessories,Belts,,2291.15,0.33,0.0,2024/11/05,Mumbai,B2B,2536.3
+1062,Jeans,Ripped Denim,-1.0,,,0.0,,Pune,B2C,328.72
+1063,T-Shirts,Graphic Tee,1.0,,,0.0,2025/06/28,bengaluru,B2C,2147.75
+1064,Jackets,Denim Jacket,,,1.3,0.0,,bengaluru,,-901.74
+1065,Jeans,Boyfriend Jeans,5.0,,,0.0,2024-05-28,bengaluru,,2316.97
+1066,Shoes,Slip-ons,-2.0,3479.44,,0.0,2025/01/15,Delhi,,-252.78
+1067,Dresses,Casual Midi,,3945.25,,0.0,2025/06/30,bengaluru,B2B,305.55
+1068,Dresses,Wrap Dress,4.0,2765.26,,0.0,,Ahmedabad,B2C,1719.9
+1069,Accessories,Watches,2.0,2102.02,1.13,-546.53,2024-03-11,Delhi,B2B,-992.61
+1070,Jackets,Leather Jacket,5.0,,,0.0,06-04-2025,Hyd,B2B,1383.48
+1071,Accessories,Sunglasses,,1000.76,,0.0,,Delhi,B2B,2131.43
+1072,Dresses,Maxi Dress,,,,0.0,,Bangalore,B2C,2878.09
+1073,Jeans,Straight Cut,-2.0,,0.18,0.0,,Pune,,368.69
+1074,Dresses,Casual Midi,-2.0,,1.06,0.0,25-01-2025,Hyderabad,,192.91
+1075,T-Shirts,Crop Top,,795.85,,0.0,,Pune,B2B,2418.8
+1076,T-Shirts,Oversized T-shirt,2.0,,,0.0,07-01-2025,Bangalore,,1408.61
+1077,T-Shirts,Oversized T-shirt,2.0,,,0.0,20-09-2024,Hyderabad,B2B,902.52
+1078,Jackets,Leather Jacket,,4059.56,,0.0,13-02-2025,Pune,B2C,-819.94
+1079,T-Shirts,Classic Tee,,,,0.0,,Hyd,B2B,-22.55
+1080,T-Shirts,Crop Top,,3872.22,1.15,0.0,,Mumbai,B2C,-302.97
+1081,Jeans,Boyfriend Jeans,6.0,4798.06,0.81,5469.79,,Hyd,B2B,-361.78
+1082,Dresses,Bodycon,0.0,,,0.0,,Bangalore,B2B,712.91
+1083,Jackets,Bomber Jacket,1.0,,1.28,0.0,,Pune,B2B,-612.62
+1084,Shoes,Loafers,,,0.53,0.0,2024-12-24,Pune,B2B,2458.07
+1085,Shoes,Slip-ons,,,0.02,0.0,2023-10-18,Pune,B2B,264.73
+1086,Accessories,Sunglasses,,948.33,0.46,0.0,2025/03/16,Bangalore,B2C,-865.22
+1087,Jeans,Ripped Denim,,1976.75,0.81,0.0,2025/07/08,Mumbai,B2C,2790.95
+1088,Accessories,Caps,,3891.14,,0.0,08-05-2025,Pune,B2C,1374.27
+1089,Shoes,Slip-ons,,1412.17,0.88,0.0,22-02-2025,Mumbai,,-355.26
+1090,Shoes,Slip-ons,5.0,2477.82,,0.0,09-11-2024,Ahmedabad,B2C,-888.86
+1091,Accessories,Belts,1.0,,,0.0,2023-07-28,Delhi,,156.43
+1092,Dresses,Bodycon,,,,0.0,,Pune,,1122.66
+1093,Dresses,Bodycon,-2.0,,,0.0,2024/12/03,bengaluru,B2B,2966.76
+1094,Jackets,Denim Jacket,-1.0,4741.41,,0.0,,Mumbai,B2C,1901.7
+1035,Accessories,Belts,,,,0.0,2025/01/04,Mumbai,B2C,1539.59
+1033,Accessories,Belts,,421.92,,0.0,,Hyderabad,,2969.19
+1097,Accessories,Sunglasses,0.0,,,0.0,2025-01-18,Mumbai,,1141.15
+1098,Accessories,Caps,0.0,4752.04,,0.0,08-09-2024,Ahmedabad,B2C,129.37
+1099,Shoes,Loafers,,,,0.0,2024-02-22,Pune,B2B,300.02
+1100,Shoes,Boots,2.0,2011.73,,0.0,2024-12-30,Hyd,B2C,2493.5
+1101,Jeans,Boyfriend Jeans,,,0.22,0.0,04-03-2025,Pune,B2C,2962.73
+1102,Jeans,Boyfriend Jeans,5.0,,,0.0,15-04-2025,Hyd,,2776.7
+1103,Dresses,Bodycon,5.0,1521.46,,0.0,11-06-2025,bengaluru,B2B,1713.47
+1104,Dresses,Maxi Dress,3.0,2752.71,,0.0,2024-06-11,Ahmedabad,B2B,1660.01
+1105,Dresses,Maxi Dress,-2.0,,,0.0,,Ahmedabad,B2B,616.04
+1106,Jeans,Boyfriend Jeans,3.0,,,0.0,01-04-2025,Pune,B2C,53.28
+1107,Jeans,Straight Cut,,4948.0,,0.0,,Delhi,B2C,1064.86
+1036,Jeans,Straight Cut,1.0,4601.44,,0.0,2024/12/16,Mumbai,B2C,2145.66
+1109,Jeans,Ripped Denim,,,,0.0,02-05-2025,hyderbad,B2C,2133.58
+1110,Jeans,Slim Fit Jeans,4.0,,,0.0,2025-06-26,Mumbai,B2C,2155.68
+1111,T-Shirts,Classic Tee,,,,0.0,,Ahmedabad,B2C,748.93
+1112,Dresses,Casual Midi,,1027.56,,0.0,,Mumbai,,1160.17
+1113,Jackets,Puffer Coat,,3864.5,,0.0,,Ahmedabad,B2C,-763.23
+1114,Dresses,Bodycon,6.0,568.61,0.2,2729.33,2025/02/18,Delhi,B2C,-689.16
+1115,Accessories,Belts,,,,0.0,18-06-2025,Ahmedabad,,-624.26
+1116,Jackets,Bomber Jacket,1.0,,,0.0,2025/03/02,Delhi,B2C,1733.04
+1117,Jackets,Puffer Coat,,3567.55,,0.0,,bengaluru,,-455.6
+1118,Accessories,Belts,,,,0.0,2025-05-01,Bangalore,B2C,1039.53
+1119,Jeans,Ripped Denim,,,,0.0,14-05-2025,Mumbai,B2C,142.69
+1120,Jackets,Puffer Coat,,4709.0,,0.0,2025/05/05,Ahmedabad,,828.98
+1121,Shoes,Boots,,4109.6,0.42,0.0,,Pune,B2C,1422.36
+1122,Jackets,Bomber Jacket,0.0,4745.03,0.4,0.0,,Mumbai,B2C,2658.02
+1123,Accessories,Caps,5.0,3978.76,,0.0,2024-04-11,Ahmedabad,,1494.78
+1002,Jackets,Puffer Coat,1.0,,,0.0,31-12-2024,Ahmedabad,B2B,2513.75
+1125,Shoes,Boots,-2.0,,,0.0,,Delhi,,-754.58
+1126,Jeans,Boyfriend Jeans,2.0,,0.59,0.0,,Pune,B2C,1820.2
+1127,Dresses,Bodycon,3.0,4843.44,0.07,13513.2,07-08-2024,Ahmedabad,B2B,2881.91
+1128,T-Shirts,Oversized T-shirt,,,0.43,0.0,,Hyd,,-68.49
+1129,Jeans,Boyfriend Jeans,-2.0,2412.36,0.23,-3715.03,27-06-2025,Mumbai,B2C,-668.36
+1130,Accessories,Sunglasses,,,,0.0,,Delhi,B2B,2782.45
+1131,T-Shirts,Classic Tee,5.0,,0.99,0.0,2025/01/18,Delhi,,-941.56
+1132,Jackets,Bomber Jacket,,,0.58,0.0,,Delhi,B2B,2043.57
+1133,Dresses,Casual Midi,,,0.6,0.0,,Ahmedabad,,806.19
+1134,Dresses,Wrap Dress,3.0,,,0.0,2025-05-14,Delhi,B2C,1101.19
+1135,Shoes,Sneakers,4.0,1556.96,0.84,996.45,2024-10-23,Mumbai,B2B,1432.84
+1136,Jeans,Straight Cut,,3658.42,0.47,0.0,2024-01-27,Mumbai,,1897.33
+1137,Shoes,Sneakers,,4206.06,,0.0,23-04-2025,Delhi,B2B,1161.76
+1138,Dresses,Bodycon,,,0.26,0.0,,Hyderabad,B2C,-658.58
+1139,T-Shirts,Graphic Tee,,,0.21,0.0,2024-10-28,Bangalore,,-832.45
+1140,Accessories,Belts,4.0,,,0.0,2024/08/13,Hyderabad,B2B,-127.91
+1141,T-Shirts,Graphic Tee,,,1.15,0.0,2024-04-19,Delhi,B2C,429.67
+1142,Dresses,Bodycon,6.0,3004.58,,0.0,2024-02-22,Hyderabad,B2C,-509.67
+1143,Jackets,Denim Jacket,,,,0.0,05-05-2025,Bangalore,,816.49
+1144,Jeans,Slim Fit Jeans,,,0.19,0.0,,Mumbai,B2C,2966.21
+1145,T-Shirts,Graphic Tee,-2.0,3607.9,0.94,-432.95,2024/11/06,hyderbad,B2B,-171.58
+1146,Accessories,Belts,,,1.09,0.0,2025-03-03,Pune,B2C,-431.7
+1147,Dresses,Casual Midi,,2875.46,,0.0,2024/12/06,Delhi,B2B,-794.99
+1148,Accessories,Belts,,2471.48,1.11,0.0,2025/01/23,Mumbai,B2C,2247.9
+1149,Dresses,Bodycon,2.0,,,0.0,2024/10/05,Hyderabad,B2B,562.69
+1150,Accessories,Sunglasses,,1554.9,,0.0,17-10-2024,Ahmedabad,B2C,457.65
+1151,Jeans,Straight Cut,4.0,2266.44,0.33,6074.06,17-07-2025,Pune,B2C,-655.45
+1152,Shoes,Slip-ons,1.0,,1.26,0.0,2024/11/03,Pune,,454.45
+1153,Accessories,Belts,1.0,478.59,,0.0,15-12-2024,Delhi,B2B,-681.2
+1154,Accessories,Watches,,,,0.0,2024-10-10,Bangalore,B2C,52.85
+1155,Shoes,Slip-ons,,,0.64,0.0,2024/11/08,Mumbai,,2493.12
+1156,Dresses,Wrap Dress,3.0,,0.93,0.0,,Delhi,,1699.17
+1157,Jeans,Ripped Denim,6.0,645.03,,0.0,2025/06/25,Ahmedabad,B2C,2724.92
+1158,Dresses,Wrap Dress,,4516.08,,0.0,2025-07-06,Delhi,B2B,2164.95
+1159,Shoes,Sneakers,,3335.18,0.09,0.0,,Ahmedabad,B2C,235.11
+1160,Dresses,Casual Midi,0.0,,0.77,0.0,2024/11/11,Hyderabad,,-711.19
+1161,T-Shirts,Classic Tee,,1801.91,,0.0,2024-03-01,Mumbai,,502.86
+1162,Shoes,Boots,4.0,,0.14,0.0,2024/11/25,Mumbai,B2C,2566.05
+1163,Accessories,Sunglasses,,1033.58,0.68,0.0,2025-01-09,bengaluru,B2C,-441.46
+1164,Accessories,Sunglasses,5.0,,,0.0,,Hyderabad,B2B,598.79
+1165,T-Shirts,Classic Tee,2.0,,0.08,0.0,2024-10-04,bengaluru,B2B,-102.32
+1166,Jackets,Bomber Jacket,,,0.91,0.0,2023-08-27,Ahmedabad,,285.44
+1167,T-Shirts,Oversized T-shirt,0.0,4595.9,0.09,0.0,2025-05-14,Bangalore,,-653.8
+1168,Accessories,Sunglasses,0.0,3655.71,0.48,0.0,13-11-2024,hyderbad,,2024.15
+1169,T-Shirts,Classic Tee,-1.0,2948.26,0.9,-294.83,,Pune,,1285.15
+1170,Jeans,Straight Cut,0.0,,0.76,0.0,,Delhi,B2C,-528.7
+1171,Jeans,Straight Cut,1.0,,,0.0,2025/06/16,Pune,B2B,2475.83
+1172,Jackets,Puffer Coat,-2.0,2719.32,,0.0,2025-05-02,Hyd,B2C,655.1
+1173,Jeans,Boyfriend Jeans,,4063.39,,0.0,,bengaluru,,2034.39
+1174,Jackets,Leather Jacket,6.0,4984.65,0.42,17346.58,23-12-2024,Bangalore,,2931.32
+1175,Dresses,Casual Midi,3.0,,,0.0,01-10-2024,Ahmedabad,B2C,728.61
+1176,Jeans,Boyfriend Jeans,6.0,,0.87,0.0,,Mumbai,B2B,-879.15
+1177,Jeans,Straight Cut,,2426.13,,0.0,30-03-2025,Ahmedabad,B2C,353.91
+1178,T-Shirts,Crop Top,4.0,1204.59,,0.0,,Hyd,,2161.64
+1179,Jackets,Bomber Jacket,0.0,,,0.0,2025-04-04,Mumbai,B2C,510.53
+1180,Dresses,Bodycon,6.0,2495.96,,0.0,,Hyderabad,B2C,835.4
+1181,Jackets,Bomber Jacket,,,,0.0,2025-03-16,Mumbai,B2B,2564.06
+1182,Jeans,Slim Fit Jeans,-1.0,,,0.0,2024/08/06,Pune,,-747.25
+1183,Accessories,Watches,6.0,2372.3,,0.0,2024-03-27,Delhi,,1888.87
+1184,Jeans,Ripped Denim,0.0,2697.1,,0.0,21-06-2025,Delhi,B2B,1518.99
+1185,Accessories,Belts,,,,0.0,2025-05-14,Delhi,B2C,-445.19
+1186,Jeans,Boyfriend Jeans,6.0,,0.71,0.0,12-06-2025,Bangalore,B2B,-40.48
+1187,Accessories,Belts,3.0,3810.89,,0.0,,Mumbai,B2C,1153.72
+1188,Accessories,Belts,6.0,4910.28,0.12,25926.28,27-08-2024,Bangalore,,2089.25
+1189,T-Shirts,Oversized T-shirt,,4808.1,,0.0,2025/01/28,Ahmedabad,,392.87
+1190,Jackets,Puffer Coat,,,0.63,0.0,2025-05-27,Pune,B2B,75.04
+1191,Accessories,Belts,,2469.87,0.56,0.0,,Mumbai,B2C,2860.2
+1010,T-Shirts,Crop Top,0.0,,,0.0,,Hyd,B2C,2709.47
+1193,Dresses,Casual Midi,,3031.06,,0.0,2024/08/08,Pune,B2B,-682.74
+1032,Accessories,Sunglasses,,,,0.0,09-07-2025,Ahmedabad,B2C,1941.65
+1195,Dresses,Wrap Dress,,,1.2,0.0,,Mumbai,B2C,1059.17
+1196,Jeans,Slim Fit Jeans,,3959.06,0.37,0.0,14-05-2025,Hyd,B2B,1539.5
+1197,Jackets,Denim Jacket,1.0,,,0.0,,Hyderabad,B2B,650.97
+1198,Accessories,Sunglasses,3.0,3594.97,,0.0,17-04-2025,Delhi,B2C,2422.27
+1199,Shoes,Boots,,2317.1,,0.0,02-02-2025,Bangalore,,2637.77
+1200,Shoes,Sneakers,4.0,,,0.0,,Hyd,B2C,2782.21
+1201,Jackets,Bomber Jacket,2.0,3507.85,,0.0,10-01-2025,Pune,B2B,1023.04
+1202,Accessories,Sunglasses,,,,0.0,23-03-2025,bengaluru,B2C,-207.53
+1203,T-Shirts,Crop Top,5.0,,,0.0,14-01-2025,Hyd,B2C,657.59
+1204,Shoes,Slip-ons,,4213.4,,0.0,12-11-2024,Pune,B2B,1867.53
+1205,Jeans,Slim Fit Jeans,,696.49,,0.0,2025/06/11,Delhi,B2C,-24.51
+1206,T-Shirts,Classic Tee,0.0,,,0.0,2025-03-31,hyderbad,,2472.24
+1207,Jeans,Straight Cut,,563.14,0.33,0.0,2024-05-21,Ahmedabad,B2B,945.7
+1208,Jackets,Denim Jacket,1.0,,,0.0,2025/01/10,Mumbai,,648.73
+1209,Accessories,Watches,,4029.87,,0.0,09-01-2025,Ahmedabad,,1447.79
+1210,Accessories,Watches,4.0,,1.16,0.0,2025/05/26,Delhi,,2179.54
+1211,Jeans,Ripped Denim,,1560.37,,0.0,2024-12-04,Ahmedabad,B2C,2783.91
+1212,Shoes,Slip-ons,-1.0,4098.12,,0.0,2024/10/17,Hyd,,-656.35
+1213,T-Shirts,Classic Tee,,,,0.0,2025/01/27,Ahmedabad,,1093.98
+1214,Jackets,Leather Jacket,4.0,1273.6,,0.0,18-06-2025,Hyd,B2C,1851.89
+1215,T-Shirts,Classic Tee,6.0,3802.27,,0.0,,Ahmedabad,B2C,-266.99
+1216,T-Shirts,Classic Tee,6.0,,1.17,0.0,2024/07/22,Delhi,B2B,2986.8
+1217,Jackets,Denim Jacket,3.0,2850.38,,0.0,,Delhi,B2C,17.31
+1218,Dresses,Wrap Dress,3.0,1544.45,0.33,3104.34,31-03-2025,Hyd,B2B,707.56
+1219,Jeans,Straight Cut,,,,0.0,2024/11/28,bengaluru,,2206.0
+1220,T-Shirts,Oversized T-shirt,,,,0.0,2024/07/22,bengaluru,,1598.22
+1221,Accessories,Belts,3.0,,,0.0,28-09-2024,Mumbai,B2B,898.67
+1222,T-Shirts,Classic Tee,,683.85,,0.0,30-10-2024,Pune,B2C,1489.45
+1223,T-Shirts,Crop Top,,,,0.0,,hyderbad,B2B,-531.05
+1224,Dresses,Wrap Dress,,,,0.0,21-03-2025,Ahmedabad,B2C,2219.56
+1225,Shoes,Loafers,-1.0,1406.32,1.05,70.32,13-07-2025,Bangalore,,1937.71
+1226,Dresses,Bodycon,1.0,,1.15,0.0,2024-10-26,Ahmedabad,B2B,2806.56
+1227,Accessories,Sunglasses,2.0,,0.25,0.0,2024-03-05,hyderbad,B2C,2096.68
+1048,Accessories,Caps,,2298.27,0.59,0.0,2025/03/27,Pune,B2B,2994.93
+1229,Dresses,Bodycon,,,,0.0,,Delhi,,925.22
+1230,Accessories,Watches,3.0,,1.2,0.0,,Hyderabad,,2725.11
+1231,Shoes,Slip-ons,1.0,1744.73,,0.0,,Pune,B2B,1393.69
+1232,Shoes,Sneakers,2.0,2526.77,,0.0,2023-09-14,Mumbai,B2C,1494.67
+1233,Jackets,Puffer Coat,-1.0,,0.07,0.0,2025-04-25,Bangalore,,2237.24
+1234,Jeans,Straight Cut,,1069.88,0.05,0.0,2025-06-24,Pune,B2B,110.58
+1235,Jackets,Bomber Jacket,,,,0.0,,Hyderabad,B2B,-403.94
+1036,T-Shirts,Oversized T-shirt,2.0,4802.42,1.18,-1728.87,2025/04/18,hyderbad,,605.03
+1237,T-Shirts,Classic Tee,,,0.29,0.0,09-06-2025,Pune,B2C,-465.98
+1238,Shoes,Slip-ons,,,,0.0,,Pune,,2742.61
+1239,T-Shirts,Graphic Tee,4.0,644.58,,0.0,20-10-2024,Delhi,B2B,1097.88
+1240,Dresses,Casual Midi,,4634.13,,0.0,2023-07-29,Bangalore,,2625.44
+1241,Jeans,Slim Fit Jeans,6.0,3111.95,,0.0,2024-06-22,bengaluru,,2814.82
+1242,Jeans,Ripped Denim,-1.0,,,0.0,2025-02-18,Pune,B2B,1576.74
+1243,Accessories,Caps,3.0,,0.69,0.0,2024-12-02,Ahmedabad,,779.51
+1244,Dresses,Maxi Dress,6.0,,,0.0,2024-06-29,Ahmedabad,B2C,2574.76
+1245,T-Shirts,Classic Tee,,1822.9,,0.0,2024/12/13,Delhi,,1076.34
+1246,Dresses,Maxi Dress,0.0,,0.03,0.0,,Hyd,,733.8
+1247,T-Shirts,Crop Top,-1.0,,,0.0,,Hyderabad,B2B,1605.97
+1248,Accessories,Watches,,,1.24,0.0,2023-07-23,Mumbai,B2B,397.41
+1249,Accessories,Caps,,,0.23,0.0,10-09-2024,Pune,,809.89
+1250,Shoes,Slip-ons,,,,0.0,,Delhi,B2B,1653.07
+1251,Dresses,Casual Midi,2.0,4841.4,0.6,3873.12,04-02-2025,Pune,,578.37
+1252,T-Shirts,Classic Tee,6.0,1638.51,0.88,1179.73,02-04-2025,Mumbai,B2C,1484.7
+1253,Dresses,Wrap Dress,,,,0.0,2025-02-04,bengaluru,B2B,2512.63
+1254,Shoes,Slip-ons,6.0,,,0.0,14-02-2025,Mumbai,B2B,2418.99
+1255,T-Shirts,Classic Tee,4.0,1849.68,,0.0,06-12-2024,Hyd,B2C,-706.09
+1256,Jackets,Bomber Jacket,,1801.38,,0.0,18-11-2024,bengaluru,B2C,2071.1
+1257,Jeans,Straight Cut,,1228.78,,0.0,,Ahmedabad,B2C,-83.19
+1258,Dresses,Bodycon,-2.0,4313.38,,0.0,2025/03/12,Delhi,B2C,2636.96
+1259,Shoes,Boots,-2.0,3396.92,,0.0,2025/05/05,Ahmedabad,,-830.5
+1260,Dresses,Maxi Dress,2.0,,,0.0,2025/03/25,Delhi,B2B,-817.8
+1012,Jeans,Boyfriend Jeans,,4129.37,,0.0,2025/07/20,Delhi,B2B,2328.1
+1262,Accessories,Watches,2.0,,0.52,0.0,2024/11/02,bengaluru,B2B,786.25
+1263,Shoes,Slip-ons,,2542.72,,0.0,,Delhi,,-136.41
+1264,T-Shirts,Graphic Tee,,3382.08,,0.0,27-10-2024,Delhi,,1647.48
+1265,T-Shirts,Graphic Tee,0.0,721.41,1.16,0.0,24-03-2025,Hyd,B2C,1718.95
+1266,Shoes,Slip-ons,,,1.12,0.0,2023-10-25,Delhi,B2C,1024.86
+1267,Jackets,Bomber Jacket,3.0,3255.23,,0.0,2023-11-16,Delhi,B2B,650.8
+1268,Jackets,Denim Jacket,1.0,,1.03,0.0,,Pune,,2668.22
+1269,T-Shirts,Graphic Tee,,,,0.0,,Mumbai,,483.01
+1270,T-Shirts,Graphic Tee,0.0,4446.82,,0.0,2025/06/29,Hyd,B2B,-293.05
+1271,T-Shirts,Oversized T-shirt,,,,0.0,2024-05-13,Bangalore,B2B,1295.93
+1272,Accessories,Belts,,1429.94,,0.0,2023-12-12,Hyd,B2B,484.51
+1273,T-Shirts,Oversized T-shirt,,,,0.0,02-01-2025,Hyd,B2C,-431.92
+1274,Dresses,Wrap Dress,,,0.59,0.0,,Ahmedabad,B2B,62.98
+1275,Dresses,Casual Midi,3.0,4132.0,,0.0,2024-02-26,bengaluru,B2B,2732.47
+1276,Shoes,Boots,,3243.45,0.61,0.0,,Mumbai,,-869.12
+1277,Accessories,Sunglasses,2.0,4720.52,0.57,4059.65,05-09-2024,Delhi,B2C,1255.66
+1278,Accessories,Sunglasses,,3550.91,,0.0,23-09-2024,Delhi,B2C,466.53
+1279,Shoes,Boots,,2600.33,,0.0,2024/08/21,Ahmedabad,B2C,1430.67
+1280,T-Shirts,Crop Top,3.0,,,0.0,2024-10-13,Ahmedabad,B2B,263.41
+1003,Jackets,Puffer Coat,-2.0,548.19,,0.0,07-11-2024,Mumbai,,259.03
+1282,Shoes,Loafers,-1.0,,0.14,0.0,19-01-2025,Mumbai,B2B,-909.75
+1283,Shoes,Slip-ons,,,0.08,0.0,,Hyderabad,B2B,379.24
+1284,Jackets,Puffer Coat,,1500.19,,0.0,2024-05-18,Hyd,,-348.48
+1285,Accessories,Belts,5.0,,,0.0,,Delhi,,2024.84
+1286,T-Shirts,Graphic Tee,,2972.45,,0.0,25-12-2024,Mumbai,B2C,2562.54
+1287,Jeans,Slim Fit Jeans,,,,0.0,06-02-2025,bengaluru,B2B,802.66
+1288,Shoes,Slip-ons,4.0,,,0.0,,Delhi,B2B,-492.73
+1289,Jackets,Denim Jacket,,3590.85,,0.0,,Mumbai,B2C,2052.57
+1290,Jeans,Slim Fit Jeans,,1412.12,1.2,0.0,,Delhi,B2B,430.92
+1291,Jackets,Puffer Coat,,,,0.0,,Hyd,,1073.44
+1292,Dresses,Maxi Dress,3.0,,0.46,0.0,,Mumbai,,1165.86
+1293,Jackets,Denim Jacket,,,,0.0,,hyderbad,B2B,2073.16
+1294,Accessories,Watches,,,0.56,0.0,,Delhi,B2B,898.24
+1295,Jackets,Leather Jacket,-1.0,,,0.0,26-07-2024,Bangalore,B2C,2967.72
+1296,Jeans,Slim Fit Jeans,-2.0,2795.79,,0.0,26-03-2025,bengaluru,B2B,1438.47
+1297,Jackets,Puffer Coat,,4524.2,,0.0,02-08-2024,Delhi,B2C,1637.33
+1298,T-Shirts,Graphic Tee,,,,0.0,2024/12/31,Ahmedabad,B2C,2490.23
+1299,Jackets,Denim Jacket,1.0,1026.58,,0.0,2024/10/26,hyderbad,B2C,1178.37
+1300,Jeans,Slim Fit Jeans,,4611.9,,0.0,2025/04/25,Delhi,B2B,703.48
+1047,Jeans,Straight Cut,5.0,,1.15,0.0,05-07-2025,Hyd,,1368.68
+1302,Jeans,Ripped Denim,5.0,,0.09,0.0,14-02-2025,Ahmedabad,B2C,339.17
+1303,Jeans,Straight Cut,3.0,1192.16,,0.0,,Pune,B2B,505.33
+1047,Dresses,Maxi Dress,,3218.39,,0.0,02-06-2025,Mumbai,B2B,-442.98
+1305,Jackets,Bomber Jacket,3.0,,,0.0,2023-08-19,Delhi,,2861.3
+1306,Accessories,Belts,4.0,,,0.0,,Ahmedabad,,99.1
+1307,Dresses,Maxi Dress,2.0,2648.43,,0.0,08-08-2024,Ahmedabad,B2B,642.0
+1308,Dresses,Bodycon,2.0,4203.62,,0.0,2025-04-08,Mumbai,B2B,464.65
+1309,Accessories,Caps,,,,0.0,03-03-2025,Pune,B2B,481.45
+1310,Dresses,Maxi Dress,,,,0.0,04-03-2025,Pune,B2B,1516.35
+1311,Jackets,Bomber Jacket,3.0,,0.13,0.0,2023-12-12,Mumbai,B2B,-109.19
+1312,Accessories,Sunglasses,,,,0.0,29-05-2025,Pune,B2B,-646.16
+1313,Accessories,Watches,,4763.45,0.96,0.0,2023-12-24,Pune,B2C,-581.35
+1314,Shoes,Slip-ons,-1.0,,,0.0,2024/11/30,Hyderabad,B2C,1148.06
+1315,Jeans,Boyfriend Jeans,-2.0,515.04,,0.0,2024-06-30,bengaluru,,-279.01
+1316,T-Shirts,Crop Top,,1345.98,,0.0,2025-04-22,Pune,,-177.6
+1317,Accessories,Watches,0.0,,,0.0,2024-08-04,Mumbai,B2B,-476.45
+1318,Accessories,Belts,3.0,,,0.0,,Pune,B2C,1830.14
+1319,Dresses,Bodycon,0.0,,,0.0,2024-03-07,Ahmedabad,,-66.17
+1320,Accessories,Belts,4.0,,,0.0,,Delhi,B2B,2011.4
+1321,Jackets,Leather Jacket,3.0,,1.02,0.0,2024/09/26,Delhi,,632.23
+1322,T-Shirts,Classic Tee,,2387.61,,0.0,2024/12/02,Delhi,B2C,822.46
+1323,Jackets,Puffer Coat,,,1.12,0.0,2024-04-30,Pune,,-96.6
+1324,Jackets,Bomber Jacket,,,,0.0,2024-12-12,Mumbai,B2C,-610.52
+1325,Jeans,Ripped Denim,,1315.93,,0.0,2025-07-06,Bangalore,,1435.03
+1326,Dresses,Casual Midi,,4104.36,1.11,0.0,22-12-2024,Mumbai,,1404.45
+1327,Shoes,Slip-ons,,2964.44,,0.0,2023-08-06,Mumbai,,2021.54
+1328,Shoes,Boots,4.0,3250.24,0.56,5720.42,2025/05/27,Pune,B2B,2269.54
+1329,T-Shirts,Graphic Tee,1.0,2587.78,,0.0,2023-12-25,Hyderabad,B2C,1667.02
+1330,Dresses,Maxi Dress,-2.0,,,0.0,30-12-2024,Ahmedabad,B2C,-587.38
+1331,Accessories,Belts,6.0,,,0.0,25-01-2025,bengaluru,,1301.18
+1332,T-Shirts,Graphic Tee,,,0.0,0.0,2025/05/11,Mumbai,B2C,2301.09
+1028,Accessories,Watches,,,,0.0,2023-11-10,Ahmedabad,B2B,2502.73
+1334,Dresses,Maxi Dress,6.0,1454.69,,0.0,2025-06-06,Delhi,,652.87
+1335,Shoes,Slip-ons,5.0,,,0.0,25-04-2025,Hyderabad,B2C,-815.88
+1336,Jackets,Denim Jacket,,,,0.0,,Delhi,B2B,2000.91
+1337,Jackets,Denim Jacket,6.0,2286.68,1.27,-3704.42,2024/10/30,hyderbad,B2C,716.16
+1338,T-Shirts,Graphic Tee,0.0,,,0.0,21-11-2024,Ahmedabad,B2B,415.06
+1339,Dresses,Maxi Dress,,4507.5,,0.0,2025-07-01,bengaluru,,2552.65
+1340,Jeans,Straight Cut,,,0.06,0.0,2025/06/18,Mumbai,,1282.27
+1341,Shoes,Slip-ons,-1.0,3074.06,1.24,737.77,24-04-2025,Ahmedabad,,2634.42
+1342,Dresses,Wrap Dress,-1.0,4707.2,,0.0,,Pune,B2B,1395.82
+1343,Jeans,Ripped Denim,,4012.48,,0.0,21-07-2025,Mumbai,B2C,730.98
+1344,Jeans,Straight Cut,4.0,3386.91,,0.0,,Mumbai,B2C,2006.17
+1040,T-Shirts,Classic Tee,2.0,,0.18,0.0,,bengaluru,B2B,2721.4
+1346,Shoes,Slip-ons,-2.0,1622.65,,0.0,,Mumbai,B2C,-891.76
+1005,Jeans,Straight Cut,6.0,2228.45,1.2,-2674.14,06-02-2025,Bangalore,B2C,2728.03
+1348,T-Shirts,Classic Tee,2.0,1219.2,1.17,-414.53,2024/11/08,Hyderabad,B2B,2694.39
+1349,Jackets,Leather Jacket,-2.0,,0.82,0.0,2025-02-17,Pune,B2B,2085.75
+1008,T-Shirts,Classic Tee,2.0,2319.84,,0.0,,bengaluru,B2B,1669.55
+1351,Shoes,Slip-ons,,,,0.0,2024/09/11,hyderbad,B2C,2621.66
+1034,T-Shirts,Graphic Tee,,3991.4,,0.0,2025-02-05,Pune,,-555.4
+1042,Jeans,Straight Cut,,,0.84,0.0,08-06-2025,Bangalore,,1558.99
+1354,Jeans,Straight Cut,1.0,,,0.0,2025/05/12,Ahmedabad,,-678.38
+1355,Dresses,Bodycon,1.0,1054.69,0.18,864.85,20-10-2024,Mumbai,B2B,698.05
+1356,Jackets,Denim Jacket,,2418.55,0.88,0.0,11-04-2025,Ahmedabad,B2C,428.96
+1357,Jackets,Puffer Coat,,1128.57,0.39,0.0,2025-01-21,Hyd,,684.88
+1358,Accessories,Sunglasses,,,1.23,0.0,2025/02/16,Bangalore,B2C,1347.26
+1359,T-Shirts,Crop Top,,4625.84,,0.0,,Mumbai,,1663.88
+1360,Jeans,Boyfriend Jeans,,,1.13,0.0,2025/02/04,Delhi,,1316.73
+1361,T-Shirts,Classic Tee,,,,0.0,2025/01/03,Mumbai,B2C,528.8
+1362,T-Shirts,Classic Tee,-1.0,4953.02,,0.0,2024-12-07,Ahmedabad,B2C,-499.33
+1363,Dresses,Bodycon,6.0,,,0.0,,Mumbai,B2B,2143.4
+1364,T-Shirts,Classic Tee,,,0.01,0.0,,Ahmedabad,B2C,1839.35
+1365,Dresses,Maxi Dress,1.0,776.52,,0.0,,Delhi,B2C,2757.77
+1366,Dresses,Bodycon,,1927.12,0.44,0.0,2024/08/13,bengaluru,B2C,928.57
+1367,Accessories,Caps,,573.8,,0.0,2025/01/23,Ahmedabad,B2B,2546.35
+1368,T-Shirts,Classic Tee,4.0,4032.95,,0.0,,Ahmedabad,B2C,-20.09
+1369,Accessories,Caps,,,1.1,0.0,10-06-2025,hyderbad,,-844.78
+1370,Dresses,Bodycon,-2.0,2345.49,1.18,844.38,2024/11/24,Hyderabad,B2B,212.66
+1371,Jeans,Ripped Denim,,,,0.0,,Mumbai,B2B,72.96
+1372,Accessories,Sunglasses,1.0,,0.19,0.0,26-12-2024,Delhi,,418.89
+1373,Jackets,Leather Jacket,-2.0,3523.43,0.19,-5707.96,,Delhi,,-892.76
+1374,T-Shirts,Classic Tee,1.0,,,0.0,2024-02-13,Bangalore,,2519.16
+1375,Jeans,Straight Cut,3.0,420.42,,0.0,,Hyd,,1318.19
+1376,Accessories,Caps,4.0,1447.28,,0.0,2024-07-27,Hyderabad,B2B,175.33
+1377,Jackets,Denim Jacket,0.0,,0.65,0.0,,bengaluru,B2B,2229.95
+1378,Jackets,Puffer Coat,5.0,4581.26,1.18,-4123.13,22-01-2025,Bangalore,,-345.1
+1013,Jackets,Puffer Coat,2.0,,,0.0,2024/10/09,Delhi,,1647.38
+1380,Dresses,Bodycon,2.0,,,0.0,,Delhi,B2B,-475.94
+1381,Jeans,Ripped Denim,1.0,,1.07,0.0,2024-07-13,Bangalore,B2C,-136.3
+1382,Jeans,Boyfriend Jeans,-2.0,,,0.0,2024/09/14,Bangalore,B2B,-165.59
+1383,Dresses,Maxi Dress,5.0,2409.13,,0.0,2025/07/03,Pune,B2C,127.63
+1048,Shoes,Slip-ons,2.0,,,0.0,2024/12/31,Ahmedabad,,2393.99
+1385,Dresses,Wrap Dress,1.0,,,0.0,,Bangalore,B2C,2744.77
+1386,Shoes,Boots,5.0,4439.81,1.1,-2219.91,2024/11/12,Delhi,B2B,1669.09
+1387,Jackets,Puffer Coat,3.0,,,0.0,2024-08-03,Pune,,-505.47
+1388,Dresses,Casual Midi,4.0,,,0.0,2024-05-21,Delhi,B2C,475.79
+1389,Dresses,Wrap Dress,2.0,2742.38,,0.0,2023-07-25,Ahmedabad,,1987.46
+1390,Jeans,Slim Fit Jeans,4.0,,,0.0,,Pune,,1789.75
+1391,Shoes,Slip-ons,0.0,2213.79,0.01,0.0,2025/03/22,hyderbad,,418.24
+1014,Jeans,Ripped Denim,,784.1,,0.0,05-02-2025,Delhi,,401.24
+1393,Jackets,Bomber Jacket,6.0,,,0.0,,Hyderabad,B2C,2001.24
+1394,Jackets,Bomber Jacket,,1218.65,,0.0,2025-05-29,Hyd,B2C,2538.59
+1395,Dresses,Wrap Dress,,,,0.0,2024-04-11,Mumbai,B2B,-357.08
+1396,Jeans,Straight Cut,2.0,3663.65,0.26,5422.2,,Ahmedabad,B2B,1553.44
+1397,Jackets,Leather Jacket,,,,0.0,07-03-2025,Bangalore,B2C,1239.62
+1398,Dresses,Casual Midi,,,,0.0,2025/03/28,Hyderabad,,-43.7
+1399,Jackets,Denim Jacket,4.0,,0.35,0.0,2024-10-31,Delhi,B2C,-444.08
+1400,T-Shirts,Classic Tee,,,,0.0,2025-02-27,Delhi,,1385.55
+1401,T-Shirts,Classic Tee,-2.0,,,0.0,2024/10/05,Hyderabad,,-751.05
+1402,Accessories,Watches,,603.51,1.23,0.0,2025/01/16,hyderbad,B2C,982.01
+1403,T-Shirts,Crop Top,,,,0.0,2025/06/20,Hyd,,2210.07
+1404,Accessories,Watches,,3074.59,,0.0,,Bangalore,B2C,1979.07
+1405,Dresses,Maxi Dress,,,0.56,0.0,2024-05-05,Mumbai,B2C,2345.68
+1406,Dresses,Maxi Dress,,,,0.0,2025/01/18,Bangalore,,-863.17
+1407,T-Shirts,Graphic Tee,,4977.81,,0.0,2025/06/15,Ahmedabad,B2B,2041.12
+1408,Shoes,Boots,,,,0.0,2024-09-04,Mumbai,B2B,2305.32
+1409,Accessories,Caps,6.0,,,0.0,,Pune,B2C,-941.44
+1410,Jeans,Ripped Denim,6.0,4445.81,,0.0,,Delhi,,-654.59
+1411,Dresses,Wrap Dress,,4946.77,,0.0,,Mumbai,,1520.19
+1412,Shoes,Slip-ons,,,,0.0,2024-08-29,Hyderabad,B2C,2314.93
+1413,Dresses,Maxi Dress,1.0,,0.17,0.0,2025-06-04,Ahmedabad,B2C,1539.28
+1414,T-Shirts,Oversized T-shirt,,,,0.0,2025/07/08,Ahmedabad,,2843.55
+1415,Jackets,Puffer Coat,,3149.0,,0.0,,bengaluru,,2661.23
+1416,Accessories,Watches,,3527.15,,0.0,2023-11-23,Hyd,,2286.48
+1417,Dresses,Wrap Dress,,,,0.0,2024-08-11,Bangalore,B2B,888.59
+1418,Dresses,Bodycon,,,0.13,0.0,03-08-2024,Bangalore,B2B,1403.76
+1419,Jackets,Bomber Jacket,2.0,,,0.0,15-10-2024,Hyd,B2B,-565.17
+1420,Shoes,Loafers,,,0.96,0.0,2025-06-06,Ahmedabad,B2B,2790.42
+1421,T-Shirts,Classic Tee,0.0,,,0.0,15-07-2025,Ahmedabad,,575.19
+1422,Jeans,Boyfriend Jeans,,4466.49,,0.0,10-03-2025,Ahmedabad,B2B,2168.78
+1423,Jackets,Leather Jacket,,,,0.0,2025-02-22,Hyd,,1302.05
+1424,T-Shirts,Classic Tee,-1.0,538.6,1.18,96.95,2025/01/04,hyderbad,,752.81
+1425,Accessories,Caps,,1133.73,,0.0,2024/12/30,Pune,B2B,2604.14
+1426,Jeans,Ripped Denim,-2.0,3175.17,0.86,-889.05,,Hyderabad,B2B,2860.99
+1427,Shoes,Boots,,,,0.0,2025/06/18,Mumbai,B2C,2795.17
+1015,Jeans,Boyfriend Jeans,,,,0.0,2025/01/25,Delhi,,1869.46
+1429,Dresses,Bodycon,,3292.01,,0.0,2024/10/03,Delhi,B2B,-358.22
+1430,Jeans,Straight Cut,-2.0,,0.67,0.0,2025/05/12,Pune,B2C,2045.56
+1431,Accessories,Watches,,,,0.0,2025/04/29,Delhi,B2B,2191.02
+1432,Shoes,Sneakers,,,,0.0,2024-06-02,Ahmedabad,B2B,-849.15
+1433,T-Shirts,Oversized T-shirt,2.0,,0.7,0.0,04-01-2025,Mumbai,B2B,-878.85
+1434,Jeans,Boyfriend Jeans,0.0,476.2,1.03,0.0,2024-08-08,Hyderabad,B2C,-310.8
+1435,T-Shirts,Classic Tee,3.0,,,0.0,2025-04-16,Hyd,B2B,904.65
+1436,T-Shirts,Classic Tee,,,1.26,0.0,13-08-2024,Ahmedabad,B2C,1445.93
+1437,Jeans,Boyfriend Jeans,0.0,3886.3,0.34,0.0,2025/02/15,Delhi,B2C,131.48
+1438,Dresses,Wrap Dress,,2663.97,0.84,0.0,2023-09-17,Pune,,1014.29
+1439,T-Shirts,Graphic Tee,,,,0.0,,Ahmedabad,B2B,726.42
+1440,Dresses,Bodycon,0.0,635.12,0.32,0.0,22-07-2025,hyderbad,B2C,-476.72
+1441,Jeans,Slim Fit Jeans,,,,0.0,,bengaluru,,-316.51
+1442,Shoes,Slip-ons,0.0,3001.28,,0.0,2024-07-06,Delhi,B2C,1218.28
+1443,T-Shirts,Crop Top,,,,0.0,2024-07-11,Bangalore,,2962.6
+1444,Accessories,Watches,3.0,3452.16,,0.0,,Mumbai,,810.8
+1445,Jackets,Bomber Jacket,,1370.36,0.54,0.0,2025/06/19,Mumbai,B2C,2846.13
+1446,Shoes,Loafers,,2827.68,0.86,0.0,15-08-2024,Delhi,,-602.57
+1031,T-Shirts,Classic Tee,6.0,3792.09,,0.0,2023-12-03,Bangalore,B2C,194.31
+1448,Jeans,Slim Fit Jeans,,1657.95,,0.0,2023-12-09,Pune,B2B,1948.49
+1449,Jeans,Straight Cut,,2855.53,0.55,0.0,2025/02/19,Ahmedabad,B2C,2598.74
+1043,T-Shirts,Graphic Tee,4.0,,,0.0,2024-06-13,Delhi,B2C,-401.44
+1451,Shoes,Slip-ons,,620.64,,0.0,2025/05/24,hyderbad,,1553.39
+1452,Accessories,Sunglasses,-2.0,2660.28,0.34,-3511.57,,Delhi,B2C,918.54
+1453,Jeans,Straight Cut,0.0,,0.18,0.0,07-12-2024,Bangalore,B2B,1465.97
+1454,Accessories,Sunglasses,,4523.58,,0.0,2024/07/22,Pune,,2424.44
+1455,T-Shirts,Classic Tee,,,,0.0,2024-12-03,Delhi,,743.47
+1456,T-Shirts,Graphic Tee,2.0,,,0.0,2025/02/14,Bangalore,B2C,1350.12
+1457,Accessories,Watches,0.0,2342.25,,0.0,,bengaluru,B2B,750.64
+1458,Jackets,Puffer Coat,6.0,,0.27,0.0,,Mumbai,,1877.22
+1459,Accessories,Sunglasses,,2494.99,0.98,0.0,2024-01-17,Pune,,2959.95
+1460,Jackets,Leather Jacket,,4264.16,,0.0,12-10-2024,Delhi,B2B,921.96
+1461,Dresses,Casual Midi,,2708.35,1.06,0.0,,Hyd,B2C,941.87
+1462,Jackets,Puffer Coat,-1.0,,,0.0,2025/03/09,Delhi,B2C,372.63
+1463,Dresses,Wrap Dress,1.0,4606.09,1.12,-552.73,2025/06/17,Delhi,B2B,-877.13
+1464,Dresses,Wrap Dress,,,,0.0,06-05-2025,bengaluru,B2C,837.3
+1465,Accessories,Belts,-2.0,2215.4,0.96,-177.23,20-02-2025,Hyd,,-85.73
+1014,Dresses,Wrap Dress,,3172.11,,0.0,2023-09-07,Mumbai,B2C,673.33
+1030,Shoes,Sneakers,,3389.44,0.09,0.0,02-12-2024,Delhi,B2B,1663.45
+1468,T-Shirts,Graphic Tee,,3332.84,0.27,0.0,2023-08-15,Ahmedabad,,733.66
+1469,Dresses,Wrap Dress,,2665.7,0.49,0.0,2025/01/25,Bangalore,B2B,1644.72
+1470,T-Shirts,Oversized T-shirt,-1.0,1376.54,,0.0,,hyderbad,,0.59
+1471,Accessories,Belts,-2.0,4882.03,0.23,-7518.33,2023-08-21,Hyderabad,B2C,-605.67
+1472,Accessories,Belts,,,1.01,0.0,2024/10/26,Mumbai,B2C,-69.28
+1473,T-Shirts,Graphic Tee,,,0.08,0.0,,Bangalore,B2C,1769.11
+1474,Jackets,Denim Jacket,4.0,,,0.0,2025/01/24,Bangalore,B2C,1791.38
+1475,T-Shirts,Oversized T-shirt,-2.0,3692.25,,0.0,2024/11/11,Mumbai,B2C,433.87
+1476,Jeans,Ripped Denim,5.0,,0.57,0.0,2025-07-21,Bangalore,B2C,1476.41
+1477,Dresses,Bodycon,,2277.2,,0.0,02-04-2025,Hyd,,1295.82
+1478,Jackets,Denim Jacket,,2277.41,,0.0,2024-07-18,Ahmedabad,,-584.69
+1479,Dresses,Maxi Dress,1.0,,,0.0,,Ahmedabad,B2C,-575.87
+1480,Jackets,Denim Jacket,,755.42,,0.0,2024-05-08,Pune,,2956.26
+1481,Accessories,Watches,,,0.97,0.0,,Delhi,B2C,375.0
+1482,Shoes,Slip-ons,,1269.51,,0.0,2025-03-26,Ahmedabad,B2C,480.43
+1483,T-Shirts,Oversized T-shirt,,2347.19,,0.0,2024/10/12,Bangalore,,2870.3
+1484,Jackets,Bomber Jacket,2.0,818.68,,0.0,2023-12-29,Mumbai,,2357.74
+1485,Shoes,Sneakers,,,,0.0,06-08-2024,Hyderabad,B2B,672.88
+1486,Jeans,Ripped Denim,6.0,,,0.0,,Mumbai,B2B,2745.83
+1487,Accessories,Sunglasses,6.0,1234.08,0.71,2147.3,2024-03-15,Delhi,B2C,-849.81
+1488,Accessories,Caps,,4925.93,,0.0,27-04-2025,bengaluru,B2C,2121.2
+1489,Shoes,Sneakers,-2.0,,,0.0,08-05-2025,Pune,B2B,2102.2
+1490,T-Shirts,Classic Tee,1.0,,,0.0,2024/09/12,Delhi,,230.97
+1491,Shoes,Sneakers,1.0,,0.29,0.0,,Bangalore,B2B,2039.1
+1492,T-Shirts,Classic Tee,,,1.07,0.0,,Hyd,B2B,-308.83
+1493,Dresses,Wrap Dress,,,0.03,0.0,,hyderbad,,478.28
+1494,Jeans,Straight Cut,,4338.06,0.24,0.0,18-03-2025,Mumbai,,386.01
+1495,Accessories,Watches,,2261.49,,0.0,2024/11/05,bengaluru,B2C,2044.15
+1496,Jackets,Denim Jacket,-1.0,4874.76,,0.0,2024-12-29,Ahmedabad,B2B,2438.13
+1497,Accessories,Belts,,1461.5,,0.0,2024/08/22,Pune,B2C,1561.06
+1498,Jeans,Straight Cut,6.0,3771.67,,0.0,2024-10-01,Mumbai,B2C,2442.42
+1499,T-Shirts,Crop Top,2.0,,,0.0,,bengaluru,B2C,2116.52
+1500,Jeans,Straight Cut,,2128.74,,0.0,2024-10-23,Ahmedabad,B2B,-648.94
+1501,T-Shirts,Crop Top,-2.0,,0.65,0.0,,bengaluru,,-957.83
+1502,Dresses,Bodycon,,4260.95,,0.0,2024/09/16,Delhi,,-86.64
+1503,T-Shirts,Oversized T-shirt,2.0,4621.79,0.32,6285.63,18-05-2025,Delhi,B2C,1350.48
+1504,Shoes,Loafers,2.0,2558.43,,0.0,2024/11/08,bengaluru,B2B,-360.49
+1048,Accessories,Watches,,1316.64,,0.0,2023-08-13,Bangalore,B2C,1390.52
+1506,T-Shirts,Crop Top,,,,0.0,2025/06/13,Bangalore,B2C,1406.62
+1507,Jackets,Puffer Coat,,3597.73,,0.0,2024/09/25,Delhi,,-857.53
+1508,Dresses,Bodycon,-1.0,,,0.0,26-08-2024,Ahmedabad,,1796.35
+1509,Dresses,Bodycon,,,0.28,0.0,2024/10/19,bengaluru,,1333.87
+1510,T-Shirts,Graphic Tee,,1897.11,,0.0,04-05-2025,Delhi,B2C,-345.3
+1511,Jackets,Puffer Coat,,,0.93,0.0,2024/11/10,Hyderabad,B2B,-521.84
+1512,Accessories,Sunglasses,,,,0.0,2024-06-15,Delhi,B2C,352.91
+1513,Jackets,Leather Jacket,6.0,,,0.0,2024-04-20,Delhi,B2C,156.52
+1514,T-Shirts,Oversized T-shirt,,2343.72,,0.0,2025/06/02,Mumbai,,-760.9
+1515,Accessories,Sunglasses,3.0,4596.03,,0.0,2025/07/01,Delhi,,-866.29
+1516,Dresses,Casual Midi,-1.0,1039.31,0.94,-62.36,,Ahmedabad,B2B,-104.79
+1517,Jeans,Slim Fit Jeans,,4944.25,,0.0,05-10-2024,Ahmedabad,B2B,-157.21
+1518,Jeans,Slim Fit Jeans,,706.71,,0.0,2025/06/23,Delhi,,-285.44
+1519,Accessories,Belts,1.0,3762.86,,0.0,2024/10/17,Mumbai,B2B,2567.73
+1520,T-Shirts,Crop Top,4.0,,0.71,0.0,2025/04/30,Mumbai,,-822.18
+1521,Jeans,Straight Cut,,2362.03,1.27,0.0,2025/05/11,hyderbad,,-943.46
+1522,Accessories,Sunglasses,6.0,,0.44,0.0,2024-07-30,bengaluru,B2B,547.09
+1523,T-Shirts,Oversized T-shirt,-2.0,,0.13,0.0,2023-12-16,Ahmedabad,B2B,1475.12
+1524,Dresses,Wrap Dress,,,0.47,0.0,15-07-2025,Hyd,B2C,2668.06
+1525,Accessories,Watches,5.0,4591.26,,0.0,03-01-2025,Hyderabad,B2B,-602.8
+1526,Shoes,Sneakers,2.0,1884.25,,0.0,2024/10/11,Bangalore,,1177.57
+1527,Jeans,Slim Fit Jeans,,3431.26,,0.0,2023-08-15,Bangalore,B2C,1931.28
+1026,T-Shirts,Crop Top,0.0,,,0.0,2023-10-31,Delhi,,2916.18
+1529,T-Shirts,Classic Tee,,3381.7,,0.0,2025-03-18,Delhi,,2953.76
+1530,Jackets,Denim Jacket,6.0,,,0.0,30-09-2024,Hyd,B2C,1451.55
+1531,Jeans,Ripped Denim,,,0.37,0.0,11-06-2025,Ahmedabad,B2B,-173.83
+1532,T-Shirts,Oversized T-shirt,,,0.33,0.0,2023-08-29,Mumbai,B2B,2512.66
+1533,Dresses,Bodycon,,3965.94,,0.0,11-12-2024,Mumbai,,-759.07
+1534,T-Shirts,Graphic Tee,,,,0.0,2025/04/25,Delhi,B2B,-836.06
+1535,Accessories,Caps,,720.35,,0.0,2023-12-22,Bangalore,,1359.17
+1536,Dresses,Bodycon,1.0,,,0.0,2025/05/13,Delhi,B2B,1966.62
+1537,Jeans,Ripped Denim,-1.0,,0.9,0.0,,Bangalore,,68.26
+1538,Dresses,Bodycon,,4767.61,0.01,0.0,,Ahmedabad,B2B,-956.8
+1539,Jeans,Straight Cut,,2891.64,,0.0,,Mumbai,,2309.23
+1540,Jackets,Puffer Coat,,,,0.0,2025/01/06,Ahmedabad,,815.28
+1541,Accessories,Caps,,2989.4,,0.0,2025/03/29,Mumbai,B2C,-530.72
+1542,Jackets,Bomber Jacket,1.0,2044.17,,0.0,,Pune,,-798.37
+1543,Dresses,Bodycon,1.0,4440.24,0.32,3019.36,,Ahmedabad,B2B,1884.06
+1544,Dresses,Maxi Dress,6.0,,,0.0,,Bangalore,,87.47
+1545,Dresses,Casual Midi,1.0,,,0.0,2025-06-19,Hyd,B2B,2526.29
+1546,T-Shirts,Oversized T-shirt,,,,0.0,03-09-2024,Ahmedabad,,1978.16
+1547,Dresses,Maxi Dress,6.0,,0.95,0.0,2025-05-15,Pune,B2B,1018.03
+1548,Jackets,Bomber Jacket,,2273.15,,0.0,,Ahmedabad,B2C,-701.47
+1549,Accessories,Sunglasses,,2465.23,0.42,0.0,,bengaluru,,256.3
+1550,Jackets,Leather Jacket,1.0,,0.1,0.0,2024/10/01,Pune,B2C,2195.27
+1551,Jackets,Leather Jacket,,2656.77,1.05,0.0,,Mumbai,B2C,2293.08
+1552,Shoes,Slip-ons,,883.76,,0.0,,Ahmedabad,,-572.62
+1553,Accessories,Belts,1.0,,,0.0,,Hyd,B2C,2824.43
+1554,Shoes,Loafers,,2345.71,,0.0,2025/04/22,Pune,,2041.71
+1555,Accessories,Belts,,,,0.0,,Bangalore,B2C,312.38
+1556,Jeans,Boyfriend Jeans,,453.92,,0.0,2024/12/02,Bangalore,B2B,2308.01
+1557,Jackets,Puffer Coat,,4402.4,,0.0,2025/01/12,Hyderabad,B2C,-594.21
+1558,T-Shirts,Graphic Tee,-2.0,,,0.0,2023-12-13,Pune,,300.17
+1559,Jackets,Leather Jacket,,,0.09,0.0,,Mumbai,B2C,-548.18
+1560,Accessories,Caps,,,0.71,0.0,2025/01/14,Hyd,B2B,574.85
+1561,Shoes,Sneakers,4.0,,,0.0,2025/01/11,Delhi,,2513.24
+1562,Accessories,Caps,,,,0.0,,Hyd,B2B,930.14
+1563,Dresses,Maxi Dress,5.0,1571.12,0.65,2749.46,,Ahmedabad,,103.28
+1564,Jeans,Boyfriend Jeans,2.0,,0.67,0.0,,Pune,B2C,-953.17
+1565,Accessories,Caps,,1867.24,0.19,0.0,2025/05/04,Pune,B2B,784.96
+1566,Jackets,Puffer Coat,,1696.72,,0.0,2024/08/12,Ahmedabad,B2B,953.07
+1567,Accessories,Belts,,,,0.0,,hyderbad,,2545.25
+1568,Jeans,Ripped Denim,6.0,,,0.0,,Delhi,B2C,2403.01
+1569,Dresses,Maxi Dress,1.0,,0.02,0.0,2025-04-26,Ahmedabad,,576.66
+1570,Jackets,Leather Jacket,1.0,4774.77,0.96,190.99,08-04-2025,Mumbai,B2C,-146.17
+1571,Jackets,Denim Jacket,3.0,1308.06,,0.0,,Pune,B2C,-246.91
+1572,Jackets,Leather Jacket,4.0,,0.82,0.0,19-02-2025,Delhi,,534.6
+1573,Jeans,Ripped Denim,,3972.78,,0.0,2024/12/01,hyderbad,,-902.58
+1574,Accessories,Belts,-1.0,,,0.0,13-03-2025,Ahmedabad,B2B,-803.35
+1575,T-Shirts,Graphic Tee,,615.07,,0.0,01-10-2024,Ahmedabad,,638.16
+1576,Jackets,Denim Jacket,1.0,1882.14,0.6,752.86,05-01-2025,Ahmedabad,B2B,2554.79
+1010,Dresses,Casual Midi,2.0,3134.69,0.07,5830.52,,Delhi,,555.44
+1578,Dresses,Maxi Dress,,,,0.0,2024-07-26,bengaluru,B2C,2604.12
+1579,Shoes,Boots,3.0,,,0.0,18-02-2025,Hyd,B2B,-155.77
+1580,Dresses,Wrap Dress,,,,0.0,22-06-2025,Hyd,B2B,-364.57
+1581,Jeans,Straight Cut,,,,0.0,26-06-2025,Delhi,,1109.06
+1582,Jeans,Slim Fit Jeans,1.0,4809.9,0.92,384.79,28-09-2024,Mumbai,,-356.01
+1583,Dresses,Casual Midi,,,,0.0,2024-03-29,Pune,B2B,829.03
+1584,Dresses,Bodycon,5.0,,0.15,0.0,27-08-2024,Ahmedabad,B2B,2853.8
+1585,Shoes,Sneakers,-2.0,2738.72,0.89,-602.52,2024-11-11,Delhi,,-709.13
+1586,Shoes,Loafers,,,0.78,0.0,2024/08/04,Pune,B2B,1765.79
+1587,Shoes,Loafers,-1.0,,,0.0,,Mumbai,B2C,1376.9
+1588,Accessories,Sunglasses,1.0,,,0.0,2025/05/03,Delhi,B2B,526.32
+1589,Shoes,Loafers,,527.07,0.45,0.0,,Mumbai,B2C,2617.99
+1590,Dresses,Maxi Dress,6.0,,0.67,0.0,,Bangalore,B2B,-104.43
+1591,T-Shirts,Graphic Tee,,,,0.0,2025/05/31,Mumbai,,158.05
+1592,Shoes,Sneakers,5.0,,0.52,0.0,2024-12-31,Mumbai,,619.25
+1593,T-Shirts,Graphic Tee,,,,0.0,2025/03/05,Mumbai,,2598.93
+1594,Jeans,Straight Cut,,3784.99,,0.0,,Bangalore,,346.37
+1595,Dresses,Bodycon,,,,0.0,20-07-2025,Mumbai,B2C,1483.7
+1596,Jackets,Puffer Coat,3.0,738.29,,0.0,2024/09/23,Ahmedabad,B2B,-871.38
+1597,T-Shirts,Crop Top,1.0,657.51,0.77,151.23,2024/08/04,Delhi,B2C,2744.32
+1598,Jackets,Denim Jacket,,3311.31,,0.0,,Pune,B2B,2944.25
+1599,Jackets,Bomber Jacket,,,,0.0,2025-04-03,Mumbai,,790.51
+1600,Accessories,Watches,,,,0.0,2023-08-18,Ahmedabad,B2B,-605.06
+1601,Accessories,Belts,,,,0.0,07-08-2024,Mumbai,B2B,1282.26
+1602,Dresses,Wrap Dress,,4256.43,,0.0,2025-05-27,bengaluru,,2472.73
+1603,Jackets,Bomber Jacket,,,1.05,0.0,,Ahmedabad,,2700.72
+1604,T-Shirts,Graphic Tee,,,,0.0,17-09-2024,Bangalore,B2B,2976.74
+1605,Accessories,Watches,0.0,,0.47,0.0,04-01-2025,hyderbad,B2C,-339.59
+1606,T-Shirts,Graphic Tee,6.0,,,0.0,06-02-2025,Delhi,,-527.18
+1607,Shoes,Loafers,,4941.27,,0.0,2023-10-08,Delhi,B2C,515.06
+1608,Shoes,Slip-ons,3.0,3536.61,0.79,2228.06,2025-02-20,Mumbai,B2C,-55.01
+1609,Shoes,Loafers,4.0,,,0.0,17-07-2025,Hyd,B2C,-939.39
+1610,Jeans,Straight Cut,5.0,,,0.0,2025-05-29,hyderbad,B2B,-361.65
+1611,T-Shirts,Graphic Tee,,,1.07,0.0,08-11-2024,Delhi,,-351.41
+1612,Jackets,Puffer Coat,5.0,1010.24,,0.0,2025/02/26,Pune,,2174.98
+1613,Accessories,Watches,1.0,1575.26,,0.0,2025/01/08,Delhi,B2C,-641.72
+1614,Accessories,Sunglasses,-1.0,,,0.0,17-04-2025,Mumbai,,319.85
+1615,Dresses,Casual Midi,6.0,4962.7,0.02,29180.68,2023-08-04,Hyd,B2C,61.6
+1616,Shoes,Loafers,,4443.82,,0.0,2023-10-13,bengaluru,B2C,1611.45
+1617,Jeans,Boyfriend Jeans,,1144.47,,0.0,2024-03-10,Pune,B2C,-863.76
+1618,Dresses,Wrap Dress,,,0.85,0.0,2023-08-24,Mumbai,B2B,2113.08
+1619,Jeans,Straight Cut,,1470.99,0.7,0.0,2024-12-14,Bangalore,B2B,-668.13
+1620,Dresses,Maxi Dress,6.0,,1.17,0.0,2024/09/16,Delhi,,1796.21
+1621,T-Shirts,Classic Tee,6.0,639.67,,0.0,28-09-2024,Hyd,B2B,1599.1
+1622,Shoes,Slip-ons,1.0,,,0.0,,bengaluru,B2C,-880.92
+1033,T-Shirts,Classic Tee,,3369.55,,0.0,07-01-2025,Pune,B2C,1927.24
+1624,Jeans,Slim Fit Jeans,5.0,977.2,,0.0,,Pune,B2B,1003.06
+1625,Accessories,Watches,0.0,735.97,0.26,0.0,25-12-2024,Delhi,,1690.22
+1626,Dresses,Maxi Dress,,4695.15,,0.0,,Pune,B2C,1584.44
+1004,Jeans,Ripped Denim,6.0,987.35,,0.0,2025/02/04,Mumbai,B2B,-108.36
+1628,Dresses,Bodycon,1.0,3345.58,0.26,2475.73,2024-04-15,Hyd,,2274.54
+1629,Shoes,Boots,,829.14,,0.0,,Ahmedabad,B2C,2172.06
+1630,Jeans,Ripped Denim,,2393.14,1.0,0.0,2023-09-09,bengaluru,,715.08
+1631,Dresses,Casual Midi,,,,0.0,2025-06-13,Hyd,B2C,186.7
+1632,Jackets,Bomber Jacket,,2618.69,0.11,0.0,2024/11/25,Pune,B2C,130.89
+1633,Jackets,Bomber Jacket,,4599.41,,0.0,2024-12-25,Delhi,B2B,182.46
+1634,Jackets,Puffer Coat,,,,0.0,2025/04/01,Ahmedabad,B2B,108.15
+1635,Accessories,Caps,,,,0.0,16-08-2024,Delhi,B2C,857.97
+1636,Jackets,Denim Jacket,-2.0,,,0.0,2025/06/09,Pune,B2C,2569.59
+1637,Shoes,Slip-ons,,2644.73,,0.0,,Delhi,B2B,1402.25
+1638,Jeans,Boyfriend Jeans,,,0.54,0.0,11-04-2025,Mumbai,,2346.22
+1639,Jeans,Boyfriend Jeans,,4183.22,,0.0,2025-07-02,Bangalore,,532.81
+1640,Accessories,Belts,,,,0.0,03-12-2024,Pune,B2C,1823.75
+1641,Accessories,Caps,,1278.98,0.54,0.0,2025/06/22,Ahmedabad,B2C,34.99
+1642,Jackets,Denim Jacket,3.0,,,0.0,2024-09-10,hyderbad,B2C,2906.72
+1643,Shoes,Boots,-1.0,,0.35,0.0,24-09-2024,Bangalore,B2B,2589.43
+1644,Dresses,Wrap Dress,,,,0.0,,Hyd,B2C,1343.06
+1645,T-Shirts,Classic Tee,-2.0,2660.45,0.22,-4150.3,2023-10-08,bengaluru,B2B,-825.82
+1646,Jeans,Ripped Denim,0.0,3393.47,0.38,0.0,2025/02/07,Ahmedabad,,925.07
+1647,Shoes,Boots,,498.95,1.19,0.0,2025/06/29,Mumbai,B2C,-433.87
+1648,Jackets,Bomber Jacket,,,,0.0,2025/03/30,Mumbai,B2B,-952.5
+1649,Shoes,Boots,,,0.06,0.0,2025/01/09,hyderbad,B2B,-640.58
+1650,Dresses,Wrap Dress,2.0,,0.96,0.0,2024/11/21,Mumbai,,1943.2
+1651,Shoes,Sneakers,3.0,,0.05,0.0,,Mumbai,,-551.78
+1652,Dresses,Maxi Dress,,2375.56,0.59,0.0,,hyderbad,,2699.88
+1653,Jackets,Denim Jacket,,2563.6,0.88,0.0,14-06-2025,Mumbai,B2B,516.95
+1654,Accessories,Caps,1.0,,,0.0,2024/08/19,Ahmedabad,B2B,1433.43
+1655,Jeans,Boyfriend Jeans,5.0,1385.86,0.71,2009.5,2025/06/01,Mumbai,B2C,1839.94
+1656,Shoes,Slip-ons,,,,0.0,2024/12/21,Delhi,,1872.27
+1657,Jeans,Ripped Denim,,,,0.0,2024/08/16,Bangalore,B2B,2507.93
+1658,Jackets,Puffer Coat,,,,0.0,2025/04/03,bengaluru,,2996.16
+1659,Shoes,Sneakers,,1014.86,0.31,0.0,,Pune,B2C,-379.55
+1660,Jeans,Slim Fit Jeans,,,1.1,0.0,2025/03/21,Mumbai,B2B,2345.37
+1661,Shoes,Boots,-2.0,,,0.0,2024/12/07,Bangalore,,49.2
+1662,Accessories,Belts,6.0,,0.96,0.0,,Ahmedabad,B2C,665.51
+1663,Shoes,Loafers,3.0,,,0.0,10-08-2024,Bangalore,,2091.53
+1664,Shoes,Boots,-1.0,,,0.0,2025-05-20,Hyd,,844.94
+1665,T-Shirts,Crop Top,,4504.03,,0.0,23-03-2025,Delhi,B2C,1488.95
+1666,Jeans,Straight Cut,,973.63,,0.0,2024-11-13,Delhi,B2C,-148.67
+1667,Shoes,Sneakers,,4021.0,,0.0,2024/11/02,Mumbai,B2B,2323.66
+1668,Jeans,Boyfriend Jeans,,2534.08,,0.0,22-10-2024,hyderbad,,941.2
+1669,Shoes,Boots,0.0,1838.63,,0.0,,Pune,B2C,-524.25
+1670,T-Shirts,Classic Tee,,,0.69,0.0,2024-08-14,hyderbad,B2B,462.22
+1671,Jeans,Slim Fit Jeans,,4417.34,,0.0,30-11-2024,Ahmedabad,B2B,-72.28
+1672,Accessories,Belts,5.0,,,0.0,,Delhi,B2B,-587.27
+1673,Accessories,Watches,,3992.21,0.67,0.0,,Mumbai,,617.12
+1674,Jeans,Straight Cut,,,0.19,0.0,2025/05/04,Bangalore,,-680.26
+1675,Dresses,Casual Midi,,,,0.0,2025-05-01,Mumbai,B2C,340.43
+1676,Dresses,Maxi Dress,0.0,4351.82,,0.0,,Bangalore,,1818.14
+1677,Jackets,Bomber Jacket,,4639.86,0.69,0.0,2023-10-10,Hyderabad,,1323.79
+1048,Accessories,Watches,4.0,1429.93,,0.0,14-11-2024,Ahmedabad,B2B,1844.84
+1679,T-Shirts,Classic Tee,1.0,4198.5,,0.0,2024-07-21,Pune,,2518.86
+1680,Jeans,Straight Cut,,,,0.0,2024-09-26,Ahmedabad,B2B,2873.92
+1681,Dresses,Maxi Dress,,,0.26,0.0,2024-02-15,Ahmedabad,B2B,-579.16
+1682,Accessories,Sunglasses,5.0,4307.08,1.26,-5599.2,28-12-2024,Delhi,B2C,961.46
+1683,Jeans,Ripped Denim,,1743.64,,0.0,,Pune,B2C,32.33
+1684,Dresses,Maxi Dress,-2.0,3537.97,0.26,-5236.2,2024/08/05,bengaluru,,1385.75
+1685,Dresses,Bodycon,4.0,,,0.0,,Hyderabad,B2B,1108.04
+1686,Jeans,Boyfriend Jeans,1.0,,0.06,0.0,,Pune,,718.58
+1687,Jackets,Denim Jacket,,,,0.0,2025/07/12,hyderbad,,1132.23
+1688,Accessories,Watches,,4177.86,,0.0,,Hyd,,2610.69
+1689,T-Shirts,Oversized T-shirt,,1193.48,,0.0,,Pune,,2629.51
+1690,Jackets,Puffer Coat,5.0,1941.39,0.54,4465.2,2025-03-04,Delhi,B2C,206.95
+1691,Shoes,Boots,6.0,2878.51,,0.0,2025/04/18,Mumbai,,2503.51
+1692,T-Shirts,Oversized T-shirt,,2509.38,0.67,0.0,02-10-2024,Ahmedabad,B2C,39.25
+1693,Jackets,Leather Jacket,1.0,,,0.0,2024/09/27,bengaluru,B2C,2028.4
+1694,Jeans,Boyfriend Jeans,,,,0.0,05-02-2025,hyderbad,B2B,264.6
+1695,Jackets,Leather Jacket,,3785.14,,0.0,,Mumbai,B2C,-982.7
+1696,Shoes,Sneakers,,532.47,,0.0,,Mumbai,B2B,666.49
+1697,Accessories,Belts,2.0,1758.97,,0.0,12-02-2025,Delhi,,2026.97
+1698,Shoes,Loafers,,2111.87,,0.0,2024-07-29,hyderbad,B2C,-621.0
+1699,Shoes,Sneakers,6.0,701.16,,0.0,09-02-2025,Delhi,B2C,2632.17
+1700,T-Shirts,Oversized T-shirt,,3332.06,0.47,0.0,2024/10/28,Mumbai,,1969.67
+1701,Dresses,Wrap Dress,2.0,3402.47,1.05,-340.25,,Ahmedabad,,1713.45
+1702,Shoes,Sneakers,,792.36,,0.0,29-03-2025,Ahmedabad,,990.35
+1703,Jeans,Slim Fit Jeans,,,0.92,0.0,2025/01/30,Pune,B2B,-96.41
+1704,T-Shirts,Classic Tee,,,0.47,0.0,2024/09/21,bengaluru,B2B,2611.36
+1705,Shoes,Sneakers,-2.0,4170.76,,0.0,2025-05-12,bengaluru,,826.76
+1706,Jackets,Denim Jacket,5.0,4827.89,0.84,3862.31,,Ahmedabad,B2C,2824.1
+1707,Jackets,Puffer Coat,6.0,,,0.0,,Mumbai,B2B,1903.2
+1708,Accessories,Sunglasses,0.0,,0.55,0.0,2025/06/05,Delhi,,1400.39
+1709,Jackets,Denim Jacket,5.0,1717.79,,0.0,2024-09-28,Ahmedabad,B2B,2264.16
+1710,Accessories,Watches,-1.0,,0.45,0.0,2024-10-11,Ahmedabad,B2C,-333.46
+1711,Accessories,Watches,,2685.92,,0.0,20-10-2024,Pune,B2B,2804.29
+1712,Accessories,Belts,-1.0,2386.58,,0.0,2024/08/14,Pune,B2B,1879.59
+1713,T-Shirts,Graphic Tee,,,,0.0,2024/11/01,Pune,B2C,832.34
+1714,T-Shirts,Graphic Tee,,,,0.0,,hyderbad,B2C,-746.03
+1715,Accessories,Watches,,3863.51,,0.0,2025/05/19,Mumbai,B2C,-830.55
+1716,Dresses,Casual Midi,,980.17,,0.0,23-07-2024,Mumbai,B2B,275.05
+1717,T-Shirts,Crop Top,4.0,1279.2,0.27,3735.26,2024-11-15,Delhi,B2C,453.7
+1718,Jackets,Denim Jacket,5.0,3988.99,,0.0,2025-05-25,hyderbad,B2C,1430.08
+1719,Jeans,Boyfriend Jeans,3.0,4407.79,0.64,4760.41,2025-03-15,Delhi,B2B,1150.06
+1720,Jackets,Leather Jacket,3.0,3667.54,0.57,4731.13,2023-07-31,Ahmedabad,B2B,459.43
+1721,Dresses,Wrap Dress,,,,0.0,10-10-2024,Delhi,B2C,788.55
+1722,Jackets,Bomber Jacket,,,0.85,0.0,,Mumbai,B2C,1010.08
+1723,Dresses,Bodycon,4.0,,0.2,0.0,2025/06/19,Ahmedabad,B2B,351.59
+1724,Jeans,Ripped Denim,,2047.6,0.92,0.0,2024-09-21,Bangalore,B2B,123.78
+1725,Dresses,Maxi Dress,3.0,671.5,,0.0,2024/08/13,Hyderabad,B2B,1938.72
+1726,Dresses,Bodycon,5.0,1363.51,1.26,-1772.56,2025/02/03,Bangalore,B2C,2854.74
+1727,Accessories,Watches,5.0,,0.76,0.0,,Mumbai,,1252.83
+1728,Shoes,Loafers,1.0,733.15,0.27,535.2,2025/01/25,Ahmedabad,B2B,273.12
+1729,Jeans,Boyfriend Jeans,,416.58,,0.0,,Bangalore,B2B,-765.44
+1730,Dresses,Wrap Dress,0.0,3933.55,,0.0,09-01-2025,bengaluru,B2C,2728.66
+1731,Jackets,Leather Jacket,,,1.0,0.0,2024/08/28,Mumbai,,2108.61
+1732,Dresses,Wrap Dress,5.0,4982.68,,0.0,2023-11-06,Mumbai,B2B,2239.42
+1733,Jackets,Bomber Jacket,-2.0,721.25,,0.0,2025-01-29,Delhi,,-936.38
+1734,Jackets,Leather Jacket,0.0,,,0.0,2025-01-30,Hyderabad,,-461.7
+1735,Jackets,Puffer Coat,4.0,,1.06,0.0,28-12-2024,Mumbai,,2607.43
+1736,Jackets,Puffer Coat,,1144.47,0.09,0.0,2024-08-07,bengaluru,B2B,1236.62
+1737,Dresses,Casual Midi,5.0,2220.47,,0.0,,Pune,B2C,-156.87
+1738,T-Shirts,Classic Tee,,1171.19,,0.0,2025-02-10,Ahmedabad,B2C,2205.44
+1739,Jackets,Denim Jacket,3.0,963.18,,0.0,01-01-2025,Mumbai,B2B,-114.6
+1740,Jeans,Slim Fit Jeans,2.0,,,0.0,2025-06-24,Ahmedabad,B2B,796.49
+1741,T-Shirts,Graphic Tee,1.0,1762.56,0.98,35.25,2024-01-13,Ahmedabad,B2B,1217.93
+1742,Jeans,Ripped Denim,,,0.03,0.0,,Bangalore,B2C,-222.56
+1743,T-Shirts,Crop Top,,,,0.0,2025/05/05,Pune,B2C,1490.6
+1744,Shoes,Boots,,,,0.0,2024-04-07,Mumbai,B2C,1939.6
+1745,T-Shirts,Graphic Tee,4.0,,0.43,0.0,2024-07-17,Bangalore,,723.22
+1746,Jeans,Slim Fit Jeans,,,0.37,0.0,2023-09-07,bengaluru,,2037.45
+1747,T-Shirts,Oversized T-shirt,,405.37,,0.0,,Pune,B2C,375.4
+1748,Dresses,Wrap Dress,,,,0.0,2024-09-12,Ahmedabad,B2B,1687.82
+1749,Shoes,Loafers,,4499.39,,0.0,2025/03/27,Delhi,B2C,17.49
+1750,Dresses,Maxi Dress,,2653.9,0.56,0.0,15-07-2025,Bangalore,B2B,2394.02
+1751,Jackets,Puffer Coat,,,,0.0,,Pune,,59.73
+1752,Jeans,Slim Fit Jeans,5.0,2177.2,,0.0,,Pune,B2B,-341.7
+1753,Jackets,Puffer Coat,-2.0,,,0.0,2023-07-30,Ahmedabad,,1848.5
+1754,Accessories,Caps,,,0.57,0.0,11-03-2025,Delhi,,1945.55
+1755,Shoes,Sneakers,,,0.76,0.0,,hyderbad,B2B,-255.22
+1756,Shoes,Loafers,5.0,,,0.0,2025/01/15,Mumbai,B2C,1627.12
+1757,Jeans,Slim Fit Jeans,2.0,3405.13,0.91,612.92,,Bangalore,,1804.47
+1758,Shoes,Sneakers,,1307.64,0.18,0.0,2025-03-06,Mumbai,B2B,-122.33
+1759,T-Shirts,Crop Top,0.0,,,0.0,2024-12-28,Ahmedabad,,-278.65
+1760,Accessories,Watches,3.0,4326.6,,0.0,2025-01-06,Ahmedabad,B2B,1495.82
+1761,Jackets,Leather Jacket,3.0,,0.37,0.0,05-09-2024,Mumbai,B2B,2989.57
+1762,Jackets,Puffer Coat,,1364.9,0.17,0.0,08-11-2024,Delhi,,1591.99
+1763,Shoes,Slip-ons,2.0,1874.56,,0.0,,Pune,,1906.32
+1029,Jackets,Bomber Jacket,3.0,4343.12,,0.0,2025/06/17,Hyderabad,B2C,2997.11
+1765,Jeans,Straight Cut,6.0,1016.5,,0.0,21-02-2025,Mumbai,B2C,-420.11
+1766,Jackets,Denim Jacket,0.0,3589.19,,0.0,2025-06-30,Mumbai,,1880.22
+1767,Dresses,Maxi Dress,,2151.92,,0.0,2025-07-12,Mumbai,B2B,2383.83
+1768,Shoes,Slip-ons,5.0,3548.22,,0.0,2023-07-26,Mumbai,B2B,2960.22
+1769,Jackets,Leather Jacket,,,1.0,0.0,30-11-2024,Delhi,B2C,989.57
+1770,Dresses,Maxi Dress,0.0,,,0.0,2023-09-28,Pune,,2366.97
+1771,Shoes,Slip-ons,-1.0,730.48,,0.0,2025/01/07,hyderbad,B2C,-162.02
+1772,Jeans,Boyfriend Jeans,,,0.38,0.0,2025/06/08,Ahmedabad,B2C,545.03
+1773,Accessories,Watches,,444.82,0.51,0.0,,hyderbad,B2C,1838.59
+1774,Accessories,Sunglasses,3.0,4137.43,,0.0,2025/04/30,Ahmedabad,B2C,895.53
+1775,T-Shirts,Graphic Tee,,,1.01,0.0,,Ahmedabad,,2275.55
+1776,Shoes,Boots,4.0,4684.98,,0.0,,Pune,B2C,-360.88
+1777,Dresses,Wrap Dress,,,,0.0,2024-04-19,Delhi,B2B,1292.09
+1778,T-Shirts,Crop Top,5.0,2716.57,,0.0,04-10-2024,Mumbai,B2C,2059.98
+1779,Jeans,Boyfriend Jeans,,,,0.0,2024-10-03,Hyderabad,,1861.39
+1780,Jackets,Leather Jacket,,,,0.0,21-06-2025,Delhi,B2B,2756.02
+1781,Dresses,Casual Midi,,,,0.0,22-02-2025,Mumbai,,213.46
+1782,Jackets,Denim Jacket,6.0,,,0.0,2024-02-28,Mumbai,B2B,1802.32
+1783,Jackets,Denim Jacket,,,0.93,0.0,01-08-2024,hyderbad,,34.35
+1784,T-Shirts,Crop Top,4.0,2068.05,,0.0,2024/10/08,Mumbai,B2C,-379.91
+1785,T-Shirts,Oversized T-shirt,3.0,4103.0,,0.0,27-05-2025,Hyd,B2C,567.89
+1786,Shoes,Sneakers,,,1.11,0.0,27-03-2025,Pune,,1462.24
+1787,Accessories,Caps,6.0,,,0.0,16-11-2024,Delhi,B2C,1294.0
+1014,Jeans,Slim Fit Jeans,5.0,2951.4,,0.0,13-11-2024,Delhi,,2811.87
+1789,Jackets,Bomber Jacket,,1433.92,0.11,0.0,2025/04/24,Hyderabad,B2C,315.07
+1790,Jackets,Bomber Jacket,1.0,3268.42,,0.0,2025/05/16,Delhi,B2C,259.67
+1791,Dresses,Casual Midi,,2123.69,0.69,0.0,2024/12/29,Bangalore,B2C,2894.66
+1792,Jeans,Boyfriend Jeans,,,0.83,0.0,08-02-2025,Mumbai,B2B,-116.82
+1793,Dresses,Maxi Dress,5.0,1887.84,,0.0,21-08-2024,Ahmedabad,B2C,1275.03
+1794,Jackets,Denim Jacket,,,,0.0,10-06-2025,bengaluru,B2B,2115.26
+1795,Accessories,Caps,,,,0.0,2025-04-22,Hyd,B2C,301.5
+1796,Dresses,Maxi Dress,-1.0,,0.94,0.0,,Pune,,-851.0
+1797,Dresses,Casual Midi,,4305.02,,0.0,2025/01/06,Ahmedabad,,2296.37
+1798,Shoes,Boots,,2490.16,,0.0,21-07-2025,Mumbai,,905.43
+1799,Shoes,Boots,,1101.5,0.81,0.0,,Mumbai,,-967.63
+1800,Jackets,Puffer Coat,6.0,,0.93,0.0,23-01-2025,Mumbai,B2B,855.26
+1801,Shoes,Sneakers,-2.0,,,0.0,23-04-2025,Bangalore,B2C,1463.67
+1802,Shoes,Slip-ons,-1.0,,,0.0,20-02-2025,Delhi,,-618.71
+1803,Accessories,Sunglasses,,,,0.0,,Mumbai,,409.58
+1804,Dresses,Maxi Dress,,,,0.0,2025/05/02,Mumbai,,1896.92
+1036,Accessories,Sunglasses,1.0,1534.98,,0.0,2024-08-01,bengaluru,B2B,2042.17
+1806,Dresses,Maxi Dress,1.0,,,0.0,07-02-2025,Pune,B2C,1003.57
+1807,Jeans,Boyfriend Jeans,4.0,2308.12,,0.0,2025/06/03,bengaluru,B2C,362.88
+1808,T-Shirts,Oversized T-shirt,,4582.21,0.7,0.0,,bengaluru,B2B,-67.84
+1809,Dresses,Wrap Dress,,3799.39,0.76,0.0,2024/11/06,Bangalore,,-599.61
+1810,Accessories,Sunglasses,,,0.39,0.0,2025/04/29,Mumbai,B2B,-148.03
+1811,Shoes,Boots,2.0,,0.99,0.0,2024-07-19,Bangalore,,1662.7
+1812,Jackets,Denim Jacket,,,,0.0,26-01-2025,Delhi,B2B,-36.38
+1813,Jackets,Leather Jacket,0.0,,,0.0,13-07-2025,Ahmedabad,B2B,1718.02
+1814,T-Shirts,Oversized T-shirt,,,,0.0,29-12-2024,Delhi,B2B,2724.05
+1815,Dresses,Casual Midi,,,,0.0,29-05-2025,bengaluru,,1057.36
+1816,T-Shirts,Graphic Tee,1.0,1130.83,0.84,180.93,2023-07-28,Hyderabad,,-804.96
+1817,Shoes,Slip-ons,,2964.88,1.28,0.0,2024/08/17,Mumbai,,591.28
+1818,Accessories,Belts,-1.0,3449.33,0.43,-1966.12,,Delhi,B2C,601.45
+1819,Accessories,Watches,6.0,1761.18,,0.0,,Mumbai,B2B,2069.36
+1820,T-Shirts,Graphic Tee,5.0,1965.04,,0.0,2023-07-25,Pune,,20.89
+1821,Jackets,Leather Jacket,,,0.65,0.0,,Ahmedabad,B2C,403.42
+1822,Jackets,Bomber Jacket,,938.86,0.05,0.0,2024-07-06,Hyderabad,B2C,-824.79
+1823,T-Shirts,Oversized T-shirt,,3887.15,,0.0,27-06-2025,Ahmedabad,B2C,2088.25
+1824,Accessories,Watches,0.0,4146.27,1.29,0.0,2024-02-24,Hyd,B2B,2397.93
+1825,Jackets,Bomber Jacket,6.0,982.65,,0.0,,Mumbai,B2B,2186.63
+1826,T-Shirts,Crop Top,6.0,,,0.0,27-11-2024,Delhi,B2B,413.87
+1827,Jeans,Straight Cut,,3109.74,,0.0,,Mumbai,,-828.23
+1828,Dresses,Maxi Dress,,4427.94,0.25,0.0,22-08-2024,Mumbai,,-476.77
+1829,Shoes,Sneakers,,,,0.0,2024-02-29,Delhi,B2B,1019.58
+1830,Dresses,Casual Midi,,,,0.0,17-08-2024,Pune,,602.58
+1831,Shoes,Loafers,,895.34,,0.0,16-08-2024,bengaluru,B2B,2150.1
+1832,Shoes,Loafers,,,0.43,0.0,2024/09/11,Ahmedabad,B2C,708.3
+1833,Dresses,Wrap Dress,3.0,3051.77,1.19,-1739.51,2025/01/29,hyderbad,B2B,2470.55
+1834,Jackets,Denim Jacket,0.0,,0.94,0.0,2025-05-15,Ahmedabad,B2C,-663.74
+1835,Jeans,Ripped Denim,0.0,,0.51,0.0,2024-08-08,Hyd,,1851.02
+1836,Jeans,Straight Cut,,2105.94,0.16,0.0,,Ahmedabad,B2B,1782.55
+1006,Jackets,Leather Jacket,4.0,,,0.0,2025/04/15,Mumbai,B2B,1663.32
+1838,Dresses,Bodycon,-2.0,,,0.0,17-11-2024,Pune,,1657.14
+1839,T-Shirts,Classic Tee,,2067.64,,0.0,,bengaluru,B2B,-276.17
+1840,Accessories,Watches,0.0,1462.1,0.3,0.0,2024/07/23,Ahmedabad,B2B,59.79
+1841,Jackets,Puffer Coat,,,,0.0,2025/03/31,Delhi,B2C,-780.96
+1842,Jackets,Leather Jacket,,,0.11,0.0,10-03-2025,hyderbad,B2C,2041.06
+1843,Dresses,Casual Midi,-2.0,,0.06,0.0,08-06-2025,hyderbad,B2B,406.45
+1844,Accessories,Sunglasses,,,,0.0,2025/07/04,Delhi,B2C,1910.76
+1845,T-Shirts,Crop Top,,,0.12,0.0,2025/02/02,Pune,B2C,1013.64
+1846,Accessories,Sunglasses,-1.0,694.71,,0.0,2025/01/26,Ahmedabad,B2B,2991.27
+1847,Dresses,Bodycon,,1334.66,1.29,0.0,2025/05/16,Bangalore,,2897.72
+1848,T-Shirts,Graphic Tee,-1.0,,,0.0,2024/12/08,Delhi,B2C,-56.68
+1849,T-Shirts,Oversized T-shirt,,927.04,,0.0,,Ahmedabad,B2C,880.71
+1850,Accessories,Belts,,1307.27,1.27,0.0,2023-08-05,hyderbad,,1757.18
+1851,Jeans,Slim Fit Jeans,5.0,1505.0,,0.0,2024/12/11,bengaluru,B2B,-29.76
+1852,T-Shirts,Graphic Tee,,1985.55,0.13,0.0,2024-04-26,Ahmedabad,B2C,1754.79
+1853,Accessories,Watches,3.0,2862.48,,0.0,2023-09-15,Ahmedabad,B2B,2555.84
+1854,Jeans,Boyfriend Jeans,,3822.93,1.07,0.0,,hyderbad,B2B,40.2
+1855,T-Shirts,Crop Top,5.0,3870.85,,0.0,03-02-2025,bengaluru,B2C,2313.58
+1856,Dresses,Wrap Dress,1.0,2737.23,,0.0,08-05-2025,Mumbai,B2B,2855.35
+1857,Accessories,Watches,,,,0.0,2024/11/20,Mumbai,,-564.27
+1858,Jeans,Ripped Denim,,3647.61,,0.0,2025/03/07,Mumbai,B2B,1789.65
+1859,Accessories,Sunglasses,4.0,1442.86,0.85,865.72,10-04-2025,hyderbad,B2B,1183.93
+1860,Dresses,Maxi Dress,3.0,,1.15,0.0,,Bangalore,B2B,57.35
+1861,Jackets,Bomber Jacket,,,,0.0,2025/01/24,Ahmedabad,B2B,-934.61
+1862,Dresses,Casual Midi,5.0,4739.66,,0.0,,Delhi,B2C,-315.41
+1863,Shoes,Sneakers,,3521.17,0.79,0.0,2024-05-07,Ahmedabad,B2B,612.84
+1864,Accessories,Caps,4.0,1570.06,,0.0,2024-02-20,Delhi,,1017.26
+1865,Jackets,Leather Jacket,2.0,2496.81,,0.0,2024-04-19,hyderbad,,28.7
+1866,T-Shirts,Graphic Tee,4.0,4471.17,0.6,7153.87,2025-04-23,Pune,B2C,1335.92
+1867,Dresses,Bodycon,,1892.54,0.09,0.0,14-02-2025,Ahmedabad,B2C,-702.11
+1868,Shoes,Boots,,,,0.0,13-08-2024,Delhi,B2B,182.74
+1869,Jackets,Denim Jacket,,,,0.0,,Ahmedabad,B2C,75.28
+1870,Shoes,Sneakers,,1870.68,,0.0,,Pune,,2695.81
+1871,Dresses,Wrap Dress,,,,0.0,23-10-2024,bengaluru,B2C,-431.93
+1872,T-Shirts,Graphic Tee,1.0,3381.64,0.48,1758.45,,Delhi,,953.93
+1873,Jackets,Bomber Jacket,,,,0.0,2024-06-23,Delhi,,-632.25
+1874,Shoes,Slip-ons,5.0,2847.02,,0.0,2024-03-27,Ahmedabad,,-573.97
+1875,Accessories,Watches,,,,0.0,20-08-2024,Pune,B2C,1125.5
+1876,Shoes,Loafers,,,0.32,0.0,2025/03/28,Mumbai,,986.09
+1877,T-Shirts,Crop Top,-1.0,,,0.0,2025/06/28,Pune,B2B,1149.23
+1878,Dresses,Maxi Dress,4.0,,,0.0,06-05-2025,bengaluru,B2C,2247.49
+1879,Accessories,Belts,0.0,444.11,,0.0,2024-09-12,Ahmedabad,B2C,2762.27
+1880,Accessories,Watches,1.0,772.97,0.9,77.3,2024/10/10,Pune,B2B,843.81
+1881,Shoes,Slip-ons,3.0,1772.6,,0.0,28-06-2025,Bangalore,B2B,993.92
+1882,Jackets,Denim Jacket,,1622.79,,0.0,2025/06/23,Delhi,B2C,1020.63
+1883,Jeans,Straight Cut,-1.0,4350.86,,0.0,,Pune,B2B,2845.42
+1884,Shoes,Slip-ons,6.0,,,0.0,2025/07/22,Delhi,B2C,-856.25
+1885,T-Shirts,Classic Tee,0.0,,,0.0,2025/01/12,Delhi,B2B,-571.28
+1886,Accessories,Sunglasses,6.0,1229.1,,0.0,,Hyderabad,B2C,1005.96
+1887,T-Shirts,Classic Tee,3.0,,,0.0,2025/04/28,Ahmedabad,B2B,111.88
+1888,Shoes,Sneakers,6.0,,0.39,0.0,,Mumbai,B2B,-80.61
+1889,Dresses,Maxi Dress,,3948.83,,0.0,2024-06-15,Pune,,1935.77
+1890,Accessories,Belts,2.0,3772.51,,0.0,,bengaluru,B2B,792.89
+1891,T-Shirts,Crop Top,,2727.86,,0.0,2024/08/17,Ahmedabad,B2C,849.07
+1892,Jeans,Slim Fit Jeans,,,1.14,0.0,,Delhi,B2B,330.14
+1893,Accessories,Watches,,4456.45,,0.0,,Delhi,B2B,870.63
+1894,Jackets,Leather Jacket,2.0,2793.89,,0.0,2023-08-22,Hyd,B2B,-512.73
+1003,Jeans,Ripped Denim,-2.0,,,0.0,2025/03/25,Pune,B2B,2368.7
+1896,T-Shirts,Oversized T-shirt,5.0,4829.85,,0.0,,Hyd,B2B,2993.71
+1897,Jeans,Straight Cut,,,0.34,0.0,31-03-2025,Hyderabad,B2C,499.61
+1898,T-Shirts,Classic Tee,5.0,776.98,,0.0,2024/12/17,Mumbai,B2C,2977.35
+1899,Shoes,Sneakers,,,,0.0,,Delhi,B2C,500.04
+1900,T-Shirts,Oversized T-shirt,3.0,,,0.0,17-09-2024,Delhi,,959.32
+1901,Accessories,Belts,4.0,781.91,1.2,-625.53,2025/04/26,Pune,,1002.98
+1007,Accessories,Caps,0.0,3402.85,0.63,0.0,,Pune,,1333.09
+1903,Dresses,Maxi Dress,-1.0,,0.08,0.0,2025/04/17,Mumbai,,1264.02
+1904,Jeans,Ripped Denim,-1.0,1339.18,,0.0,13-07-2025,bengaluru,B2C,554.93
+1905,Dresses,Bodycon,,759.78,,0.0,,Pune,B2B,2254.82
+1906,Dresses,Bodycon,-1.0,,,0.0,2025/07/15,bengaluru,,406.55
+1907,Jackets,Puffer Coat,,,,0.0,07-12-2024,hyderbad,,305.87
+1908,Jeans,Boyfriend Jeans,,,,0.0,,Hyd,,205.56
+1909,Accessories,Sunglasses,1.0,3114.13,,0.0,2025-05-22,Pune,B2B,2743.54
+1910,T-Shirts,Oversized T-shirt,0.0,2155.16,,0.0,22-02-2025,Ahmedabad,B2B,425.89
+1911,Jeans,Ripped Denim,6.0,2357.7,,0.0,2024/08/17,Ahmedabad,,1901.07
+1912,Accessories,Belts,,,,0.0,,Pune,B2C,2721.15
+1913,Accessories,Watches,5.0,,,0.0,,Mumbai,B2C,1490.96
+1914,Jeans,Boyfriend Jeans,6.0,3661.49,0.11,19552.36,2025/07/10,Pune,,-527.32
+1915,Accessories,Sunglasses,,,,0.0,2024-03-16,Delhi,B2B,944.36
+1916,Dresses,Maxi Dress,,2117.07,0.13,0.0,29-01-2025,Delhi,,2423.24
+1917,Shoes,Slip-ons,2.0,,,0.0,04-12-2024,Ahmedabad,,1173.48
+1918,Dresses,Bodycon,,581.49,,0.0,2024-01-06,Ahmedabad,,-714.88
+1919,Dresses,Maxi Dress,,1460.71,,0.0,,Ahmedabad,B2C,2917.9
+1920,Jackets,Denim Jacket,,4141.23,,0.0,17-09-2024,Mumbai,,1455.81
+1921,Accessories,Watches,,4224.31,,0.0,,hyderbad,B2B,2660.84
+1922,Dresses,Wrap Dress,,,,0.0,2025/02/05,Delhi,,-616.36
+1923,Jackets,Puffer Coat,,3865.62,,0.0,2025/05/30,bengaluru,,-56.4
+1924,Jeans,Boyfriend Jeans,,2999.49,,0.0,2024-01-13,Ahmedabad,,-988.45
+1925,Accessories,Caps,,1429.24,,0.0,2024/11/08,Delhi,,2081.78
+1926,Shoes,Slip-ons,-2.0,2533.37,,0.0,2024/08/04,Bangalore,B2C,-490.96
+1927,T-Shirts,Classic Tee,5.0,,,0.0,2025/04/30,Hyd,B2B,1844.54
+1928,Dresses,Casual Midi,-2.0,,,0.0,2024-05-26,Delhi,B2B,2676.77
+1929,Accessories,Watches,-2.0,3618.48,,0.0,,Delhi,B2B,1383.46
+1930,Jeans,Boyfriend Jeans,,3017.82,,0.0,,Ahmedabad,B2B,1257.1
+1931,Jeans,Boyfriend Jeans,-1.0,,,0.0,,Pune,,1820.4
+1932,T-Shirts,Crop Top,,436.31,,0.0,2023-10-10,Pune,B2B,1632.83
+1933,Jackets,Leather Jacket,,1403.41,,0.0,,Pune,B2B,635.85
+1934,Jeans,Straight Cut,,3369.03,,0.0,2024-09-17,Hyderabad,,-144.96
+1935,Jackets,Puffer Coat,6.0,,,0.0,28-12-2024,Mumbai,,2390.71
+1936,Jeans,Ripped Denim,5.0,804.78,,0.0,10-01-2025,Ahmedabad,,1109.21
+1937,Accessories,Watches,4.0,643.24,,0.0,2025/05/18,Ahmedabad,B2C,1670.97
+1938,Jackets,Puffer Coat,4.0,,0.34,0.0,29-05-2025,hyderbad,B2C,-528.58
+1939,Jackets,Leather Jacket,,,0.99,0.0,02-07-2025,bengaluru,B2B,693.96
+1940,Dresses,Bodycon,,3428.02,,0.0,03-11-2024,Mumbai,B2B,-881.03
+1941,Shoes,Loafers,4.0,,,0.0,2025/01/09,Ahmedabad,,-298.48
+1942,Jackets,Puffer Coat,,3710.07,0.83,0.0,13-01-2025,Mumbai,B2C,2682.86
+1943,Shoes,Sneakers,4.0,3153.49,,0.0,,Ahmedabad,,763.19
+1944,Jeans,Boyfriend Jeans,-1.0,3227.22,,0.0,,Mumbai,,597.81
+1945,Jeans,Ripped Denim,,2803.56,1.05,0.0,2024/12/05,Delhi,,-624.79
+1946,Jeans,Ripped Denim,,2355.36,,0.0,2025/03/10,Delhi,B2B,2397.33
+1947,Jeans,Straight Cut,,,0.2,0.0,2024/12/16,Mumbai,B2C,1608.36
+1948,Jeans,Slim Fit Jeans,,2755.59,1.06,0.0,2025/03/06,Ahmedabad,B2C,1058.83
+1949,Shoes,Slip-ons,,4000.18,0.89,0.0,,Mumbai,,713.58
+1950,Dresses,Maxi Dress,0.0,2270.65,0.0,0.0,2024-05-01,Ahmedabad,B2C,2324.34
+1951,Shoes,Loafers,2.0,2390.43,0.35,3107.56,2024/10/05,Delhi,,-634.86
+1952,Jeans,Ripped Denim,5.0,,,0.0,2024-03-14,Pune,B2C,2835.63
+1953,Jackets,Bomber Jacket,,,,0.0,16-12-2024,Mumbai,B2B,1996.25
+1954,Jeans,Ripped Denim,-2.0,2315.78,,0.0,2025/05/26,Ahmedabad,,2501.64
+1955,Shoes,Sneakers,1.0,2787.46,0.92,223.0,11-01-2025,Mumbai,B2B,2909.73
+1956,Jackets,Puffer Coat,,,,0.0,04-01-2025,Bangalore,B2B,-850.76
+1957,Accessories,Watches,,494.81,,0.0,2023-11-26,Hyd,,-35.32
+1958,T-Shirts,Crop Top,,3068.38,,0.0,2024-07-29,bengaluru,,2376.68
+1959,Jackets,Denim Jacket,,3805.09,,0.0,,Ahmedabad,,-476.0
+1960,Shoes,Slip-ons,2.0,1369.81,0.67,904.07,16-11-2024,Pune,B2B,1179.44
+1961,Jackets,Denim Jacket,,2204.39,,0.0,2024-03-23,Pune,B2B,-546.19
+1962,Shoes,Sneakers,-2.0,,,0.0,2023-12-07,Delhi,B2B,1408.3
+1963,Shoes,Boots,,1935.29,,0.0,21-08-2024,Mumbai,B2B,-114.47
+1964,T-Shirts,Oversized T-shirt,-2.0,,,0.0,,bengaluru,B2B,2202.28
+1965,Dresses,Bodycon,0.0,,,0.0,01-02-2025,Pune,B2B,2663.36
+1966,Shoes,Loafers,,,,0.0,,Pune,B2B,2887.5
+1967,T-Shirts,Graphic Tee,,,,0.0,,Ahmedabad,B2B,1310.86
+1968,Jackets,Puffer Coat,5.0,,,0.0,2025/07/17,bengaluru,,-168.76
+1969,Jeans,Slim Fit Jeans,,2153.57,,0.0,2024-11-16,Mumbai,B2C,1200.02
+1970,Jackets,Denim Jacket,6.0,,,0.0,,Pune,,1016.11
+1971,Accessories,Sunglasses,0.0,4746.52,,0.0,2024/12/03,Mumbai,B2B,1981.22
+1972,Jackets,Bomber Jacket,-1.0,,,0.0,2024-08-21,Delhi,B2C,-161.86
+1973,Accessories,Caps,,,,0.0,2025-03-29,Pune,B2C,838.06
+1974,Jeans,Ripped Denim,,3286.66,,0.0,,Ahmedabad,B2B,1019.91
+1975,T-Shirts,Classic Tee,,3853.49,,0.0,,Mumbai,B2B,77.2
+1976,Jeans,Ripped Denim,,4363.08,,0.0,2025/05/26,Delhi,B2C,-16.09
+1977,T-Shirts,Oversized T-shirt,2.0,4126.29,,0.0,,Mumbai,,-578.63
+1978,T-Shirts,Classic Tee,4.0,,,0.0,2024-08-18,Mumbai,,-120.11
+1979,Dresses,Bodycon,-2.0,4375.7,0.91,-787.63,13-06-2025,Bangalore,B2B,250.46
+1980,Accessories,Caps,1.0,1426.73,,0.0,2023-10-08,Pune,B2C,2451.99
+1981,Dresses,Maxi Dress,0.0,,,0.0,,Delhi,B2B,1171.65
+1982,Dresses,Wrap Dress,,3701.72,,0.0,,Ahmedabad,,1936.33
+1983,Jackets,Bomber Jacket,,2348.26,,0.0,09-04-2025,Bangalore,B2B,358.59
+1984,Dresses,Maxi Dress,,,1.25,0.0,2024/09/20,bengaluru,B2B,881.47
+1985,Shoes,Boots,,1668.18,0.63,0.0,2024/12/12,Delhi,,-553.53
+1986,Dresses,Casual Midi,0.0,,0.06,0.0,2025-01-15,hyderbad,,2806.51
+1987,Accessories,Belts,,,0.8,0.0,2025/01/10,hyderbad,,2732.84
+1988,Shoes,Boots,,,,0.0,25-03-2025,Bangalore,B2B,-298.07
+1989,T-Shirts,Crop Top,,,,0.0,24-03-2025,Ahmedabad,,2646.08
+1990,Jeans,Boyfriend Jeans,-1.0,1203.45,,0.0,2025/04/27,Delhi,B2C,1184.36
+1991,Jackets,Leather Jacket,,2808.46,0.67,0.0,,Mumbai,B2C,1592.37
+1992,T-Shirts,Classic Tee,,,0.72,0.0,,Bangalore,B2B,2416.37
+1993,Shoes,Boots,0.0,,,0.0,2023-10-14,Pune,B2C,937.22
+1994,Jeans,Ripped Denim,-1.0,1010.48,,0.0,26-07-2024,Hyderabad,B2C,2321.53
+1995,Jackets,Leather Jacket,4.0,,,0.0,2025-03-05,Delhi,B2C,1815.94
+1996,Accessories,Watches,,,,0.0,30-04-2025,Mumbai,,1145.05
+1997,Jackets,Puffer Coat,4.0,,0.53,0.0,2025/03/10,Delhi,B2C,141.76
+1998,T-Shirts,Classic Tee,5.0,2567.59,,0.0,2023-10-04,Delhi,B2C,-702.7
+1999,Shoes,Slip-ons,,,0.81,0.0,26-04-2025,Hyd,B2C,938.71
+2000,Jackets,Leather Jacket,-1.0,1966.21,,0.0,16-08-2024,bengaluru,,2035.1
+2001,Dresses,Wrap Dress,1.0,,,0.0,,Mumbai,B2C,1592.62
+2002,T-Shirts,Crop Top,,1335.29,,0.0,27-11-2024,Ahmedabad,B2C,1372.9
+2003,Jackets,Denim Jacket,,2910.84,,0.0,12-10-2024,Ahmedabad,B2C,-304.63
+2004,Jackets,Bomber Jacket,-1.0,,,0.0,2024/11/09,Mumbai,B2B,1452.85
+2005,Jeans,Straight Cut,,,,0.0,2024/09/24,Delhi,,559.6
+2006,Accessories,Caps,,1283.62,,0.0,,Ahmedabad,B2C,541.27
+2007,Jackets,Leather Jacket,3.0,3413.11,0.9,1023.93,,Hyd,B2B,-440.8
+2008,Dresses,Maxi Dress,3.0,1284.36,,0.0,,Ahmedabad,B2C,108.58
+2009,Jeans,Straight Cut,,3385.59,0.02,0.0,16-08-2024,bengaluru,B2B,-927.71
+2010,T-Shirts,Graphic Tee,-1.0,3630.24,,0.0,17-10-2024,Ahmedabad,,-194.42
+2011,Shoes,Slip-ons,1.0,3989.68,,0.0,31-03-2025,Mumbai,B2C,999.35
+2012,T-Shirts,Oversized T-shirt,,2674.79,0.8,0.0,2025/03/21,Ahmedabad,B2C,537.3
+2013,Shoes,Sneakers,,,,0.0,2025-05-19,Mumbai,B2C,644.42
+2014,Jackets,Leather Jacket,2.0,,,0.0,,Delhi,,763.62
+2015,Dresses,Casual Midi,,,,0.0,19-03-2025,Delhi,B2B,182.23
+2016,Shoes,Boots,-2.0,1435.85,,0.0,2025-05-09,hyderbad,B2B,317.58
+2017,Jeans,Ripped Denim,,3549.93,,0.0,,Ahmedabad,B2C,652.09
+2018,Jeans,Ripped Denim,5.0,,0.91,0.0,2024/09/16,Mumbai,B2C,-730.39
+2019,Jeans,Straight Cut,2.0,1797.91,,0.0,2025/01/23,Ahmedabad,B2C,2132.08
+2020,Jeans,Straight Cut,-2.0,3954.73,0.3,-5536.62,11-05-2025,Bangalore,,-78.22
+2021,Shoes,Sneakers,,4178.18,1.27,0.0,2023-08-15,Mumbai,,2952.52
+2022,Shoes,Loafers,,3094.77,,0.0,09-06-2025,Pune,B2B,2340.79
+2023,Shoes,Boots,3.0,618.18,,0.0,,Ahmedabad,B2C,404.9
+2024,Dresses,Casual Midi,4.0,4220.2,,0.0,2023-12-14,Delhi,B2C,2488.92
+2025,Accessories,Watches,4.0,,,0.0,2025-04-03,Delhi,B2B,1259.95
+2026,Shoes,Sneakers,,,,0.0,2025/06/04,Ahmedabad,,83.33
+2027,Shoes,Slip-ons,5.0,2734.95,0.17,11350.04,2025-01-04,Mumbai,B2C,-657.03
+2028,Jackets,Leather Jacket,2.0,,,0.0,14-09-2024,Bangalore,B2B,2393.48
+2029,Jackets,Bomber Jacket,6.0,,,0.0,2024-11-29,Bangalore,B2B,2374.9
+2030,Dresses,Wrap Dress,1.0,1354.69,,0.0,11-12-2024,Hyderabad,B2C,-710.56
+2031,Dresses,Maxi Dress,,,,0.0,2025/06/24,Delhi,,2655.01
+2032,Accessories,Sunglasses,,4910.91,1.12,0.0,2023-08-15,Hyderabad,B2B,1419.21
+2033,Dresses,Casual Midi,6.0,,,0.0,,hyderbad,B2B,63.41
+2034,Accessories,Sunglasses,6.0,3080.12,0.26,13675.73,2025-06-23,Hyderabad,B2C,-678.89
+2035,Dresses,Maxi Dress,0.0,2516.6,,0.0,22-04-2025,Ahmedabad,B2C,2860.05
+2036,T-Shirts,Graphic Tee,-2.0,,0.72,0.0,,Ahmedabad,,106.67
+2037,Shoes,Boots,1.0,1120.52,,0.0,2025/07/11,Hyd,B2B,-523.32
+2038,T-Shirts,Oversized T-shirt,,,,0.0,2024-03-16,Hyd,,2548.6
+2039,Jackets,Puffer Coat,,1802.43,,0.0,,hyderbad,B2B,644.27
+2040,Dresses,Bodycon,,,0.34,0.0,2024/08/27,Hyderabad,B2C,-838.24
+2041,Dresses,Bodycon,,854.8,,0.0,23-11-2024,Delhi,B2C,400.41
+2042,T-Shirts,Classic Tee,3.0,,,0.0,,Mumbai,B2C,80.86
+2043,T-Shirts,Crop Top,,,0.74,0.0,2025/05/24,Bangalore,B2C,647.81
+2044,Accessories,Belts,,2912.48,0.39,0.0,09-05-2025,Mumbai,B2C,565.53
+2045,Jackets,Puffer Coat,-1.0,473.68,,0.0,,Hyd,B2C,-108.72
+2046,Accessories,Watches,6.0,,0.6,0.0,2023-11-12,Mumbai,B2C,1657.74
+2047,Jeans,Boyfriend Jeans,,,,0.0,2025/04/20,Mumbai,B2C,238.33
+2048,Shoes,Slip-ons,,1469.13,0.11,0.0,04-10-2024,Ahmedabad,B2C,665.1
+2049,Shoes,Loafers,-1.0,2462.92,,0.0,,Delhi,B2B,825.06
+2050,T-Shirts,Oversized T-shirt,1.0,4234.28,1.03,-127.03,2024-06-14,Mumbai,B2B,2931.9
+2051,Accessories,Sunglasses,2.0,1234.27,,0.0,28-02-2025,Pune,B2B,-911.71
+2052,Dresses,Maxi Dress,3.0,4971.74,,0.0,2024-05-31,Bangalore,,1386.13
+2053,Accessories,Belts,,,,0.0,28-07-2024,Pune,B2B,-940.51
+2054,Jeans,Boyfriend Jeans,1.0,1254.77,0.62,476.81,,hyderbad,B2B,2605.15
+2055,Jeans,Slim Fit Jeans,,677.9,0.15,0.0,,Hyd,,-503.02
+2056,Dresses,Wrap Dress,0.0,,0.7,0.0,2023-09-15,Ahmedabad,B2B,2544.92
+2057,Jeans,Ripped Denim,-1.0,,,0.0,31-10-2024,Mumbai,B2B,17.96
+2058,T-Shirts,Classic Tee,6.0,,,0.0,2024/10/08,Ahmedabad,B2B,-248.49
+2059,Accessories,Sunglasses,3.0,1193.03,,0.0,2025/03/07,Mumbai,B2B,-876.83
+2060,T-Shirts,Oversized T-shirt,,3725.58,,0.0,16-10-2024,Pune,,2544.55
+2061,Shoes,Boots,,2077.82,,0.0,2025-03-06,Pune,,2769.01
+2062,Dresses,Casual Midi,4.0,2975.64,,0.0,29-07-2024,Hyderabad,,-644.2
+2063,T-Shirts,Oversized T-shirt,5.0,,,0.0,2024/10/22,Pune,,2549.09
+2064,Accessories,Sunglasses,,702.86,,0.0,31-10-2024,Pune,B2C,577.7
+2065,T-Shirts,Crop Top,4.0,3590.4,,0.0,22-08-2024,bengaluru,,-86.57
+2066,Jeans,Straight Cut,0.0,,,0.0,,Mumbai,B2C,2532.65
+2067,Dresses,Wrap Dress,,2975.33,,0.0,2025-04-02,hyderbad,,1035.45
+2068,Shoes,Slip-ons,,,1.0,0.0,2024-01-04,Delhi,,999.95
+2069,T-Shirts,Graphic Tee,,3266.05,,0.0,27-07-2024,Mumbai,B2C,1188.89
+2070,Accessories,Sunglasses,-1.0,,,0.0,10-03-2025,Mumbai,B2B,614.38
+2071,Shoes,Slip-ons,,,0.98,0.0,2025/06/26,Mumbai,B2C,1522.69
+2072,Dresses,Casual Midi,,,,0.0,01-05-2025,hyderbad,,-670.22
+2073,Shoes,Slip-ons,3.0,1596.02,,0.0,,Ahmedabad,B2C,-217.87
+2074,Accessories,Caps,4.0,,,0.0,08-10-2024,bengaluru,B2C,2628.09
+2075,Jackets,Puffer Coat,0.0,,,0.0,,bengaluru,B2B,1501.9
+2076,Shoes,Sneakers,,1151.07,,0.0,21-05-2025,bengaluru,B2B,854.02
+2077,T-Shirts,Oversized T-shirt,,,,0.0,,Pune,B2C,1082.36
+2078,T-Shirts,Classic Tee,,1760.85,,0.0,2025-05-31,Pune,,-542.71
+2079,Accessories,Belts,2.0,2778.14,1.21,-1166.82,,Ahmedabad,B2B,516.66
+2080,Accessories,Watches,3.0,4672.35,,0.0,,Delhi,B2B,991.5
+2081,T-Shirts,Crop Top,,2809.88,,0.0,2025/07/12,Ahmedabad,B2B,1063.07
+2082,Jackets,Leather Jacket,5.0,,1.15,0.0,2024-04-29,Mumbai,,-208.43
+2083,Shoes,Slip-ons,,2105.74,0.34,0.0,2025/02/22,Delhi,B2C,-907.84
+2084,Jackets,Puffer Coat,6.0,4068.82,,0.0,2025-04-03,Ahmedabad,B2B,719.55
+2085,Jackets,Denim Jacket,,,,0.0,2024/09/19,Hyderabad,,212.87
+1015,T-Shirts,Classic Tee,,,,0.0,,Pune,B2C,2811.88
+2087,Dresses,Wrap Dress,,2610.84,,0.0,2024-07-28,Bangalore,B2C,-904.51
+2088,Shoes,Sneakers,,,,0.0,2025/01/13,Mumbai,B2C,1353.01
+2089,Accessories,Caps,,1571.58,1.17,0.0,2023-09-23,Hyd,B2B,1195.34
+2090,Accessories,Caps,,940.71,,0.0,2025/03/20,Delhi,,1317.26
+2091,Dresses,Casual Midi,,1323.61,,0.0,2025/05/04,Delhi,B2C,-63.42
+2092,Shoes,Boots,,4459.2,,0.0,2025/03/23,Delhi,,1008.2
+2093,T-Shirts,Classic Tee,,3163.95,,0.0,2025/01/20,Mumbai,,1267.01
+2094,Dresses,Bodycon,5.0,,,0.0,,Mumbai,B2C,-769.25
+2095,T-Shirts,Classic Tee,,3809.95,1.29,0.0,2024-10-07,Bangalore,B2B,1252.1
+2096,Jeans,Ripped Denim,,3906.15,1.19,0.0,,Bangalore,B2B,2500.02
+2097,T-Shirts,Classic Tee,3.0,,0.64,0.0,09-04-2025,Mumbai,B2C,2870.13
+2098,Jackets,Bomber Jacket,,431.18,,0.0,2025/02/20,Pune,,-183.75
+2099,T-Shirts,Crop Top,,1806.81,1.1,0.0,2024-10-16,Ahmedabad,,591.13
+2100,Shoes,Slip-ons,-1.0,1528.94,0.67,-504.55,2025/01/26,Delhi,B2B,2294.33
+2101,Jeans,Boyfriend Jeans,,1020.85,,0.0,2024-06-22,Ahmedabad,B2B,-881.4
+2102,Dresses,Maxi Dress,,2581.29,,0.0,2024-11-21,Hyd,B2B,2300.14
+2103,Jeans,Slim Fit Jeans,3.0,,0.56,0.0,,Ahmedabad,,-244.29
+2104,T-Shirts,Graphic Tee,,2211.06,0.26,0.0,29-06-2025,hyderbad,,2143.54
+2105,Shoes,Slip-ons,-1.0,3643.63,0.19,-2951.34,2025/04/07,Mumbai,B2C,375.4
+2106,Dresses,Wrap Dress,4.0,4312.21,,0.0,2024-04-22,Delhi,B2C,552.97
+2107,Dresses,Wrap Dress,,2686.05,,0.0,04-01-2025,Hyd,B2C,2643.46
+2108,Jeans,Straight Cut,0.0,2538.3,,0.0,2025/05/18,Mumbai,B2B,-820.5
+2109,Jeans,Boyfriend Jeans,,1901.86,,0.0,,Pune,B2C,-906.34
+2110,T-Shirts,Classic Tee,,,1.21,0.0,,Mumbai,,2891.52
+2111,Shoes,Boots,,1934.02,,0.0,2025/07/16,Delhi,B2B,897.11
+2112,Jeans,Ripped Denim,0.0,3248.14,0.18,0.0,,Pune,B2B,1536.06
+2113,Dresses,Casual Midi,,,,0.0,,Delhi,B2B,2500.56
+2114,Dresses,Maxi Dress,,,,0.0,03-03-2025,Mumbai,,1393.12
+2115,Jeans,Straight Cut,,,,0.0,2025/02/22,Ahmedabad,B2C,2100.4
+2116,Accessories,Caps,2.0,,,0.0,2024/09/15,Ahmedabad,B2B,87.1
+2117,Dresses,Maxi Dress,,4767.37,,0.0,18-09-2024,Delhi,B2B,2319.14
+2118,Dresses,Wrap Dress,3.0,3952.46,0.82,2134.33,2025/04/20,bengaluru,B2C,836.99
+2119,Shoes,Loafers,,537.77,0.05,0.0,2024/11/16,bengaluru,B2C,2205.16
+2120,Accessories,Watches,,3321.05,1.05,0.0,2024-05-07,hyderbad,,-196.89
+2121,Jeans,Boyfriend Jeans,2.0,1209.8,,0.0,2024-03-12,Bangalore,,959.68
+2122,Jeans,Straight Cut,0.0,,0.17,0.0,,Delhi,B2C,1823.39
+2123,Jackets,Bomber Jacket,,,1.05,0.0,2025/02/20,Delhi,B2C,36.15
+2124,T-Shirts,Graphic Tee,,3881.17,,0.0,2023-12-24,Mumbai,B2B,339.88
+2125,Jeans,Slim Fit Jeans,,,0.93,0.0,12-10-2024,Hyderabad,B2B,301.28
+2126,Accessories,Sunglasses,,820.88,0.01,0.0,,Ahmedabad,B2C,597.78
+2127,Accessories,Sunglasses,6.0,,0.94,0.0,,Delhi,B2B,2427.95
+2128,Accessories,Watches,,,0.08,0.0,02-10-2024,Bangalore,B2C,-237.66
+1003,Jackets,Puffer Coat,,1685.85,,0.0,,Hyderabad,B2C,-298.61
+2130,Jackets,Bomber Jacket,,,0.36,0.0,2025/06/02,Pune,B2C,1132.58
+2131,Shoes,Slip-ons,1.0,,,0.0,2025/06/11,Pune,,1004.43
+2132,Jeans,Slim Fit Jeans,4.0,,,0.0,2025/03/13,Mumbai,B2B,680.91
+2133,T-Shirts,Classic Tee,5.0,,,0.0,,Pune,B2B,1700.16
+2134,Accessories,Sunglasses,2.0,,0.29,0.0,2024/12/30,Bangalore,B2C,-986.66
+2135,Dresses,Casual Midi,,857.22,,0.0,2023-08-20,Delhi,B2B,-806.63
+2136,T-Shirts,Graphic Tee,,,,0.0,2025/06/24,Hyderabad,,1627.8
+2137,T-Shirts,Classic Tee,,,1.01,0.0,2025-04-25,Pune,,1626.26
+2138,Shoes,Boots,-2.0,2426.77,,0.0,,Delhi,B2B,1446.08
+1028,Accessories,Belts,,4142.54,,0.0,06-03-2025,Ahmedabad,B2B,2453.99
+2140,Shoes,Loafers,,2191.65,,0.0,06-12-2024,Mumbai,,2424.24
+2141,Jackets,Leather Jacket,,1762.28,,0.0,2024/10/01,Delhi,B2B,2590.56
+2142,Dresses,Wrap Dress,0.0,,,0.0,2023-08-17,bengaluru,,-780.6
+2143,Dresses,Wrap Dress,3.0,662.52,0.96,79.5,23-01-2025,bengaluru,B2B,2079.07
+2144,Jackets,Bomber Jacket,-1.0,906.82,0.92,-72.55,2025-01-04,Ahmedabad,,2348.39
+2145,T-Shirts,Oversized T-shirt,,3981.39,,0.0,2024/11/15,Pune,B2C,1764.19
+2146,Accessories,Watches,,,0.65,0.0,2024/11/28,Mumbai,B2B,2062.97
+2147,Dresses,Bodycon,,,0.27,0.0,2023-09-13,Ahmedabad,B2C,2299.86
+2148,T-Shirts,Oversized T-shirt,,,,0.0,,Hyd,B2C,-771.3
+2149,Jackets,Leather Jacket,,2865.62,0.8,0.0,2024/11/16,Ahmedabad,B2B,-660.8
+1033,T-Shirts,Crop Top,,,,0.0,2024-09-30,Delhi,B2C,-299.78
+2151,Dresses,Maxi Dress,,927.64,,0.0,2024/08/08,Pune,,-742.69
+2152,Shoes,Loafers,0.0,,,0.0,,Ahmedabad,B2B,-865.58
+2153,Jackets,Leather Jacket,0.0,3131.57,,0.0,2024-11-18,Ahmedabad,B2C,517.22
+2154,Accessories,Belts,,,,0.0,16-05-2025,Pune,B2B,2141.81
+2155,T-Shirts,Graphic Tee,-2.0,,,0.0,2025/02/03,Bangalore,B2C,-972.74
+2156,Shoes,Slip-ons,,,,0.0,,Ahmedabad,,1648.67
+2157,Shoes,Sneakers,,2830.24,0.97,0.0,,Mumbai,B2B,2612.97
+2158,Shoes,Sneakers,,3270.68,,0.0,,Mumbai,,-437.06
+2159,Dresses,Casual Midi,,,,0.0,2024/12/13,Mumbai,B2B,-420.95
+2160,Shoes,Boots,,2119.66,,0.0,02-11-2024,Pune,B2C,-203.89
+2161,Accessories,Watches,,4376.41,,0.0,07-04-2025,Mumbai,B2C,1713.03
+2162,Accessories,Watches,1.0,,0.71,0.0,2025-06-24,Ahmedabad,,54.58
+2163,Dresses,Maxi Dress,,,,0.0,2024/09/24,Mumbai,B2C,1205.38
+2164,Jackets,Puffer Coat,,1498.8,,0.0,12-08-2024,Delhi,B2B,-548.47
+2165,Shoes,Slip-ons,,,,0.0,2025/01/21,Pune,B2B,-609.52
+2166,Jackets,Leather Jacket,,,1.08,0.0,,Mumbai,,-845.69
+2167,Dresses,Casual Midi,,,1.12,0.0,,Mumbai,B2C,-258.89
+2168,Accessories,Caps,-1.0,4446.09,0.47,-2356.43,,Ahmedabad,B2B,784.1
+2169,Jeans,Straight Cut,2.0,,,0.0,22-10-2024,Ahmedabad,B2C,1870.24
+2170,Accessories,Belts,,826.11,0.99,0.0,,Delhi,B2B,2666.62
+2171,T-Shirts,Classic Tee,,630.28,,0.0,2025/07/22,Delhi,B2B,2988.11
+2172,T-Shirts,Classic Tee,-1.0,,1.08,0.0,,Delhi,B2C,2497.36
+2173,Shoes,Loafers,,2679.07,,0.0,,Mumbai,,2156.1
+2174,Accessories,Belts,0.0,810.62,,0.0,2024/12/23,Bangalore,B2C,-69.8
+2175,Shoes,Loafers,,,,0.0,2023-09-02,Hyd,B2C,1022.04
+2176,Jackets,Puffer Coat,6.0,4954.67,,0.0,2025/07/14,Hyd,,2176.54
+2177,Shoes,Boots,3.0,,,0.0,15-01-2025,Ahmedabad,B2B,-723.01
+2178,Shoes,Sneakers,0.0,,0.89,0.0,,bengaluru,B2C,2438.98
+2179,Accessories,Belts,,466.37,,0.0,,Hyd,,2807.92
+2180,Shoes,Loafers,6.0,,1.06,0.0,2025/02/06,Delhi,,28.77
+2181,T-Shirts,Graphic Tee,0.0,,,0.0,2025/01/22,Mumbai,B2B,-24.93
+2182,Accessories,Caps,2.0,,0.53,0.0,2025/06/23,Hyd,B2B,2192.44
+2183,Jeans,Boyfriend Jeans,-2.0,1332.39,1.09,239.83,2024-05-21,Bangalore,,707.79
+2184,Shoes,Sneakers,,1001.57,,0.0,2025/07/08,Hyderabad,B2C,2285.61
+2185,Jackets,Denim Jacket,,,0.14,0.0,,Pune,,-810.97
+2186,Accessories,Belts,,2036.71,,0.0,,Delhi,B2B,1586.84
+2187,Accessories,Watches,,2709.1,0.82,0.0,2025/03/17,Delhi,,1386.25
+2188,T-Shirts,Oversized T-shirt,,3027.66,1.21,0.0,19-06-2025,Ahmedabad,B2B,1971.23
+2189,Jackets,Denim Jacket,,968.53,0.3,0.0,12-06-2025,Delhi,B2C,-39.14
+2190,Jeans,Boyfriend Jeans,3.0,3887.5,,0.0,07-12-2024,Delhi,,1787.25
+2191,Jackets,Leather Jacket,,2267.72,,0.0,2025/01/02,Mumbai,B2C,-459.62
+2192,Accessories,Belts,,4218.96,0.01,0.0,2024-02-06,Pune,B2B,1483.9
+2193,Jackets,Leather Jacket,,2712.09,,0.0,22-08-2024,hyderbad,B2C,2585.79
+2194,Jackets,Leather Jacket,,3862.58,,0.0,2025/07/17,Ahmedabad,B2B,794.8
+2195,Shoes,Boots,4.0,3491.26,,0.0,,hyderbad,B2C,-165.48
+2196,Dresses,Casual Midi,,3655.37,,0.0,2024-05-01,hyderbad,B2C,-844.23
+2197,Dresses,Bodycon,,,,0.0,2024/11/02,Ahmedabad,B2C,24.78
+1004,Shoes,Loafers,,,0.64,0.0,01-01-2025,Pune,,968.3
+2199,T-Shirts,Crop Top,6.0,,,0.0,07-06-2025,Hyderabad,B2B,595.51
+2200,T-Shirts,Oversized T-shirt,-1.0,1346.11,0.72,-376.91,,Mumbai,,-763.62
+2201,Dresses,Wrap Dress,-1.0,,,0.0,,Bangalore,B2B,1897.16
+2202,Jeans,Straight Cut,,,0.92,0.0,2024-01-23,Ahmedabad,B2C,2505.39
+2203,Dresses,Maxi Dress,,1611.02,,0.0,05-07-2025,Pune,B2C,2610.41
+2204,Shoes,Sneakers,2.0,,,0.0,,Bangalore,,-875.95
+2205,T-Shirts,Graphic Tee,-2.0,,0.14,0.0,2023-12-10,hyderbad,B2C,-512.13
+2206,Accessories,Watches,,2349.3,0.18,0.0,2025/02/17,Delhi,,2503.67
+2207,Accessories,Watches,3.0,2146.07,,0.0,,Pune,B2C,199.99
+2208,Accessories,Sunglasses,,,,0.0,2025/02/15,Pune,,2347.05
+2209,T-Shirts,Crop Top,-2.0,,0.95,0.0,,Pune,B2B,2492.83
+2210,Jackets,Bomber Jacket,,4368.12,,0.0,2025/05/02,Delhi,B2C,2434.6
+2211,Jackets,Denim Jacket,2.0,,1.08,0.0,2024-05-04,Mumbai,B2B,902.93
+1031,T-Shirts,Oversized T-shirt,,,0.58,0.0,,Delhi,B2C,652.37
+2213,Jeans,Boyfriend Jeans,,2543.93,,0.0,16-06-2025,Ahmedabad,B2C,2177.82
+2214,Dresses,Casual Midi,-1.0,4854.03,,0.0,2024/10/12,Ahmedabad,,864.66
+2215,Jackets,Leather Jacket,-2.0,442.41,,0.0,,Delhi,B2C,1628.57
+2216,Jackets,Denim Jacket,3.0,,0.05,0.0,2025/05/18,Pune,,-823.2
+2217,Jeans,Ripped Denim,,1540.5,,0.0,2024/12/13,Mumbai,B2B,1385.44
+2218,Jeans,Ripped Denim,,,,0.0,2025-01-23,Hyderabad,B2B,2077.49
+2219,T-Shirts,Graphic Tee,4.0,2403.95,,0.0,23-10-2024,Mumbai,B2C,858.23
+2220,Accessories,Belts,-1.0,2170.71,0.58,-911.7,2025/06/02,bengaluru,,1689.68
+2221,T-Shirts,Crop Top,,1762.23,,0.0,2024/09/25,bengaluru,B2C,-736.69
+2222,Dresses,Wrap Dress,,2161.8,,0.0,,Ahmedabad,B2B,1722.2
+2223,Jeans,Straight Cut,-1.0,3445.9,0.81,-654.72,2024/12/28,Mumbai,B2B,2374.18
+2224,Shoes,Slip-ons,,,,0.0,2024/11/25,Ahmedabad,B2B,691.31
+2225,Accessories,Caps,,,,0.0,,hyderbad,B2B,2362.63
+2226,T-Shirts,Graphic Tee,,4484.13,0.79,0.0,,Hyderabad,B2B,821.13
+2227,Dresses,Wrap Dress,,,,0.0,08-07-2025,Pune,B2B,2766.36
+2228,Accessories,Sunglasses,,,0.93,0.0,18-01-2025,Hyderabad,B2C,-980.89
+2229,Jackets,Puffer Coat,1.0,,,0.0,22-07-2024,Mumbai,,623.39
+2230,Dresses,Wrap Dress,3.0,4524.64,1.09,-1221.65,2025/05/29,Pune,B2C,1906.0
+2231,Shoes,Loafers,,,,0.0,2025/02/21,Ahmedabad,B2C,1342.52
+2232,Dresses,Casual Midi,,,,0.0,2025/05/23,Delhi,B2B,2915.25
+2233,Dresses,Casual Midi,1.0,4604.85,0.14,3960.17,2025/07/16,Hyderabad,,-627.17
+2234,Accessories,Caps,-2.0,,,0.0,2023-11-18,Mumbai,B2C,-345.61
+2235,Jeans,Straight Cut,,,,0.0,2025/02/08,Mumbai,,-758.81
+2236,Shoes,Slip-ons,,2420.16,,0.0,2025-05-23,Delhi,B2C,2707.96
+2237,Dresses,Casual Midi,1.0,2496.17,1.11,-274.58,2025-01-12,Pune,B2C,810.82
+2238,T-Shirts,Classic Tee,-1.0,4808.35,,0.0,28-03-2025,Ahmedabad,,-282.61
+2239,Accessories,Watches,,3427.66,,0.0,2024/12/01,Mumbai,B2C,1441.3
+2240,T-Shirts,Oversized T-shirt,,4205.29,,0.0,2024/09/27,Hyd,,2223.03
+2241,T-Shirts,Oversized T-shirt,2.0,1600.21,,0.0,,Pune,,2933.71
+2242,Shoes,Loafers,6.0,4450.17,,0.0,17-11-2024,Ahmedabad,,-96.55
+2243,Accessories,Caps,2.0,,,0.0,2025-06-06,Ahmedabad,B2C,773.71
+2244,Dresses,Maxi Dress,3.0,,0.62,0.0,2024-10-03,bengaluru,B2C,-835.44
+2245,T-Shirts,Graphic Tee,,,1.27,0.0,,bengaluru,B2B,1929.41
+2246,Shoes,Slip-ons,,,1.25,0.0,2024-01-30,Pune,,311.56
+2247,Dresses,Wrap Dress,,2209.49,,0.0,2025/04/22,Hyd,B2C,1944.57
+2248,Jeans,Straight Cut,,,,0.0,11-07-2025,Hyd,B2C,-306.57
+2249,Dresses,Maxi Dress,1.0,,,0.0,2024-04-16,Mumbai,,-132.08
+2250,Jackets,Puffer Coat,,,1.17,0.0,,Mumbai,,2594.9
+2251,Dresses,Casual Midi,,1438.68,,0.0,2025/03/06,Ahmedabad,B2C,2726.72
+2252,Shoes,Sneakers,6.0,2755.37,,0.0,16-05-2025,Delhi,B2C,613.59
+2253,Jackets,Leather Jacket,0.0,,,0.0,2025/02/12,Bangalore,B2B,716.99
+2254,T-Shirts,Classic Tee,,4998.91,,0.0,,Mumbai,B2B,-396.07
+2255,Accessories,Belts,-2.0,4478.08,,0.0,2025/05/05,Pune,,2090.38
+2256,Dresses,Casual Midi,,535.27,,0.0,24-03-2025,Ahmedabad,B2B,1787.52
+2257,Dresses,Bodycon,,,,0.0,21-01-2025,Mumbai,B2C,980.52
+2258,Shoes,Boots,,,,0.0,2025-06-02,Bangalore,,1444.24
+2259,Shoes,Sneakers,1.0,2854.4,,0.0,2024/08/04,Bangalore,B2C,542.9
+2260,Jeans,Ripped Denim,-1.0,,,0.0,,hyderbad,B2B,2697.38
+1039,T-Shirts,Crop Top,,633.23,,0.0,2024/09/04,Mumbai,B2C,232.2
+2262,Dresses,Maxi Dress,,2957.48,,0.0,2024-09-09,hyderbad,B2B,2744.25
+2263,Shoes,Boots,,4252.05,,0.0,,Mumbai,B2C,-396.3
+2264,Jeans,Straight Cut,,3541.13,1.3,0.0,,Hyd,B2B,1711.99
+2265,T-Shirts,Graphic Tee,,,0.5,0.0,2025/03/20,bengaluru,B2C,399.62
+1036,Shoes,Boots,6.0,4437.44,,0.0,04-09-2024,Pune,B2C,493.76
+2267,Dresses,Casual Midi,,,,0.0,,Bangalore,,1989.07
+2268,Shoes,Loafers,,4300.05,,0.0,2024-11-22,bengaluru,B2B,-589.26
+2269,Shoes,Boots,,,,0.0,2025-06-26,Hyd,,742.42
+2270,Dresses,Maxi Dress,1.0,2710.56,,0.0,06-05-2025,Delhi,,2414.47
+2271,Accessories,Sunglasses,,,0.36,0.0,,Bangalore,B2C,999.24
+2272,Jackets,Leather Jacket,4.0,2540.1,0.69,3149.72,2025-05-26,Mumbai,B2C,733.06
+2273,Jeans,Ripped Denim,6.0,3064.21,,0.0,06-10-2024,Delhi,B2C,1569.81
+2274,Dresses,Wrap Dress,,4456.65,,0.0,2024/10/07,Delhi,B2C,9.1
+2275,Accessories,Sunglasses,,3899.04,,0.0,24-07-2024,Ahmedabad,,2522.67
+2276,Jackets,Leather Jacket,3.0,,,0.0,2023-10-17,bengaluru,B2C,2089.34
+2277,Jeans,Boyfriend Jeans,3.0,,,0.0,2024/11/01,Mumbai,,2814.36
+2278,Dresses,Casual Midi,,,0.95,0.0,08-06-2025,Mumbai,B2B,787.23
+2279,Accessories,Belts,6.0,3294.21,0.89,2174.18,2024/10/07,Pune,B2C,1874.46
+2280,T-Shirts,Crop Top,,,1.15,0.0,2025/07/22,Ahmedabad,,-230.98
+2281,Dresses,Casual Midi,-1.0,,,0.0,,Pune,B2C,-308.93
+2282,Jackets,Puffer Coat,,491.36,0.42,0.0,2023-12-16,Delhi,,1231.37
+2283,Jackets,Denim Jacket,6.0,,0.94,0.0,15-04-2025,bengaluru,,2079.01
+2284,Accessories,Caps,,3736.2,,0.0,2025/03/27,Delhi,B2C,-440.98
+2285,Shoes,Loafers,,2287.67,0.56,0.0,2024-04-09,Hyd,B2B,-827.66
+2286,Jackets,Denim Jacket,1.0,,,0.0,2025/04/23,Pune,B2C,-810.33
+2287,Shoes,Loafers,4.0,,,0.0,,bengaluru,B2B,715.96
+2288,Dresses,Wrap Dress,4.0,,,0.0,,bengaluru,,1167.16
+2289,Dresses,Casual Midi,0.0,3407.2,,0.0,,Ahmedabad,B2C,2344.16
+2290,Dresses,Casual Midi,4.0,1405.39,,0.0,23-08-2024,Bangalore,B2C,712.37
+2291,Dresses,Bodycon,4.0,3217.82,,0.0,,Bangalore,B2B,2909.8
+2292,Dresses,Bodycon,,3974.58,,0.0,2025-03-10,Hyderabad,,-0.12
+2293,Shoes,Loafers,,3241.57,,0.0,2024/07/27,Ahmedabad,B2C,2518.36
+2294,Dresses,Maxi Dress,-1.0,,0.16,0.0,2023-08-09,Delhi,,1019.45
+2295,Shoes,Sneakers,,3189.35,,0.0,2024-10-04,Bangalore,,-683.11
+1014,T-Shirts,Graphic Tee,6.0,,0.29,0.0,02-07-2025,Pune,B2C,-958.22
+2297,Dresses,Bodycon,,,0.29,0.0,2025/01/09,Delhi,,2879.59
+2298,T-Shirts,Graphic Tee,,,,0.0,2025/06/04,Ahmedabad,,-778.84
+2299,T-Shirts,Graphic Tee,-2.0,,1.27,0.0,2025-04-23,Mumbai,B2C,2892.16
+2300,Accessories,Sunglasses,,,,0.0,,hyderbad,,-59.16
+2301,Dresses,Maxi Dress,,3335.27,1.13,0.0,2024-11-30,Mumbai,,1415.8
+2302,Dresses,Bodycon,1.0,,,0.0,,Ahmedabad,B2C,1520.6
+2303,Shoes,Sneakers,6.0,2201.87,,0.0,,hyderbad,,1919.35
+2304,Accessories,Caps,,,0.3,0.0,2025-06-03,Pune,B2C,2013.34
+2305,Jackets,Bomber Jacket,,3476.06,,0.0,,bengaluru,B2C,1379.32
+2306,Shoes,Boots,-2.0,,1.15,0.0,2023-11-30,Ahmedabad,B2C,2166.71
+2307,Shoes,Boots,,,,0.0,2023-12-23,Pune,,1998.57
+2308,Dresses,Maxi Dress,,3978.48,,0.0,06-12-2024,Delhi,,929.92
+2309,Jeans,Boyfriend Jeans,1.0,,,0.0,,Delhi,B2B,-464.01
+1003,Jeans,Straight Cut,-1.0,4426.82,,0.0,2025/05/03,Hyderabad,B2C,2095.45
+1034,Jackets,Leather Jacket,,3062.79,,0.0,2024/07/30,hyderbad,,1135.53
+2312,Jeans,Straight Cut,,2688.08,,0.0,2024/08/17,Pune,B2B,1913.21
+2313,Dresses,Casual Midi,2.0,2440.38,,0.0,2025/03/08,bengaluru,B2B,-899.53
+2314,Accessories,Watches,,,,0.0,16-12-2024,Pune,B2B,949.17
+2315,Dresses,Casual Midi,1.0,,,0.0,2025-02-22,Pune,B2B,261.63
+2316,Jeans,Ripped Denim,4.0,1529.48,,0.0,2024-04-28,Mumbai,B2C,1325.56
+2317,Shoes,Boots,,1005.41,,0.0,2025/06/06,Delhi,B2C,566.18
+2318,T-Shirts,Crop Top,,,,0.0,2025-04-13,Hyderabad,B2C,1145.48
+2319,Dresses,Wrap Dress,,881.41,1.22,0.0,,Pune,,1541.77
+2320,Jeans,Straight Cut,,,1.27,0.0,2024/08/01,Hyderabad,B2C,1960.76
+2321,Shoes,Sneakers,,,,0.0,26-03-2025,Pune,B2B,1864.22
+2322,T-Shirts,Crop Top,,,0.98,0.0,,Pune,,195.27
+2323,Jeans,Straight Cut,,,,0.0,2025/02/06,Pune,,2903.66
+1025,T-Shirts,Oversized T-shirt,,,,0.0,,Delhi,B2B,-973.7
+2325,Dresses,Bodycon,1.0,,1.19,0.0,,bengaluru,B2B,1634.79
+2326,Shoes,Sneakers,,1718.14,,0.0,2025/03/20,Ahmedabad,B2B,1309.05
+2327,Shoes,Slip-ons,-2.0,,0.76,0.0,26-02-2025,Pune,B2C,-357.33
+2328,Jeans,Boyfriend Jeans,,,,0.0,,Mumbai,B2C,1385.5
+1024,Jeans,Straight Cut,,1580.59,0.08,0.0,2025/05/05,Delhi,B2B,1786.82
+2330,Shoes,Boots,6.0,,0.53,0.0,,Pune,B2C,-44.8
+2331,Dresses,Casual Midi,-2.0,2967.49,,0.0,2025/05/04,Pune,,1890.42
+2332,Jackets,Leather Jacket,,4066.97,0.59,0.0,2025/05/29,Mumbai,,977.09
+2333,Dresses,Casual Midi,,,,0.0,2024-01-22,Ahmedabad,B2C,761.35
+2334,Jeans,Ripped Denim,,2295.49,,0.0,,Pune,B2C,2846.96
+2335,Accessories,Caps,1.0,3508.21,0.62,1333.12,2024/10/21,Bangalore,B2B,-309.15
+2336,Jackets,Leather Jacket,4.0,,,0.0,2024-10-22,Ahmedabad,B2C,1339.62
+2337,Jeans,Boyfriend Jeans,0.0,1295.44,,0.0,16-02-2025,Ahmedabad,B2C,1552.41
+2338,Dresses,Wrap Dress,5.0,1378.76,0.19,5583.98,11-02-2025,Mumbai,B2B,2284.97
+2339,Jeans,Ripped Denim,1.0,1289.24,,0.0,2024-10-30,Mumbai,B2B,555.48
+2340,Shoes,Slip-ons,-2.0,,,0.0,,hyderbad,B2B,345.45
+2341,T-Shirts,Classic Tee,,,0.59,0.0,2024-11-13,Ahmedabad,B2C,259.57
+2342,T-Shirts,Oversized T-shirt,,1042.41,,0.0,2024-01-31,Ahmedabad,B2C,2778.49
+2343,Jeans,Slim Fit Jeans,,,,0.0,2025/05/18,Ahmedabad,,2829.76
+2344,Jeans,Slim Fit Jeans,,,1.09,0.0,2025/06/25,hyderbad,,1854.64
+2345,Jeans,Slim Fit Jeans,1.0,1095.03,,0.0,2024/12/19,Ahmedabad,B2C,1317.75
+2346,Jeans,Boyfriend Jeans,-2.0,4922.99,,0.0,16-11-2024,Bangalore,B2B,-712.37
+2347,Dresses,Casual Midi,,1207.99,,0.0,2025/03/07,bengaluru,B2C,2195.11
+2348,Shoes,Boots,,,,0.0,2024/10/09,Pune,,371.77
+2349,Jackets,Puffer Coat,,,0.34,0.0,01-08-2024,Delhi,B2B,-496.94
+2350,Shoes,Slip-ons,-1.0,3148.46,,0.0,2023-09-23,bengaluru,B2B,-165.49
+2351,Dresses,Casual Midi,-1.0,1875.17,,0.0,,Ahmedabad,,1406.99
+2352,Dresses,Maxi Dress,,,1.18,0.0,,Pune,,590.81
+2353,Shoes,Boots,-1.0,,,0.0,29-08-2024,hyderbad,,-397.76
+2354,Shoes,Boots,,,,0.0,11-02-2025,Hyderabad,B2B,2233.28
+2355,Jeans,Ripped Denim,,,0.14,0.0,,hyderbad,B2B,1303.89
+2356,Accessories,Caps,,3412.15,0.01,0.0,2025-04-16,Hyd,B2B,1862.5
+2357,Jeans,Ripped Denim,5.0,509.54,,0.0,2024/12/23,Delhi,B2C,2233.39
+2358,Jeans,Straight Cut,-1.0,3099.15,,0.0,,Mumbai,B2B,-860.89
+2359,Shoes,Loafers,-1.0,,,0.0,2024/07/29,Pune,B2C,2256.67
+2360,Accessories,Watches,5.0,,,0.0,04-07-2025,Pune,B2C,829.94
+2361,T-Shirts,Crop Top,,899.41,,0.0,26-11-2024,Delhi,,477.1
+2362,Dresses,Casual Midi,0.0,2550.98,,0.0,2025/01/07,Delhi,B2B,2161.78
+2363,Jeans,Boyfriend Jeans,-1.0,3640.29,0.86,-509.64,02-12-2024,Hyd,B2C,879.32
+2364,Accessories,Caps,,857.68,,0.0,09-06-2025,Mumbai,B2B,1462.91
+2365,Dresses,Bodycon,3.0,,0.49,0.0,2025-04-10,Hyd,,1765.39
+2366,Shoes,Sneakers,6.0,429.37,,0.0,2024-06-29,Mumbai,B2B,-21.4
+2367,Shoes,Sneakers,3.0,500.41,,0.0,2024/12/22,Mumbai,,1732.45
+2368,Accessories,Belts,,2971.36,0.49,0.0,2024/08/28,Ahmedabad,,153.4
+2369,T-Shirts,Crop Top,,935.57,,0.0,2024-01-29,Ahmedabad,B2B,-111.36
+2370,Dresses,Maxi Dress,,,,0.0,2024-01-15,Mumbai,,2031.95
+2371,Shoes,Loafers,3.0,4467.25,,0.0,2025/06/06,hyderbad,,2388.55
+2372,Dresses,Wrap Dress,,,,0.0,2025-05-05,Delhi,B2B,-452.24
+2373,Accessories,Caps,-2.0,2490.44,,0.0,,Mumbai,,11.27
+2374,Shoes,Loafers,0.0,4867.51,1.09,0.0,2024-09-28,Mumbai,B2B,1184.65
+2375,T-Shirts,Classic Tee,,2765.79,,0.0,,bengaluru,B2C,-31.82
+2376,Jackets,Bomber Jacket,,,,0.0,2023-11-19,Pune,B2C,1900.77
+2377,T-Shirts,Classic Tee,4.0,4458.48,,0.0,2024/10/09,Bangalore,B2B,631.0
+2378,Jeans,Straight Cut,0.0,1985.49,,0.0,,Ahmedabad,B2C,-198.55
+2379,Jackets,Denim Jacket,6.0,2188.74,,0.0,2024-02-21,bengaluru,B2C,-885.72
+2380,Jackets,Puffer Coat,,3820.42,1.03,0.0,2025/03/30,Mumbai,B2B,-105.92
+2381,Shoes,Sneakers,,,,0.0,24-11-2024,Delhi,,103.57
+2382,Jackets,Bomber Jacket,,3440.31,,0.0,09-05-2025,Bangalore,B2B,921.38
+2383,Shoes,Boots,-2.0,,,0.0,25-05-2025,hyderbad,,990.71
+2384,Jackets,Denim Jacket,3.0,1625.58,0.1,4389.07,16-07-2025,Pune,,2368.55
+2385,Dresses,Wrap Dress,,,0.06,0.0,29-03-2025,Delhi,,-914.91
+2386,Jeans,Straight Cut,0.0,2253.08,0.09,0.0,,Ahmedabad,,490.12
+2387,Accessories,Caps,,3246.04,,0.0,2025/04/26,Hyd,,-611.03
+2388,T-Shirts,Crop Top,-2.0,,,0.0,2025-02-26,Hyderabad,B2B,-722.21
+2389,Shoes,Slip-ons,5.0,,,0.0,2024-03-22,Bangalore,B2B,2235.23
+2390,Jeans,Slim Fit Jeans,,3605.36,1.01,0.0,03-01-2025,Ahmedabad,B2B,-311.29
+2391,Jeans,Boyfriend Jeans,,4473.94,,0.0,,bengaluru,B2B,1003.14
+2392,Accessories,Sunglasses,3.0,4550.95,,0.0,2025-03-20,Ahmedabad,,-951.64
+2393,Jackets,Bomber Jacket,5.0,753.85,,0.0,19-11-2024,Delhi,B2C,251.29
+2394,Jackets,Puffer Coat,,3384.51,,0.0,2025/07/01,bengaluru,B2B,2776.41
+2395,Accessories,Watches,,,,0.0,2025/05/20,Hyderabad,B2C,1866.74
+2396,Jeans,Slim Fit Jeans,,,1.02,0.0,23-11-2024,Hyd,B2C,1965.45
+2397,Jackets,Bomber Jacket,,1823.51,,0.0,16-02-2025,Hyd,,378.92
+1002,Jeans,Straight Cut,,2942.95,,0.0,2025/06/22,bengaluru,B2B,-519.87
+2399,Jeans,Slim Fit Jeans,-2.0,3643.5,,0.0,2024-08-04,Delhi,B2B,1452.6
+2400,Dresses,Bodycon,,4756.67,0.75,0.0,2025/06/23,Pune,B2C,-442.75
+2401,Accessories,Belts,2.0,2159.68,,0.0,2025/01/09,Pune,,1873.8
+2402,T-Shirts,Crop Top,,744.83,0.16,0.0,,Mumbai,,2905.06
+2403,T-Shirts,Oversized T-shirt,0.0,,,0.0,2025/01/29,Hyd,B2B,2312.72
+2404,Accessories,Caps,4.0,,,0.0,2024/12/31,Delhi,B2C,-673.77
+2405,Jackets,Denim Jacket,-1.0,1943.21,,0.0,,Ahmedabad,B2B,1039.86
+2406,Jeans,Slim Fit Jeans,,4847.73,,0.0,,Ahmedabad,B2B,1741.0
+2407,Jeans,Slim Fit Jeans,,,,0.0,24-05-2025,Ahmedabad,B2B,2990.98
+2408,Dresses,Casual Midi,6.0,2169.73,,0.0,,Bangalore,,442.92
+2409,Dresses,Wrap Dress,,1430.06,0.98,0.0,2025/03/28,Pune,,-530.32
+2410,Accessories,Caps,3.0,,,0.0,13-01-2025,Pune,,2913.29
+2411,Jeans,Straight Cut,-2.0,,,0.0,14-05-2025,Delhi,B2C,458.44
+2412,Jeans,Straight Cut,-1.0,,,0.0,2023-10-19,Delhi,,1676.75
+2413,Shoes,Loafers,,4140.86,,0.0,2024/10/15,Delhi,B2B,162.16
+1037,Accessories,Caps,,3127.73,0.06,0.0,2024-10-16,Ahmedabad,,-793.02
+2415,Jeans,Ripped Denim,,3395.67,,0.0,,Bangalore,B2C,1958.51
+2416,Dresses,Bodycon,,,1.27,0.0,2024-03-13,Pune,B2B,1219.82
+2417,Jackets,Bomber Jacket,,4268.68,0.67,0.0,02-08-2024,Delhi,,1818.31
+2418,Jackets,Denim Jacket,,3435.95,0.36,0.0,,Delhi,,-77.18
+2419,Shoes,Slip-ons,2.0,1832.16,,0.0,2024/09/17,Mumbai,B2C,2843.62
+2420,Jackets,Bomber Jacket,,3714.46,,0.0,2025/01/27,Ahmedabad,B2C,2452.72
+2421,Accessories,Caps,4.0,4411.39,,0.0,2024-08-12,Hyderabad,,-501.29
+2422,T-Shirts,Oversized T-shirt,,,0.22,0.0,2024/09/01,bengaluru,,756.56
+2423,Shoes,Sneakers,,,,0.0,2023-11-26,Ahmedabad,B2B,2661.66
+2424,Shoes,Loafers,5.0,2476.15,,0.0,2023-12-19,Pune,B2C,387.88
+2425,Dresses,Wrap Dress,0.0,2632.44,,0.0,2024/10/26,Pune,,2036.93
+2426,Jackets,Bomber Jacket,,,,0.0,06-07-2025,Delhi,B2B,261.68
+2427,T-Shirts,Classic Tee,5.0,1510.89,,0.0,15-11-2024,bengaluru,B2B,2959.19
+2428,Shoes,Loafers,-2.0,,,0.0,17-01-2025,Delhi,B2B,1885.43
+2429,Shoes,Loafers,-1.0,4193.1,,0.0,2024-09-26,Hyd,B2C,436.03
+2430,Jeans,Ripped Denim,,3149.37,,0.0,,Pune,B2C,1094.4
+1006,Jackets,Leather Jacket,-2.0,714.5,0.72,-400.12,2024-07-24,Delhi,B2B,-29.59
+2432,Jackets,Denim Jacket,1.0,,0.11,0.0,,Mumbai,,2950.78
+2433,T-Shirts,Crop Top,0.0,2489.18,,0.0,2024/08/27,Ahmedabad,B2C,-22.68
+2434,Jackets,Leather Jacket,0.0,,,0.0,04-08-2024,hyderbad,B2B,1953.07
+2435,Accessories,Belts,,,,0.0,2023-07-29,Mumbai,B2C,2711.18
+2436,T-Shirts,Oversized T-shirt,,,,0.0,,Hyderabad,B2B,2492.87
+2437,T-Shirts,Crop Top,1.0,1906.91,0.97,57.21,,Ahmedabad,B2B,440.67
+2438,T-Shirts,Graphic Tee,5.0,,,0.0,2024-03-14,Hyderabad,B2B,1037.5
+2439,Accessories,Caps,,,0.24,0.0,27-09-2024,Delhi,B2C,-789.39
+2440,T-Shirts,Classic Tee,,3846.31,0.51,0.0,2024-09-04,Pune,,381.13
+2441,Dresses,Wrap Dress,,,0.81,0.0,,Pune,,1220.91
+2442,Jeans,Boyfriend Jeans,,,,0.0,2025/01/31,Pune,B2C,-937.17
+2443,T-Shirts,Graphic Tee,1.0,4981.86,,0.0,2024/09/27,Pune,,1410.16
+2444,Jeans,Boyfriend Jeans,,3470.88,,0.0,,Pune,B2B,638.83
+2445,Accessories,Caps,,2282.02,,0.0,01-01-2025,Mumbai,B2C,555.12
+1009,Jeans,Ripped Denim,6.0,,1.27,0.0,2024/11/10,Bangalore,B2C,2936.21
+2447,Dresses,Maxi Dress,6.0,1773.3,,0.0,11-11-2024,hyderbad,,2073.35
+2448,Jackets,Denim Jacket,3.0,,,0.0,2025/07/06,Delhi,B2C,-244.83
+2449,Shoes,Boots,,2344.38,,0.0,,Mumbai,,419.95
+2450,Accessories,Caps,2.0,3333.87,,0.0,2025/05/05,Ahmedabad,,1673.63
+2451,Shoes,Boots,,,,0.0,2024/08/31,Ahmedabad,B2B,1177.96
+1011,Accessories,Sunglasses,3.0,,,0.0,,Mumbai,B2B,-360.37
+2453,Jeans,Slim Fit Jeans,,,0.72,0.0,2024-05-29,hyderbad,B2B,382.31
+2454,T-Shirts,Crop Top,3.0,,,0.0,,Bangalore,,1961.19
+2455,Shoes,Sneakers,,,,0.0,,Pune,,2153.01
+2456,Accessories,Caps,,889.88,,0.0,2025/02/18,Ahmedabad,B2B,1607.65
+2457,Jackets,Leather Jacket,6.0,,1.25,0.0,2024-09-15,Delhi,B2C,179.36
+2458,T-Shirts,Oversized T-shirt,,,0.64,0.0,2024/11/10,Delhi,B2B,163.69
+2459,Accessories,Sunglasses,,,,0.0,,Mumbai,,2616.96
+2460,Accessories,Watches,-2.0,3157.28,0.07,-5872.54,2023-09-25,Hyd,,971.15
+2461,Jackets,Puffer Coat,1.0,4225.58,,0.0,28-01-2025,Hyd,B2B,-793.29
+2462,Accessories,Belts,2.0,2123.22,,0.0,2025/06/25,Mumbai,,2645.36
+2463,Accessories,Sunglasses,,405.52,,0.0,2025-03-07,Delhi,,2036.57
+2464,Shoes,Boots,-1.0,,0.32,0.0,2025-04-04,hyderbad,,2742.15
+2465,Jeans,Straight Cut,,493.99,,0.0,2025/01/27,Hyderabad,B2B,-365.9
+2466,Dresses,Maxi Dress,,2335.61,0.17,0.0,,Ahmedabad,B2B,-36.92
+2467,Shoes,Loafers,,,,0.0,2025-06-15,Mumbai,B2C,485.02
+2468,T-Shirts,Oversized T-shirt,,,,0.0,2025/04/13,Mumbai,,1149.65
+2469,Jackets,Bomber Jacket,,4132.13,,0.0,29-04-2025,Mumbai,,828.43
+2470,Jackets,Puffer Coat,3.0,,0.74,0.0,2024/08/31,Pune,B2B,321.21
+2471,Jeans,Slim Fit Jeans,,4457.83,0.66,0.0,,Pune,B2B,780.39
+2472,Jeans,Ripped Denim,,4357.94,0.33,0.0,,Delhi,B2B,971.5
+2473,Shoes,Sneakers,6.0,408.21,1.16,-391.88,2024-08-12,Delhi,,611.86
+2474,Shoes,Loafers,,,,0.0,2024-11-09,Bangalore,B2B,-930.79
+2475,Jackets,Leather Jacket,5.0,642.48,0.17,2666.29,,Ahmedabad,B2C,1800.37
+2476,Dresses,Casual Midi,5.0,2967.26,,0.0,,hyderbad,B2B,2069.15
+2477,Shoes,Boots,3.0,3725.14,,0.0,,Bangalore,B2C,1220.32
+2478,Dresses,Bodycon,,1904.58,,0.0,22-09-2024,Mumbai,B2B,2090.91
+2479,Shoes,Slip-ons,-1.0,,1.11,0.0,08-02-2025,Pune,B2B,81.23
+2480,Shoes,Sneakers,,,0.14,0.0,08-10-2024,Bangalore,,1556.81
+2481,Jackets,Bomber Jacket,,,,0.0,27-04-2025,Mumbai,,142.82
+1050,Accessories,Caps,4.0,4439.39,,0.0,2024-09-08,Ahmedabad,B2C,2062.85
+2483,Dresses,Wrap Dress,,,0.96,0.0,2025/05/13,Pune,B2B,-369.21
+2484,T-Shirts,Graphic Tee,,,,0.0,26-11-2024,Pune,B2C,516.5
+1050,Jeans,Boyfriend Jeans,1.0,2103.54,,0.0,2025/01/05,Hyd,B2C,2871.06
+2486,Jackets,Leather Jacket,-2.0,,,0.0,03-08-2024,Ahmedabad,,2082.36
+2487,Jackets,Leather Jacket,-2.0,,,0.0,2025/02/18,Mumbai,,-395.34
+2488,Jackets,Bomber Jacket,,718.84,0.53,0.0,2024-02-13,Ahmedabad,B2B,528.71
+2489,Shoes,Boots,0.0,,,0.0,2025/07/04,Pune,,-194.49
+2490,T-Shirts,Oversized T-shirt,5.0,688.38,,0.0,2024/11/28,bengaluru,,-25.21
+2491,Shoes,Sneakers,,,0.68,0.0,2024/08/13,Bangalore,B2C,2466.01
+2492,Jackets,Bomber Jacket,-1.0,,,0.0,2025/07/07,Bangalore,B2C,549.15
+2493,Dresses,Maxi Dress,2.0,,0.92,0.0,,Ahmedabad,,452.38
+2494,Shoes,Loafers,3.0,,1.16,0.0,2025/05/05,hyderbad,B2B,1753.67
+2495,Jeans,Slim Fit Jeans,,1106.09,,0.0,2023-09-28,Delhi,B2C,1838.39
+2496,Jackets,Puffer Coat,-2.0,,,0.0,23-05-2025,Delhi,,2882.47
+2497,Accessories,Watches,1.0,3607.5,,0.0,13-01-2025,Ahmedabad,B2B,-341.21
+2498,Jackets,Puffer Coat,4.0,2043.67,,0.0,2023-09-07,Pune,B2C,-24.72
+2499,Dresses,Casual Midi,-2.0,4638.76,,0.0,2025/01/20,Hyderabad,,379.89
+2500,Accessories,Watches,5.0,,0.92,0.0,2024-07-30,Delhi,B2B,765.43
+2501,Dresses,Maxi Dress,,,,0.0,,Ahmedabad,B2B,106.21
+2502,Shoes,Loafers,,,1.0,0.0,2025/07/17,Mumbai,B2B,653.4
+2503,Accessories,Sunglasses,,1259.22,,0.0,2024-07-26,Bangalore,,120.44
+2504,Dresses,Wrap Dress,2.0,,1.2,0.0,,Ahmedabad,B2B,-757.99
+2505,Shoes,Sneakers,-1.0,1258.77,0.71,-365.04,2025/01/01,Hyderabad,B2B,549.6
+2506,Jackets,Leather Jacket,,,,0.0,2024/12/23,Hyd,B2B,1734.31
+2507,T-Shirts,Graphic Tee,,,,0.0,2025/06/13,Ahmedabad,B2C,339.83
+2508,T-Shirts,Oversized T-shirt,,4245.43,,0.0,2025-03-23,Bangalore,B2B,-556.03
+2509,Jackets,Puffer Coat,5.0,,,0.0,03-09-2024,Pune,,1995.3
+2510,Dresses,Maxi Dress,0.0,,,0.0,,Delhi,B2C,-530.81
+2511,Jackets,Bomber Jacket,,2822.43,1.0,0.0,2025/03/14,bengaluru,B2C,2522.48
+2512,Jeans,Boyfriend Jeans,,,0.53,0.0,2024/10/15,bengaluru,,958.94
+2513,Dresses,Maxi Dress,,3625.99,0.93,0.0,05-12-2024,Delhi,B2C,1552.29
+2514,Jeans,Straight Cut,4.0,,0.1,0.0,2025/05/17,hyderbad,B2B,-862.68
+2515,Jackets,Denim Jacket,3.0,,,0.0,,bengaluru,,2802.1
+2516,Jeans,Ripped Denim,1.0,1927.87,,0.0,2025/06/17,Delhi,B2B,-876.36
+2517,Shoes,Boots,2.0,,0.2,0.0,15-12-2024,Pune,,409.12
+2518,Shoes,Boots,6.0,773.28,,0.0,28-03-2025,Pune,,608.25
+2519,Dresses,Maxi Dress,,3873.82,0.99,0.0,2024/09/14,Delhi,,2122.44
+2520,Jeans,Straight Cut,1.0,2581.19,1.04,-103.25,2024-05-06,Hyd,B2B,2944.11
+2521,Dresses,Wrap Dress,,,,0.0,2024/09/03,Mumbai,B2C,140.18
+2522,Dresses,Wrap Dress,4.0,2847.02,0.57,4896.87,2023-09-02,Pune,,1592.04
+2523,Accessories,Caps,,2840.78,,0.0,2024-09-30,Pune,,-836.39
+2524,T-Shirts,Oversized T-shirt,,3539.22,,0.0,2024/09/05,Bangalore,,1991.27
+2525,Jackets,Puffer Coat,,3046.11,,0.0,2025-04-29,bengaluru,,-190.66
+2526,Accessories,Belts,,,0.94,0.0,,Mumbai,B2B,2853.61
+2527,Shoes,Slip-ons,-1.0,4057.33,1.22,892.61,,bengaluru,B2C,385.15
+2528,Shoes,Sneakers,-1.0,,0.02,0.0,08-06-2025,Delhi,,-634.46
+2529,T-Shirts,Crop Top,,419.25,,0.0,,Mumbai,B2B,1726.68
+1028,T-Shirts,Oversized T-shirt,0.0,,,0.0,2024-12-27,Ahmedabad,,-701.08
+2531,T-Shirts,Graphic Tee,2.0,816.33,,0.0,12-12-2024,Mumbai,B2C,868.11
+2532,Shoes,Sneakers,,1863.19,0.01,0.0,,Mumbai,B2B,-371.04
+2533,Dresses,Maxi Dress,,3960.8,0.03,0.0,2025-01-09,Mumbai,,1266.88
+2534,T-Shirts,Classic Tee,4.0,687.34,1.21,-577.37,14-01-2025,Delhi,B2B,-234.42
+2535,Accessories,Belts,,,,0.0,2024/09/08,Delhi,B2C,782.05
+2536,Jeans,Slim Fit Jeans,,,,0.0,,Mumbai,B2C,2685.77
+2537,Shoes,Sneakers,,3449.08,1.09,0.0,2024-03-08,Bangalore,B2C,181.11
+2538,Dresses,Casual Midi,,,,0.0,08-06-2025,Hyderabad,B2C,-705.34
+2539,Jackets,Bomber Jacket,4.0,,,0.0,,Mumbai,B2B,2989.83
+2540,Jeans,Slim Fit Jeans,,799.82,,0.0,05-06-2025,Hyderabad,B2C,1358.09
+2541,Jeans,Ripped Denim,3.0,,,0.0,09-10-2024,Delhi,B2B,404.87
+2542,Jackets,Bomber Jacket,3.0,,0.42,0.0,2025/03/06,Bangalore,,379.4
+2543,T-Shirts,Classic Tee,4.0,3501.9,,0.0,2023-10-22,hyderbad,,1747.96
+2544,Accessories,Sunglasses,,3205.96,,0.0,13-09-2024,Mumbai,B2B,1764.26
+2545,Dresses,Bodycon,,2109.08,,0.0,2025-05-05,Delhi,B2B,1633.57
+2546,T-Shirts,Classic Tee,1.0,3574.54,,0.0,2024/08/09,Mumbai,B2C,-305.77
+2547,Shoes,Slip-ons,,4896.32,1.26,0.0,2024/12/08,Delhi,B2B,2391.23
+2548,Dresses,Bodycon,-1.0,4994.07,,0.0,,Hyd,,2068.21
+2549,Dresses,Wrap Dress,6.0,2319.23,,0.0,17-01-2025,Ahmedabad,B2C,-854.91
+2550,Jackets,Leather Jacket,-1.0,1463.64,,0.0,2025/04/30,hyderbad,B2C,1667.2
+2551,Accessories,Sunglasses,6.0,4776.97,,0.0,,Ahmedabad,B2B,727.96
+2552,Dresses,Casual Midi,,3617.02,,0.0,2024/12/18,Hyd,B2C,2692.48
+2553,Dresses,Maxi Dress,,3347.39,,0.0,2023-09-24,Mumbai,B2B,441.13
+2554,Shoes,Sneakers,,2433.47,,0.0,2024/09/16,hyderbad,,796.37
+2555,Jeans,Slim Fit Jeans,,3633.07,0.22,0.0,2024-01-22,Pune,B2B,826.86
+2556,Jackets,Puffer Coat,2.0,2068.88,,0.0,,bengaluru,,-9.99
+2557,Accessories,Sunglasses,-1.0,4626.44,1.1,462.64,2025/05/03,Ahmedabad,B2B,1942.23
+2558,Accessories,Sunglasses,,1175.25,,0.0,,Mumbai,B2B,854.14
+2559,Accessories,Watches,0.0,,0.3,0.0,,Pune,,-882.81
+2560,Shoes,Loafers,-1.0,4699.66,,0.0,,Mumbai,B2C,2759.92
+2561,Jackets,Puffer Coat,5.0,,,0.0,,Ahmedabad,B2B,559.97
+1044,Jackets,Bomber Jacket,,756.73,,0.0,2024/12/05,Delhi,,1504.13
+2563,Accessories,Sunglasses,,,0.41,0.0,12-05-2025,Hyderabad,B2C,891.43
+2564,Jackets,Leather Jacket,-1.0,,,0.0,2023-12-30,Mumbai,B2C,-479.17
+2565,Shoes,Sneakers,,,,0.0,,Pune,B2B,415.71
+2566,T-Shirts,Crop Top,1.0,4482.08,,0.0,04-08-2024,Bangalore,,464.92
+2567,T-Shirts,Graphic Tee,4.0,,0.35,0.0,17-12-2024,Delhi,,2962.69
+1013,Shoes,Sneakers,6.0,2355.28,,0.0,2025-01-17,Ahmedabad,,330.11
+2569,Jackets,Leather Jacket,,1263.84,,0.0,2025/02/06,hyderbad,B2B,2520.08
+2570,Jackets,Denim Jacket,-1.0,,0.78,0.0,2025/04/16,hyderbad,B2B,1668.49
+2571,Dresses,Wrap Dress,-2.0,3061.98,,0.0,05-07-2025,Ahmedabad,,2553.09
+2572,T-Shirts,Oversized T-shirt,0.0,,,0.0,10-02-2025,Pune,B2B,-305.72
+2573,Jackets,Leather Jacket,,,,0.0,2024-01-12,Ahmedabad,,-215.0
+2574,Dresses,Wrap Dress,-2.0,,,0.0,06-11-2024,Pune,B2B,-39.3
+2575,Shoes,Sneakers,-2.0,2714.78,0.42,-3149.14,2025/05/08,Ahmedabad,B2B,1220.49
+2576,Jeans,Straight Cut,,,0.56,0.0,2025/07/13,Mumbai,B2C,515.36
+2577,Jeans,Straight Cut,1.0,609.06,0.17,505.52,01-11-2024,Ahmedabad,B2C,110.23
+2578,T-Shirts,Graphic Tee,,,0.87,0.0,,hyderbad,,2826.66
+1026,Jeans,Boyfriend Jeans,,2293.29,0.4,0.0,,Mumbai,B2C,1000.06
+2580,Shoes,Loafers,,,,0.0,2024-04-01,hyderbad,B2C,2076.53
+2581,Jackets,Bomber Jacket,,3895.43,,0.0,2024-11-15,Bangalore,,1316.66
+2582,T-Shirts,Oversized T-shirt,,4154.55,0.95,0.0,2024/09/16,Pune,B2B,-247.99
+1014,Jeans,Boyfriend Jeans,-2.0,,,0.0,2024-04-10,Delhi,B2C,1946.1
+2584,Accessories,Caps,3.0,1276.26,0.69,1186.92,,Mumbai,B2C,2446.7
+2585,Dresses,Casual Midi,,,,0.0,2024/11/28,Hyd,B2C,1123.27
+2586,Jeans,Slim Fit Jeans,,789.21,,0.0,2025-01-15,Ahmedabad,B2C,1565.56
+2587,T-Shirts,Classic Tee,5.0,3463.37,0.1,15585.16,,Bangalore,B2B,-957.03
+2588,Accessories,Sunglasses,,,1.07,0.0,2024/12/24,Hyd,,-927.74
+2589,Shoes,Slip-ons,0.0,3256.31,,0.0,07-02-2025,Delhi,,2266.79
+2590,Shoes,Slip-ons,,,0.54,0.0,2024/09/07,Delhi,B2B,1613.88
+2591,Jackets,Denim Jacket,,4784.03,,0.0,2024/11/28,Hyderabad,B2C,176.96
+2592,T-Shirts,Crop Top,2.0,4965.93,,0.0,,Pune,B2C,1406.72
+2593,Dresses,Maxi Dress,4.0,736.36,0.83,500.72,,Mumbai,,2463.68
+2594,Jeans,Straight Cut,,,0.37,0.0,,Pune,B2C,580.23
+2595,Dresses,Maxi Dress,,2469.67,1.07,0.0,2024/08/31,Mumbai,B2B,802.05
+2596,Jeans,Slim Fit Jeans,,2538.57,,0.0,2025-05-30,Hyd,B2C,342.21
+2597,Jackets,Puffer Coat,,,,0.0,,Bangalore,B2B,538.11
+2598,Jackets,Denim Jacket,-2.0,4412.21,,0.0,,bengaluru,B2C,2917.18
+2599,Shoes,Sneakers,,,0.23,0.0,2024-09-24,Hyd,,2293.29
+2600,Shoes,Boots,5.0,4832.16,,0.0,2024-09-20,Pune,B2B,1707.66
+2601,Jeans,Ripped Denim,1.0,,0.28,0.0,2024/08/04,Bangalore,B2B,2556.02
+1002,Accessories,Watches,,,,0.0,13-03-2025,Ahmedabad,,48.87
+2603,T-Shirts,Crop Top,5.0,4403.84,,0.0,,Mumbai,B2C,-513.19
+2604,Shoes,Boots,-1.0,2171.22,,0.0,2025/05/29,bengaluru,B2B,2595.22
+2605,Dresses,Casual Midi,1.0,1636.26,0.94,98.18,2025-01-10,Hyd,,615.81
+2606,Jeans,Straight Cut,,806.81,0.11,0.0,2024-05-30,Pune,,634.66
+2607,Jackets,Puffer Coat,,2289.93,1.2,0.0,2024/10/28,bengaluru,B2B,183.34
+2608,Jackets,Puffer Coat,,3352.88,,0.0,2024-06-21,Mumbai,B2B,2684.88
+2609,Jackets,Puffer Coat,,,,0.0,,Delhi,B2C,641.89
+2610,T-Shirts,Oversized T-shirt,5.0,1606.99,,0.0,2023-12-23,Ahmedabad,B2C,1743.11
+2611,Dresses,Wrap Dress,-2.0,,1.05,0.0,2025/01/08,Pune,B2B,2391.7
+2612,Accessories,Watches,,2672.64,,0.0,2024-04-20,bengaluru,B2B,1142.44
+2613,T-Shirts,Graphic Tee,,2438.16,,0.0,2024-03-01,Pune,B2B,161.35
+2614,Shoes,Sneakers,,4530.28,0.67,0.0,22-12-2024,Ahmedabad,B2B,2891.77
+2615,T-Shirts,Classic Tee,,,,0.0,2023-12-07,Mumbai,B2B,1644.18
+2616,T-Shirts,Graphic Tee,5.0,,0.24,0.0,2025/05/18,Pune,B2B,2858.08
+2617,Dresses,Maxi Dress,,,,0.0,2025/03/30,Mumbai,,-151.75
+2618,Shoes,Boots,,,0.95,0.0,2024/09/06,Ahmedabad,,-850.68
+2619,Jeans,Straight Cut,,,,0.0,,Ahmedabad,B2C,1443.87
+2620,Shoes,Loafers,,3415.9,,0.0,2024-08-22,Mumbai,B2C,25.83
+2621,Shoes,Loafers,4.0,,1.14,0.0,2023-12-23,Delhi,B2B,2237.85
+2622,T-Shirts,Oversized T-shirt,,2705.13,,0.0,02-09-2024,Delhi,,1133.53
+1020,Dresses,Bodycon,,,,0.0,2023-08-10,Pune,,1224.35
+2624,Accessories,Caps,-1.0,,0.99,0.0,2024/12/06,Ahmedabad,,559.1
+2625,Dresses,Maxi Dress,,,,0.0,2023-10-11,Mumbai,B2B,1271.12
+2626,T-Shirts,Crop Top,,4932.25,,0.0,2025-05-16,bengaluru,,742.42
+2627,Dresses,Wrap Dress,-2.0,,,0.0,2024/11/08,Mumbai,,87.54
+2628,Jeans,Straight Cut,,,,0.0,2024-01-11,Delhi,B2B,2466.43
+2629,Dresses,Bodycon,,,,0.0,05-03-2025,Hyderabad,,1765.52
+2630,Shoes,Loafers,,856.83,,0.0,30-04-2025,Ahmedabad,B2C,1369.89
+2631,Accessories,Watches,2.0,1753.02,0.23,2699.65,20-01-2025,Pune,,-766.47
+2632,Shoes,Loafers,3.0,4127.32,,0.0,,Pune,B2B,989.17
+2633,Accessories,Caps,-1.0,,0.87,0.0,2023-10-22,Pune,B2B,300.47
+2634,Accessories,Watches,-2.0,,0.96,0.0,,Hyd,B2B,2065.74
+2635,Shoes,Boots,2.0,,,0.0,2025/02/03,Pune,B2C,461.83
+2636,Dresses,Wrap Dress,3.0,1006.98,,0.0,2023-08-13,Mumbai,B2B,1576.71
+2637,Jackets,Leather Jacket,,,0.72,0.0,,Delhi,B2B,1326.41
+2638,Jackets,Leather Jacket,6.0,2012.14,,0.0,17-12-2024,Delhi,B2B,3.53
+2639,Shoes,Sneakers,-1.0,4947.96,,0.0,,Pune,B2C,1245.61
+2640,Jackets,Leather Jacket,6.0,4720.23,0.69,8779.63,2023-12-29,Ahmedabad,B2B,2243.09
+2641,Dresses,Bodycon,6.0,,,0.0,16-06-2025,Delhi,B2B,-151.61
+2642,Jackets,Bomber Jacket,-1.0,1043.58,,0.0,08-07-2025,hyderbad,B2B,1206.72
+2643,Jackets,Bomber Jacket,,,0.53,0.0,2024/08/13,bengaluru,B2B,2911.37
+2644,Jeans,Slim Fit Jeans,,,,0.0,2024-02-03,Mumbai,,2044.35
+2645,Accessories,Sunglasses,,,0.98,0.0,2025-04-14,Ahmedabad,B2B,1141.67
+2646,Jeans,Boyfriend Jeans,6.0,,,0.0,2025-01-04,Delhi,,2299.84
+2647,Accessories,Belts,5.0,,,0.0,24-07-2024,Hyderabad,B2B,-102.81
+2648,Jeans,Straight Cut,,4899.84,,0.0,2025/01/14,Ahmedabad,B2C,1775.2
+2649,Accessories,Sunglasses,3.0,3838.55,0.91,1036.41,2024-07-31,Pune,B2C,2380.44
+2650,Shoes,Slip-ons,,,,0.0,2025/02/12,bengaluru,B2C,2003.15
+1040,Jackets,Puffer Coat,,1640.04,,0.0,31-03-2025,bengaluru,B2C,288.44
+2652,Jeans,Boyfriend Jeans,,,,0.0,,Ahmedabad,B2C,1472.41
+2653,T-Shirts,Oversized T-shirt,,,0.03,0.0,2024/08/25,Pune,B2B,-327.41
+2654,Shoes,Slip-ons,6.0,,0.31,0.0,2025-02-04,hyderbad,B2B,250.85
+2655,Accessories,Caps,4.0,,,0.0,,Delhi,,-630.72
+2656,Shoes,Sneakers,,,,0.0,2025/04/10,Ahmedabad,,1096.61
+1033,Dresses,Casual Midi,,3863.95,0.9,0.0,,Pune,,1784.65
+2658,Jeans,Ripped Denim,,3726.31,,0.0,,Mumbai,B2C,1524.78
+2659,T-Shirts,Classic Tee,,1059.09,1.24,0.0,2025/07/18,Delhi,B2C,-521.41
+2660,T-Shirts,Graphic Tee,,,,0.0,,Hyderabad,,1006.1
+2661,Dresses,Casual Midi,,,,0.0,2025/04/18,Ahmedabad,B2B,1249.59
+2662,T-Shirts,Crop Top,-1.0,2718.51,,0.0,2025/07/03,Pune,B2C,903.59
+2663,Accessories,Sunglasses,-2.0,2212.25,0.35,-2875.93,06-11-2024,Mumbai,B2C,2992.12
+2664,Shoes,Boots,2.0,,,0.0,2024-03-31,hyderbad,B2C,-338.97
+2665,Jackets,Denim Jacket,3.0,,,0.0,2025/06/19,Pune,B2C,122.0
+2666,Dresses,Wrap Dress,,,,0.0,,Pune,B2B,1989.64
+2667,T-Shirts,Graphic Tee,1.0,4710.77,,0.0,,Ahmedabad,B2B,2520.05
+2668,T-Shirts,Classic Tee,1.0,,0.64,0.0,2023-12-22,Ahmedabad,B2C,-3.95
+2669,T-Shirts,Graphic Tee,-1.0,,,0.0,2025/04/02,Pune,,-760.17
+2670,T-Shirts,Graphic Tee,,,,0.0,26-09-2024,Pune,B2C,775.45
+2671,Accessories,Caps,,2377.81,0.57,0.0,,Mumbai,B2B,1967.3
+1026,Dresses,Maxi Dress,,,,0.0,2024-06-14,Ahmedabad,,2344.12
+2673,Accessories,Belts,,,,0.0,,Bangalore,B2B,2493.87
+2674,T-Shirts,Classic Tee,,1261.59,,0.0,2024-09-07,Mumbai,B2B,534.09
+2675,Shoes,Loafers,1.0,,0.83,0.0,2024-07-31,Mumbai,B2C,2164.08
+1014,Jeans,Boyfriend Jeans,,,,0.0,2025-02-16,Delhi,B2B,2219.49
+2677,Shoes,Slip-ons,5.0,1727.66,1.24,-2073.19,29-04-2025,Pune,B2B,-546.06
+2678,Dresses,Wrap Dress,-2.0,,0.51,0.0,2025-03-25,hyderbad,B2C,-333.97
+2679,Accessories,Watches,,2514.7,,0.0,2024/09/29,Hyd,,2652.58
+2680,Shoes,Slip-ons,6.0,,,0.0,,Delhi,,-963.81
+2681,Jackets,Denim Jacket,-1.0,4770.92,,0.0,2023-10-24,Pune,B2B,433.04
+2682,T-Shirts,Graphic Tee,,4784.55,,0.0,26-11-2024,Bangalore,,2034.52
+2683,Jackets,Puffer Coat,5.0,3163.97,,0.0,,Delhi,B2B,1411.27
+2684,Shoes,Boots,,794.81,1.12,0.0,2024-07-10,bengaluru,B2B,-391.38
+2685,Shoes,Sneakers,,1804.59,,0.0,01-07-2025,Ahmedabad,B2B,-208.79
+2686,Accessories,Caps,,,0.49,0.0,,Pune,,2957.49
+2687,Shoes,Sneakers,0.0,,,0.0,2024/08/17,Mumbai,B2C,510.99
+2688,T-Shirts,Crop Top,,,0.11,0.0,,Hyd,B2C,161.9
+2689,Accessories,Caps,4.0,4777.51,,0.0,13-11-2024,Hyderabad,,-204.04
+2690,Jeans,Ripped Denim,,2862.03,,0.0,2023-12-17,Mumbai,,115.86
+2691,T-Shirts,Crop Top,1.0,,0.5,0.0,2024-04-29,Bangalore,,-182.86
+2692,Dresses,Bodycon,,,,0.0,15-04-2025,Mumbai,,-364.29
+2693,Jeans,Boyfriend Jeans,4.0,4366.4,,0.0,,Hyd,,-542.72
+2694,Shoes,Slip-ons,,1617.83,1.18,0.0,2025-06-26,Delhi,,1532.93
+2695,Jeans,Boyfriend Jeans,,4834.87,,0.0,,Bangalore,B2B,1655.07
+2696,Jackets,Puffer Coat,,2579.8,1.26,0.0,20-05-2025,Ahmedabad,B2B,-804.09
+2697,Dresses,Wrap Dress,,3300.82,,0.0,19-05-2025,Ahmedabad,B2B,394.83
+2698,Jackets,Bomber Jacket,,1810.81,0.5,0.0,,Pune,B2C,1605.28
+2699,Jeans,Straight Cut,6.0,,,0.0,2025-05-25,Delhi,B2C,1068.66
+2700,Shoes,Boots,,,,0.0,,Mumbai,,588.04
+2701,Accessories,Watches,-1.0,2085.92,,0.0,12-01-2025,bengaluru,B2C,1301.37
+2702,T-Shirts,Graphic Tee,-2.0,,,0.0,02-09-2024,Hyderabad,,606.51
+2703,Accessories,Belts,-2.0,,,0.0,07-05-2025,hyderbad,B2C,2193.86
+2704,Jackets,Bomber Jacket,1.0,,,0.0,02-08-2024,Mumbai,B2C,7.12
+2705,Dresses,Casual Midi,,4870.82,,0.0,08-07-2025,Delhi,B2B,2833.18
+2706,T-Shirts,Classic Tee,6.0,,,0.0,2024-10-30,Pune,,2379.5
+2707,Jackets,Puffer Coat,5.0,,,0.0,07-09-2024,Mumbai,B2B,2763.02
+2708,Accessories,Belts,4.0,4882.69,,0.0,2024/12/30,Mumbai,B2B,2658.6
+2709,Jackets,Bomber Jacket,,,0.3,0.0,2025-02-08,Hyderabad,,-473.04
+2710,Dresses,Bodycon,,2565.55,,0.0,12-09-2024,Bangalore,,62.05
+2711,Dresses,Bodycon,,,,0.0,2024-01-30,Pune,B2B,-25.26
+2712,Jackets,Leather Jacket,,,,0.0,15-12-2024,bengaluru,B2B,-973.58
+2713,Shoes,Sneakers,0.0,1559.67,,0.0,2025-02-19,Pune,B2C,2605.55
+2714,Shoes,Boots,-2.0,1171.79,,0.0,,Delhi,B2B,-392.96
+2715,Shoes,Slip-ons,4.0,,,0.0,2023-07-27,Ahmedabad,B2C,-144.72
+2716,Shoes,Loafers,1.0,,0.49,0.0,,Pune,B2B,2134.28
+2717,Jeans,Boyfriend Jeans,2.0,,,0.0,2025-01-03,Pune,B2C,2786.83
+2718,Jeans,Slim Fit Jeans,3.0,909.31,,0.0,2025/04/05,Pune,,1389.16
+2719,Dresses,Casual Midi,0.0,1602.49,,0.0,2025/03/25,bengaluru,B2B,-886.11
+2720,Dresses,Wrap Dress,,3476.53,,0.0,13-03-2025,Pune,,-522.33
+2721,Jeans,Straight Cut,,1109.6,0.04,0.0,,Hyd,,885.21
+2722,Jeans,Ripped Denim,,,,0.0,,bengaluru,B2C,-367.6
+2723,T-Shirts,Classic Tee,,,,0.0,21-02-2025,Pune,,253.64
+2724,Jeans,Slim Fit Jeans,,716.3,,0.0,10-03-2025,Delhi,B2C,-400.16
+2725,Jackets,Leather Jacket,,,,0.0,2025-02-13,hyderbad,,2116.07
+2726,Dresses,Maxi Dress,,,0.17,0.0,,Mumbai,,1751.12
+2727,Accessories,Sunglasses,2.0,,,0.0,2023-08-23,Ahmedabad,,1804.04
+2728,T-Shirts,Crop Top,,1935.05,,0.0,29-11-2024,Bangalore,,1483.93
+2729,Dresses,Bodycon,5.0,,1.22,0.0,,Ahmedabad,,-973.04
+2730,T-Shirts,Classic Tee,,,,0.0,2024-02-28,Delhi,,2203.97
+2731,Jackets,Puffer Coat,-1.0,1635.12,,0.0,2025/07/16,Mumbai,B2B,-526.88
+2732,Shoes,Boots,6.0,,0.55,0.0,,Hyd,B2C,-833.43
+2733,Jeans,Boyfriend Jeans,,,,0.0,2024/09/27,Mumbai,B2B,2523.72
+2734,Dresses,Wrap Dress,4.0,3261.51,0.82,2348.29,,Hyderabad,,1429.02
+2735,Accessories,Sunglasses,,541.71,,0.0,2024/10/11,Bangalore,B2B,1872.65
+2736,Jeans,Slim Fit Jeans,,,,0.0,2025/06/19,Delhi,,-253.78
+2737,Accessories,Watches,,1927.98,,0.0,2025/05/14,Pune,,-251.21
+2738,Dresses,Wrap Dress,,,0.55,0.0,2024-12-29,Mumbai,B2B,733.8
+2739,Shoes,Boots,4.0,4316.85,,0.0,2023-12-08,Ahmedabad,,2259.3
+2740,Jeans,Boyfriend Jeans,1.0,,,0.0,,Mumbai,B2B,996.39
+2741,Jackets,Bomber Jacket,1.0,,0.53,0.0,2024/09/28,Mumbai,B2C,2013.85
+2742,Accessories,Belts,-2.0,,,0.0,15-07-2025,Bangalore,B2C,1045.71
+1032,Jackets,Bomber Jacket,-1.0,4146.91,1.03,124.41,2025-05-14,Delhi,B2B,930.16
+2744,T-Shirts,Crop Top,-2.0,,,0.0,,Mumbai,B2B,-635.51
+2745,Jeans,Slim Fit Jeans,-1.0,869.82,,0.0,24-07-2024,Bangalore,B2C,737.77
+2746,Jeans,Slim Fit Jeans,,668.51,1.02,0.0,2024/11/12,bengaluru,B2C,2100.4
+2747,T-Shirts,Graphic Tee,1.0,1369.29,,0.0,2025/05/19,Mumbai,B2C,325.08
+2748,Accessories,Watches,4.0,3977.88,,0.0,13-01-2025,Ahmedabad,B2C,2431.13
+2749,Jackets,Puffer Coat,5.0,,,0.0,,Pune,,2595.31
+1049,Jackets,Leather Jacket,,1360.22,,0.0,14-04-2025,Mumbai,,276.9
+2751,Jackets,Leather Jacket,,,0.98,0.0,2024-12-16,Bangalore,,1778.54
+2752,Shoes,Sneakers,,4552.8,1.01,0.0,,Pune,B2B,1802.91
+1002,Jeans,Boyfriend Jeans,-1.0,4351.11,,0.0,2024-08-14,Pune,B2C,-190.68
+2754,Jeans,Straight Cut,1.0,,,0.0,2025-03-18,Bangalore,,-0.15
+2755,Accessories,Watches,-2.0,,0.32,0.0,2023-09-30,Delhi,B2B,1174.64
+2756,T-Shirts,Classic Tee,6.0,,,0.0,01-10-2024,Pune,B2C,813.53
+2757,Accessories,Caps,3.0,4923.95,,0.0,17-05-2025,Pune,B2B,794.65
+1029,T-Shirts,Oversized T-shirt,,2965.32,,0.0,,Mumbai,B2C,-786.53
+2759,Shoes,Boots,,,0.9,0.0,2024/08/05,Ahmedabad,,-300.9
+2760,Shoes,Slip-ons,,,,0.0,2024/10/21,Delhi,B2B,-833.77
+2761,Dresses,Maxi Dress,,3586.76,,0.0,05-04-2025,Pune,B2C,594.95
+2762,Dresses,Wrap Dress,,1278.85,,0.0,2025/01/13,Hyd,B2B,1989.71
+2763,Accessories,Caps,3.0,3360.01,,0.0,,hyderbad,,1547.22
+2764,Accessories,Watches,3.0,,,0.0,2024-10-28,Ahmedabad,B2B,2347.07
+2765,Dresses,Wrap Dress,,,,0.0,2025/06/26,Pune,,2047.44
+2766,Jeans,Straight Cut,,,,0.0,26-08-2024,Pune,B2C,621.85
+2767,T-Shirts,Classic Tee,,4149.42,0.13,0.0,,Hyderabad,B2B,1926.29
+2768,T-Shirts,Oversized T-shirt,,,0.69,0.0,2025/06/14,Pune,B2C,465.45
+2769,T-Shirts,Graphic Tee,,,,0.0,2025/02/02,Ahmedabad,B2B,2102.88
+2770,T-Shirts,Classic Tee,,1439.18,0.49,0.0,2025-04-13,Pune,B2C,2007.56
+1032,Shoes,Loafers,,3956.83,,0.0,2024-11-24,Hyd,B2B,1061.44
+2772,Jeans,Ripped Denim,,,,0.0,2024-02-20,Hyderabad,B2B,-865.59
+2773,Jackets,Bomber Jacket,,,,0.0,,Ahmedabad,B2C,1944.87
+2774,Accessories,Sunglasses,,,,0.0,24-07-2024,Mumbai,,1081.41
+2775,Shoes,Sneakers,5.0,,0.46,0.0,31-07-2024,Ahmedabad,B2B,1182.12
+2776,Jackets,Leather Jacket,,891.42,,0.0,2024/11/21,Mumbai,B2C,664.02
+2777,Shoes,Sneakers,,,0.42,0.0,12-12-2024,Pune,B2B,1373.67
+2778,Dresses,Wrap Dress,0.0,578.58,1.09,0.0,14-01-2025,Ahmedabad,,414.18
+2779,T-Shirts,Crop Top,,,0.4,0.0,27-04-2025,Pune,,2573.85
+2780,Dresses,Casual Midi,,2534.9,,0.0,04-05-2025,Ahmedabad,B2B,1529.17
+2781,Jeans,Straight Cut,,,1.07,0.0,03-05-2025,Ahmedabad,B2C,1947.29
+2782,Jeans,Ripped Denim,,449.09,,0.0,,Mumbai,,2797.37
+2783,Accessories,Belts,,,,0.0,2024/09/12,Mumbai,B2C,45.06
+2784,Jackets,Bomber Jacket,,,,0.0,2025/01/03,Pune,B2C,2921.6
+2785,Shoes,Sneakers,0.0,,,0.0,2024/10/04,Mumbai,,385.61
+1026,Jackets,Denim Jacket,,,0.03,0.0,2024/09/26,Delhi,,688.48
+2787,Accessories,Caps,,,,0.0,,Hyderabad,,1459.62
+2788,Accessories,Sunglasses,-1.0,3267.28,,0.0,26-03-2025,Bangalore,B2B,81.99
+2789,Accessories,Belts,3.0,3735.56,,0.0,,Pune,B2C,-690.11
+2790,Jeans,Boyfriend Jeans,3.0,2675.27,0.41,4735.23,2024/11/09,Delhi,B2B,1960.51
+2791,T-Shirts,Classic Tee,3.0,,,0.0,2024/11/08,Pune,,-166.3
+2792,T-Shirts,Graphic Tee,,1039.15,,0.0,,Pune,B2C,2620.13
+2793,Accessories,Belts,-2.0,4836.47,,0.0,2025-03-19,Ahmedabad,B2C,-608.3
+2794,Dresses,Bodycon,,,,0.0,2025-01-28,Bangalore,B2C,2860.66
+2795,Jeans,Boyfriend Jeans,,,,0.0,,Mumbai,B2C,984.22
+2796,Jackets,Puffer Coat,3.0,,,0.0,,Delhi,,2.81
+2797,Accessories,Belts,-1.0,1257.81,,0.0,19-05-2025,Ahmedabad,B2C,2957.6
+2798,Dresses,Wrap Dress,0.0,,,0.0,2025/03/15,Pune,B2C,386.97
+2799,T-Shirts,Classic Tee,,,,0.0,2025/03/19,Pune,,683.04
+2800,Jeans,Boyfriend Jeans,,3410.38,,0.0,2024/09/04,hyderbad,,1733.81
+2801,Accessories,Watches,,1870.82,,0.0,,Ahmedabad,,-45.08
+2802,Shoes,Sneakers,-1.0,,,0.0,,Bangalore,,365.63
+2803,T-Shirts,Crop Top,5.0,4418.75,,0.0,2023-08-13,bengaluru,,693.65
+2804,Accessories,Sunglasses,6.0,4784.0,,0.0,16-03-2025,Mumbai,B2B,2969.42
+2805,Shoes,Slip-ons,0.0,4930.08,0.92,0.0,24-05-2025,Bangalore,B2B,623.05
+2806,Jeans,Boyfriend Jeans,,,,0.0,2024-10-04,Bangalore,,2658.95
+2807,Jeans,Slim Fit Jeans,,3064.28,1.04,0.0,2024/08/12,Hyderabad,B2B,2540.53
+2808,Shoes,Slip-ons,,4234.77,,0.0,,Delhi,B2C,-664.44
+1026,Shoes,Boots,0.0,,,0.0,,Mumbai,B2C,1975.98
+2810,Jeans,Boyfriend Jeans,,2038.37,1.07,0.0,,Mumbai,B2B,1762.96
+2811,Dresses,Bodycon,,4426.15,,0.0,31-12-2024,Delhi,B2B,1639.67
+2812,T-Shirts,Graphic Tee,,,,0.0,2025/03/11,Pune,B2B,-662.74
+2813,Accessories,Belts,,,0.41,0.0,2024/09/30,Ahmedabad,,-756.66
+2814,Jeans,Boyfriend Jeans,,1888.27,,0.0,2025-01-25,Mumbai,B2B,2441.51
+1042,Jeans,Boyfriend Jeans,6.0,2422.01,,0.0,,Pune,B2B,339.16
+2816,Jackets,Denim Jacket,,3817.72,0.34,0.0,2024-12-02,Ahmedabad,B2B,-69.09
+2817,Dresses,Casual Midi,,,0.36,0.0,23-04-2025,Mumbai,B2C,495.32
+2818,Dresses,Wrap Dress,,739.57,,0.0,2025/04/13,Mumbai,B2C,1148.87
+2819,Accessories,Watches,-1.0,,,0.0,,Ahmedabad,B2C,526.19
+2820,Accessories,Caps,1.0,2454.71,0.1,2209.24,2024-01-03,Mumbai,B2B,2850.37
+2821,Dresses,Wrap Dress,,,1.28,0.0,2024/12/18,Ahmedabad,B2C,412.63
+2822,T-Shirts,Classic Tee,-2.0,3864.37,,0.0,2025-03-09,bengaluru,,957.65
+2823,Jackets,Bomber Jacket,0.0,,,0.0,2024-09-07,Ahmedabad,B2C,-724.81
+2824,Shoes,Boots,,,1.08,0.0,22-11-2024,Delhi,B2C,1113.29
+2825,Accessories,Belts,,,,0.0,,Ahmedabad,B2B,2935.9
+2826,T-Shirts,Classic Tee,-1.0,,,0.0,,Mumbai,B2C,2275.74
+2827,Jeans,Slim Fit Jeans,,3996.87,,0.0,2024/09/03,Mumbai,,496.23
+2828,Shoes,Loafers,,2963.02,,0.0,17-06-2025,bengaluru,B2B,180.31
+2829,Jackets,Denim Jacket,,4817.45,1.07,0.0,,Pune,B2B,2048.06
+2830,T-Shirts,Crop Top,,3588.42,0.04,0.0,12-06-2025,Delhi,,1952.28
+2831,Dresses,Casual Midi,,,,0.0,2024/07/22,Ahmedabad,B2B,2091.3
+2832,Shoes,Boots,,,0.56,0.0,2024/10/07,Mumbai,,-402.75
+2833,Jeans,Ripped Denim,5.0,4273.33,,0.0,,bengaluru,B2C,900.12
+2834,Jackets,Leather Jacket,-2.0,3522.98,,0.0,2024/11/01,Delhi,B2C,2242.67
+2835,Dresses,Maxi Dress,5.0,,0.98,0.0,2025-07-01,Hyderabad,B2B,-618.56
+2836,Dresses,Bodycon,4.0,4609.95,,0.0,2024-06-05,bengaluru,B2B,-154.75
+2837,Jeans,Slim Fit Jeans,,4443.01,,0.0,2025-03-27,Bangalore,B2B,-919.16
+2838,Dresses,Bodycon,,,0.97,0.0,,Mumbai,B2B,182.38
+2839,Shoes,Boots,,561.24,,0.0,2024-10-24,Hyderabad,,2551.12
+2840,Jackets,Bomber Jacket,,2297.54,,0.0,2025/03/23,hyderbad,B2B,490.32
+2841,Jeans,Ripped Denim,,4154.05,,0.0,08-01-2025,Mumbai,B2B,265.0
+2842,Accessories,Sunglasses,0.0,1812.58,,0.0,2024-09-25,Delhi,B2B,445.27
+2843,T-Shirts,Graphic Tee,,1110.11,,0.0,2025-01-22,Mumbai,B2B,2926.44
+2844,Jeans,Straight Cut,,2549.59,,0.0,2024-05-19,Delhi,,2612.63
+2845,Jackets,Denim Jacket,-2.0,,,0.0,2025-04-04,Delhi,B2B,-693.63
+2846,Shoes,Slip-ons,-2.0,2525.04,0.3,-3535.06,25-09-2024,Hyd,,1003.34
+2847,Shoes,Boots,,3424.29,1.08,0.0,12-08-2024,Pune,B2B,2560.32
+2848,Jackets,Leather Jacket,2.0,,,0.0,31-08-2024,Ahmedabad,B2C,2638.28
+2849,Accessories,Sunglasses,,,0.35,0.0,,Mumbai,B2B,1750.23
+2850,Jeans,Slim Fit Jeans,,2687.96,,0.0,24-09-2024,Delhi,B2B,2288.0
+2851,Dresses,Casual Midi,,1525.28,,0.0,2024/09/08,Hyderabad,B2C,-560.49
+2852,Shoes,Boots,,1816.76,,0.0,,Mumbai,,630.13
+2853,T-Shirts,Graphic Tee,,1212.44,0.89,0.0,2025-07-22,Mumbai,B2C,175.39
+2854,Jeans,Slim Fit Jeans,,3303.02,0.7,0.0,,Mumbai,B2B,276.29
+2855,Jeans,Slim Fit Jeans,,1831.4,,0.0,19-10-2024,hyderbad,,719.33
+2856,Dresses,Wrap Dress,,,,0.0,,hyderbad,B2B,1448.8
+2857,Jeans,Straight Cut,5.0,,,0.0,2025-04-30,Mumbai,B2B,-625.92
+2858,Jeans,Boyfriend Jeans,-1.0,3270.29,,0.0,2025/02/07,Pune,B2C,-539.25
+2859,Accessories,Sunglasses,,,0.78,0.0,2024-06-08,bengaluru,B2B,1686.29
+2860,Jeans,Straight Cut,,4428.24,0.09,0.0,,Mumbai,,-641.59
+2861,Dresses,Maxi Dress,4.0,,0.06,0.0,01-07-2025,Delhi,,-936.94
+2862,Jeans,Straight Cut,,,,0.0,,Pune,B2C,824.88
+2863,Shoes,Slip-ons,6.0,1459.76,1.18,-1576.54,2024-05-13,Bangalore,B2B,2541.0
+2864,Jackets,Leather Jacket,5.0,2535.29,,0.0,27-07-2024,Bangalore,,-456.39
+2865,Jeans,Boyfriend Jeans,,2043.3,0.33,0.0,,Ahmedabad,B2B,-389.95
+2866,Jeans,Ripped Denim,,,,0.0,14-03-2025,Bangalore,,883.66
+2867,Jeans,Ripped Denim,,,,0.0,,Delhi,B2C,478.82
+2868,Accessories,Sunglasses,4.0,1392.21,,0.0,2024/11/15,bengaluru,B2B,758.3
+2869,Dresses,Casual Midi,,4238.91,,0.0,,hyderbad,B2B,-746.44
+2870,Jeans,Ripped Denim,2.0,839.34,,0.0,15-10-2024,Pune,B2C,367.87
+2871,Dresses,Wrap Dress,,,,0.0,04-04-2025,Mumbai,B2C,2126.04
+2872,Jeans,Straight Cut,-1.0,,,0.0,28-10-2024,Bangalore,,148.2
+2873,Shoes,Loafers,5.0,1354.14,,0.0,2025/03/24,Ahmedabad,B2B,2535.62
+2874,Jeans,Boyfriend Jeans,,3754.23,0.87,0.0,26-09-2024,Mumbai,,-153.77
+2875,Jackets,Puffer Coat,2.0,,,0.0,13-11-2024,Delhi,B2B,1291.9
+2876,Jeans,Straight Cut,6.0,3824.82,0.82,4130.81,02-08-2024,bengaluru,B2C,688.53
+2877,Shoes,Boots,,,0.29,0.0,,Hyd,B2B,2293.59
+2878,Jackets,Bomber Jacket,,,,0.0,2025/01/06,hyderbad,B2C,2309.55
+2879,Jackets,Bomber Jacket,,,0.02,0.0,,Delhi,B2B,1146.23
+2880,Accessories,Belts,,,,0.0,2025/06/15,Mumbai,B2C,970.22
+2881,Jeans,Boyfriend Jeans,-2.0,,,0.0,2024/09/03,Hyd,B2C,1850.77
+2882,Accessories,Caps,3.0,583.53,,0.0,2025/02/13,Mumbai,,2334.42
+2883,T-Shirts,Graphic Tee,,2320.76,,0.0,12-07-2025,Ahmedabad,B2C,2529.16
+2884,Jeans,Ripped Denim,2.0,,0.4,0.0,13-02-2025,Pune,B2B,896.38
+2885,T-Shirts,Classic Tee,2.0,2666.48,,0.0,29-04-2025,Pune,B2B,-17.89
+2886,T-Shirts,Graphic Tee,,3229.15,1.03,0.0,2025/03/31,Ahmedabad,B2B,175.26
+2887,Jeans,Boyfriend Jeans,,3331.72,1.25,0.0,,Mumbai,B2B,-267.96
+2888,Dresses,Casual Midi,-1.0,,,0.0,2023-08-10,Ahmedabad,,2007.16
+2889,Shoes,Loafers,5.0,,,0.0,2023-07-23,Hyd,,1874.28
+2890,Dresses,Wrap Dress,1.0,2357.36,,0.0,2024-05-01,Pune,,468.3
+2891,Jackets,Puffer Coat,,,,0.0,,Ahmedabad,,-363.86
+2892,Accessories,Belts,,,,0.0,15-08-2024,Ahmedabad,,-502.19
+2893,Shoes,Loafers,,,,0.0,2024-09-07,Bangalore,B2B,1825.47
+2894,Shoes,Loafers,3.0,,,0.0,,Bangalore,B2B,1479.24
+1006,Shoes,Boots,2.0,3593.06,0.34,4742.84,,Hyd,B2C,1031.66
+2896,Dresses,Wrap Dress,,,,0.0,2024/09/17,Hyd,B2C,2760.7
+2897,Jackets,Denim Jacket,1.0,1194.44,,0.0,2025/06/16,Delhi,B2B,1048.51
+2898,Dresses,Wrap Dress,6.0,,0.54,0.0,18-05-2025,Delhi,B2B,-274.57
+2899,Accessories,Sunglasses,2.0,3086.59,,0.0,2025-01-26,Delhi,B2C,-745.27
+2900,Dresses,Wrap Dress,,,,0.0,,Ahmedabad,B2B,36.92
+2901,Shoes,Sneakers,2.0,1817.71,,0.0,28-04-2025,Mumbai,B2C,391.06
+2902,Jeans,Boyfriend Jeans,5.0,3153.37,,0.0,28-09-2024,bengaluru,,-594.19
+2903,T-Shirts,Classic Tee,,,,0.0,,Hyderabad,B2C,2232.18
+2904,T-Shirts,Crop Top,5.0,1202.73,,0.0,03-11-2024,Hyd,B2C,658.6
+2905,Jeans,Straight Cut,,1478.93,,0.0,27-02-2025,hyderbad,B2C,25.28
+2906,Dresses,Bodycon,,,0.25,0.0,2024/09/04,Ahmedabad,,-116.3
+2907,T-Shirts,Graphic Tee,,,,0.0,01-05-2025,hyderbad,B2B,-782.3
+2908,Jeans,Straight Cut,,,0.51,0.0,2023-07-29,Pune,B2C,-61.23
+2909,T-Shirts,Crop Top,,2928.84,,0.0,2025/03/11,Delhi,B2B,-477.2
+2910,Dresses,Bodycon,,1027.54,0.55,0.0,2025/01/21,Ahmedabad,B2C,-580.87
+2911,Dresses,Casual Midi,1.0,,,0.0,,Ahmedabad,B2B,2672.56
+2912,Shoes,Boots,,,,0.0,02-08-2024,Pune,,-97.77
+2913,Shoes,Sneakers,,,,0.0,,Ahmedabad,B2C,1693.76
+2914,Accessories,Belts,,,1.03,0.0,2023-12-21,Delhi,,2321.6
+2915,Accessories,Belts,,3022.15,,0.0,19-12-2024,Delhi,,-528.82
+2916,Jackets,Denim Jacket,,2483.49,,0.0,2025/04/11,Ahmedabad,B2B,370.61
+1027,Accessories,Watches,,2092.33,,0.0,2025/04/14,Ahmedabad,,-586.88
+2918,Shoes,Sneakers,,,,0.0,,Delhi,,899.98
+2919,Jeans,Slim Fit Jeans,2.0,535.62,,0.0,27-07-2024,bengaluru,B2C,-637.47
+2920,Accessories,Belts,1.0,,1.3,0.0,2024/12/22,Hyderabad,,489.94
+2921,Shoes,Sneakers,6.0,,,0.0,2025/06/18,hyderbad,,-821.17
+2922,Jackets,Leather Jacket,,2488.95,1.23,0.0,,hyderbad,B2C,2827.47
+2923,Accessories,Sunglasses,0.0,,0.17,0.0,2024-01-20,Hyd,B2C,-674.63
+2924,Jackets,Bomber Jacket,,4151.88,0.05,0.0,30-03-2025,Pune,,577.77
+1004,Jeans,Slim Fit Jeans,,977.64,,0.0,17-11-2024,bengaluru,,2702.46
+2926,Dresses,Wrap Dress,4.0,3263.06,0.16,10963.88,2024/11/15,Mumbai,,2428.73
+2927,Dresses,Wrap Dress,,,,0.0,2025-07-21,Mumbai,B2B,-674.94
+2928,Shoes,Sneakers,0.0,,0.78,0.0,2024-11-01,Delhi,,642.22
+2929,T-Shirts,Classic Tee,,4733.41,1.13,0.0,11-12-2024,Bangalore,B2C,2459.5
+2930,Dresses,Wrap Dress,0.0,2642.73,0.09,0.0,2025-02-21,Ahmedabad,,996.68
+2931,Jeans,Ripped Denim,,2629.78,1.3,0.0,,Delhi,,2826.2
+2932,Shoes,Sneakers,,,,0.0,2024/10/06,Hyd,B2B,700.64
+2933,Jeans,Straight Cut,,2891.0,,0.0,13-04-2025,Delhi,B2C,1279.32
+2934,Dresses,Wrap Dress,5.0,,,0.0,2024-12-30,Ahmedabad,,-811.78
+2935,Shoes,Loafers,,3681.08,,0.0,,hyderbad,B2B,2705.42
+2936,Shoes,Loafers,,4487.5,,0.0,2025/06/23,Pune,B2B,2518.53
+2937,Accessories,Sunglasses,-2.0,,,0.0,29-11-2024,Mumbai,,-889.53
+2938,Shoes,Boots,,2429.63,,0.0,,Ahmedabad,B2B,-7.17
+2939,Shoes,Sneakers,,,,0.0,2025-01-23,bengaluru,,2143.94
+2940,Shoes,Slip-ons,,,,0.0,2025/02/09,Hyderabad,B2C,1992.92
+2941,Jackets,Puffer Coat,,2144.36,,0.0,2024/07/24,Pune,B2C,1435.03
+2942,Accessories,Sunglasses,2.0,,0.56,0.0,,Pune,,2500.35
+2943,Jeans,Boyfriend Jeans,,4638.02,,0.0,2025/03/07,Pune,,745.3
+2944,Dresses,Casual Midi,1.0,1313.35,0.2,1050.68,2025/03/06,Hyderabad,B2C,-384.05
+2945,Shoes,Boots,1.0,,,0.0,2024/10/27,Mumbai,,-130.97
+2946,Dresses,Wrap Dress,-1.0,,1.2,0.0,2023-11-23,Mumbai,B2B,2187.48
+2947,Shoes,Boots,2.0,,0.97,0.0,2025/02/11,Mumbai,B2C,1577.91
+2948,Jeans,Slim Fit Jeans,5.0,2494.15,,0.0,2025/02/07,Delhi,B2B,-901.7
+2949,Jeans,Boyfriend Jeans,,,0.1,0.0,,Pune,,1569.63
+2950,Accessories,Belts,2.0,,0.27,0.0,2024-12-26,Bangalore,,1158.28
+2951,Dresses,Wrap Dress,5.0,,,0.0,,Delhi,B2C,2454.07
+2952,Shoes,Boots,-2.0,470.68,0.06,-884.88,19-11-2024,Ahmedabad,B2B,2812.7
+2953,Shoes,Boots,3.0,3500.98,,0.0,,Mumbai,,-865.81
+2954,Dresses,Maxi Dress,,,,0.0,2024-08-14,Hyderabad,B2B,1632.71
+2955,Dresses,Wrap Dress,6.0,,1.28,0.0,2025/06/16,Ahmedabad,B2B,-646.89
+2956,Jackets,Puffer Coat,,2710.15,,0.0,21-12-2024,Delhi,B2C,2.22
+2957,Accessories,Belts,,,0.68,0.0,2025/03/08,Ahmedabad,B2C,301.72
+2958,T-Shirts,Classic Tee,-2.0,,,0.0,2024-04-11,Pune,B2C,-645.12
+2959,Shoes,Loafers,,4113.98,,0.0,2025-03-04,Mumbai,B2C,477.7
+2960,Accessories,Belts,,1536.53,0.96,0.0,2025/05/27,bengaluru,B2B,1052.28
+1021,T-Shirts,Classic Tee,2.0,,0.04,0.0,2025/03/03,Pune,B2C,796.33
+2962,Accessories,Belts,,,0.87,0.0,2024/10/31,Delhi,B2C,-617.13
+2963,Jeans,Slim Fit Jeans,,570.21,,0.0,2025/04/03,Delhi,B2B,380.3
+2964,Shoes,Boots,-1.0,,0.96,0.0,09-02-2025,Hyd,B2C,-937.17
+1038,Shoes,Boots,,,,0.0,2023-11-30,Pune,B2C,2689.89
+2966,T-Shirts,Crop Top,,1650.01,,0.0,09-12-2024,Hyderabad,B2B,2561.34
+2967,Dresses,Casual Midi,,,,0.0,2025/04/24,hyderbad,B2B,-346.59
+2968,Jackets,Puffer Coat,,,,0.0,2025-05-10,Mumbai,B2B,768.33
+2969,Jackets,Leather Jacket,,4858.47,0.68,0.0,2025/06/18,bengaluru,B2B,1115.89
+2970,T-Shirts,Oversized T-shirt,1.0,,,0.0,2024-11-15,Pune,B2C,1214.15
+2971,Dresses,Bodycon,6.0,1507.6,,0.0,11-02-2025,Delhi,B2C,2280.06
+2972,Dresses,Bodycon,5.0,,,0.0,,Pune,,2532.76
+2973,Accessories,Belts,,,,0.0,2024/12/15,hyderbad,B2C,1576.16
+2974,Accessories,Watches,6.0,1765.76,0.36,6780.52,21-05-2025,Ahmedabad,B2B,2947.0
+2975,Accessories,Caps,,3835.25,,0.0,12-02-2025,Ahmedabad,B2B,2378.4
+2976,T-Shirts,Classic Tee,,1572.95,,0.0,2025/01/06,Hyderabad,B2B,2532.02
+2977,Dresses,Casual Midi,-2.0,3205.93,,0.0,,Mumbai,B2C,1421.4
+2978,Dresses,Bodycon,3.0,,0.52,0.0,17-07-2025,Hyd,B2C,771.47
+2979,T-Shirts,Classic Tee,,,0.23,0.0,,Mumbai,,862.17
+2980,T-Shirts,Classic Tee,,,0.36,0.0,2024/12/02,Delhi,B2C,147.67
+1040,T-Shirts,Crop Top,,,,0.0,2025-05-05,Delhi,B2B,2959.73
+2982,T-Shirts,Oversized T-shirt,-1.0,2497.52,,0.0,2023-11-23,Ahmedabad,,-523.43
+2983,Shoes,Sneakers,,,,0.0,,Pune,,1347.94
+2984,Shoes,Loafers,4.0,2062.9,,0.0,2024-08-02,Mumbai,B2C,2471.06
+2985,Jeans,Straight Cut,,,1.15,0.0,2025-01-15,Hyd,,774.28
+2986,Dresses,Wrap Dress,-2.0,,,0.0,23-10-2024,Mumbai,B2B,-283.42
+2987,Accessories,Belts,6.0,2584.43,,0.0,,Delhi,B2C,992.21
+2988,T-Shirts,Graphic Tee,,,,0.0,,Pune,,2784.91
+2989,Shoes,Boots,-1.0,4084.97,0.83,-694.44,2024-01-29,Mumbai,B2B,2395.43
+2990,Jeans,Slim Fit Jeans,0.0,3205.73,,0.0,2024/09/21,Mumbai,,1600.5
+2991,Dresses,Bodycon,,2053.65,,0.0,17-10-2024,Hyd,,-86.89
+2992,Jeans,Straight Cut,,4747.16,0.9,0.0,2024-01-26,Bangalore,B2B,2189.05
+2993,Accessories,Caps,,,,0.0,23-02-2025,Mumbai,B2C,-568.91
+2994,T-Shirts,Oversized T-shirt,5.0,919.26,,0.0,,hyderbad,,2805.22
+2995,Shoes,Sneakers,,2617.66,0.55,0.0,2025/02/06,Mumbai,,1406.13
+2996,Dresses,Wrap Dress,2.0,3750.45,1.04,-300.04,2025-03-08,Ahmedabad,,1108.38
+1027,Jackets,Bomber Jacket,,,,0.0,,Hyderabad,,1921.25
+2998,Jackets,Puffer Coat,0.0,3453.58,,0.0,2024/10/29,Mumbai,B2B,2018.4
+2999,Shoes,Loafers,,,,0.0,,Hyd,B2B,-828.2
+1034,Dresses,Casual Midi,,,,0.0,2024-09-22,Hyd,,-41.81
+3001,Jackets,Denim Jacket,-1.0,1171.57,,0.0,2024/11/05,Pune,,2541.21
+1046,T-Shirts,Oversized T-shirt,,,,0.0,2024-08-24,Delhi,B2B,900.65
+3003,Jeans,Straight Cut,-1.0,,,0.0,2024/10/16,Delhi,B2B,605.98
+3004,T-Shirts,Crop Top,3.0,1759.66,,0.0,04-04-2025,Mumbai,,1133.07
+3005,Jackets,Bomber Jacket,,,,0.0,2024-05-08,Hyderabad,B2C,2378.14
+3006,Shoes,Loafers,,,1.26,0.0,,Pune,B2B,1441.9
+3007,Shoes,Loafers,-2.0,3922.01,,0.0,10-03-2025,bengaluru,B2B,2186.58
+3008,Accessories,Sunglasses,,2880.85,,0.0,2025/05/21,Delhi,B2C,2519.23
+3009,Jeans,Slim Fit Jeans,,,,0.0,14-03-2025,Bangalore,B2C,25.22
+3010,Jackets,Puffer Coat,-2.0,,0.68,0.0,2024-09-30,Hyd,B2C,671.7
+3011,Accessories,Belts,,4016.78,1.03,0.0,03-05-2025,Delhi,B2B,729.73
+3012,Accessories,Caps,,673.96,,0.0,,bengaluru,B2B,799.35
+3013,T-Shirts,Graphic Tee,,,0.66,0.0,01-02-2025,bengaluru,,-572.35
+3014,T-Shirts,Graphic Tee,2.0,,,0.0,02-07-2025,Delhi,B2B,1056.99
+3015,Jeans,Ripped Denim,,3211.0,0.56,0.0,2024/11/05,Delhi,B2C,-659.55
+3016,Accessories,Belts,5.0,,,0.0,2024-12-16,hyderbad,B2C,426.15
+3017,Shoes,Boots,,,,0.0,2024/12/15,Ahmedabad,B2C,1237.13
+3018,Jeans,Slim Fit Jeans,0.0,4744.86,,0.0,2024/11/27,Hyderabad,,2963.16
+3019,Jeans,Slim Fit Jeans,0.0,2705.09,,0.0,05-10-2024,hyderbad,B2C,-546.72
+3020,Shoes,Boots,,,,0.0,2024/08/21,bengaluru,B2B,134.93
+3021,Jackets,Bomber Jacket,3.0,,,0.0,2025/02/04,Mumbai,B2B,-571.78
+3022,Accessories,Belts,3.0,1695.61,,0.0,2024/08/08,Delhi,B2C,297.83
+3023,T-Shirts,Oversized T-shirt,,,,0.0,2023-08-28,Delhi,B2C,2001.88
+3024,T-Shirts,Classic Tee,,,0.18,0.0,,Mumbai,,1505.68
+3025,Accessories,Belts,2.0,,,0.0,2023-12-24,bengaluru,B2C,2275.07
+3026,Jeans,Straight Cut,,3345.45,,0.0,2024/08/08,hyderbad,B2C,2896.95
+3027,Accessories,Watches,,,,0.0,30-10-2024,Mumbai,B2B,1256.47
+3028,Shoes,Slip-ons,,,0.74,0.0,2025-01-07,bengaluru,,-436.73
+1031,Jeans,Slim Fit Jeans,,2267.3,0.91,0.0,2025/03/16,Bangalore,B2C,1673.55
+3030,Accessories,Watches,,4101.89,,0.0,2024/12/20,Delhi,B2C,1196.03
+3031,Jackets,Leather Jacket,-1.0,,,0.0,2024-07-28,Hyderabad,B2C,-970.17
+3032,Shoes,Slip-ons,5.0,3654.9,,0.0,,Ahmedabad,,1069.81
+3033,T-Shirts,Classic Tee,,1787.52,,0.0,2025/02/14,Hyd,B2B,2626.27
+3034,T-Shirts,Oversized T-shirt,,,,0.0,,Ahmedabad,B2B,2599.13
+3035,Dresses,Casual Midi,4.0,,1.0,0.0,,Bangalore,B2B,2640.01
+3036,Dresses,Bodycon,,3997.83,,0.0,2025/05/07,Delhi,B2B,1399.12
+3037,Jackets,Puffer Coat,,,0.85,0.0,14-08-2024,Delhi,B2C,-298.81
+3038,Jackets,Bomber Jacket,,1318.04,,0.0,08-02-2025,Ahmedabad,B2C,-19.53
+3039,Jeans,Slim Fit Jeans,,,,0.0,,Pune,,748.79
+3040,Shoes,Slip-ons,-2.0,,,0.0,19-03-2025,hyderbad,B2B,2991.73
+3041,Jackets,Bomber Jacket,,,,0.0,05-12-2024,hyderbad,,2179.93
+3042,Jackets,Leather Jacket,3.0,848.45,,0.0,,bengaluru,B2C,1334.54
+3043,Accessories,Caps,,1137.77,,0.0,2023-12-04,Delhi,B2C,-471.37
+3044,T-Shirts,Oversized T-shirt,,431.31,1.25,0.0,03-06-2025,Mumbai,B2C,2866.66
+3045,Dresses,Casual Midi,,3180.69,,0.0,2023-08-13,Hyderabad,B2B,2237.56
+3046,Jeans,Straight Cut,,,,0.0,,hyderbad,B2B,372.98
+1037,T-Shirts,Oversized T-shirt,,,,0.0,,Mumbai,B2C,1396.38
+3048,Jackets,Puffer Coat,,1136.41,,0.0,2025/02/11,Ahmedabad,B2B,2504.79
+3049,Dresses,Wrap Dress,-2.0,,,0.0,2025-05-17,Mumbai,,2001.07
+3050,Jeans,Ripped Denim,,3177.78,,0.0,2024-10-28,Ahmedabad,B2C,407.14
+3051,Shoes,Loafers,0.0,,,0.0,,Bangalore,B2B,1877.82
+3052,Accessories,Belts,-1.0,1290.42,,0.0,2024-04-21,Ahmedabad,B2B,-196.63
+3053,Shoes,Sneakers,5.0,,,0.0,,Ahmedabad,B2C,612.53
+3054,Dresses,Wrap Dress,5.0,1722.34,1.04,-344.47,2024-08-01,Delhi,B2B,2459.28
+3055,Dresses,Casual Midi,1.0,,,0.0,2025-06-13,Mumbai,B2C,2024.8
+3056,Shoes,Sneakers,4.0,,,0.0,06-12-2024,Mumbai,,2126.75
+3057,Jackets,Bomber Jacket,,,1.05,0.0,2025/07/01,Ahmedabad,,2241.83
+3058,T-Shirts,Graphic Tee,,2948.36,,0.0,,Pune,B2B,1074.35
+3059,T-Shirts,Crop Top,-2.0,4949.17,,0.0,2025/05/08,Bangalore,B2B,1267.49
+3060,Accessories,Watches,,,0.71,0.0,2025/01/22,Mumbai,,1011.23
+3061,T-Shirts,Crop Top,-1.0,1873.39,0.74,-487.08,20-12-2024,Hyderabad,B2B,1596.53
+3062,T-Shirts,Classic Tee,,4312.55,,0.0,2025/01/09,Hyderabad,,496.16
+3063,T-Shirts,Graphic Tee,,4971.93,0.51,0.0,2025/04/13,Hyderabad,,1941.61
+3064,Jackets,Puffer Coat,,,1.24,0.0,02-05-2025,hyderbad,,2520.12
+3065,T-Shirts,Crop Top,-1.0,873.64,0.17,-725.12,2025/03/20,Pune,,1107.85
+3066,Shoes,Boots,,,1.28,0.0,29-05-2025,Mumbai,B2C,80.29
+3067,T-Shirts,Oversized T-shirt,0.0,,,0.0,10-10-2024,bengaluru,,2711.03
+3068,Shoes,Sneakers,,,0.99,0.0,,Pune,B2C,1886.51
+3069,Jackets,Puffer Coat,,,,0.0,2024-10-26,bengaluru,,-524.33
+3070,Jackets,Leather Jacket,,,,0.0,21-08-2024,Delhi,B2B,1136.04
+3071,Shoes,Sneakers,,4617.85,1.02,0.0,2023-10-30,Delhi,B2C,1778.15
+3072,Shoes,Boots,6.0,,,0.0,2025/01/07,Ahmedabad,B2C,1650.33
+3073,Accessories,Sunglasses,1.0,478.6,1.18,-86.15,06-04-2025,bengaluru,B2B,1139.84
+3074,Accessories,Caps,2.0,,,0.0,2024-02-05,Mumbai,B2B,-906.63
+3075,Accessories,Watches,,1501.49,0.43,0.0,20-08-2024,Hyd,B2C,-100.14
+3076,T-Shirts,Crop Top,0.0,,,0.0,03-09-2024,Pune,,1933.72
+3077,Dresses,Casual Midi,4.0,,0.92,0.0,2025-04-19,Ahmedabad,B2C,-528.22
+3078,Jackets,Puffer Coat,,2563.24,,0.0,,Ahmedabad,B2B,195.81
+3079,Shoes,Boots,,2839.98,,0.0,15-08-2024,Mumbai,B2B,-48.25
+3080,T-Shirts,Crop Top,,,,0.0,2025/04/30,bengaluru,B2B,2067.89
+3081,T-Shirts,Oversized T-shirt,,,,0.0,,Ahmedabad,,-245.42
+3082,Dresses,Maxi Dress,5.0,,,0.0,2025-05-20,Pune,,664.73
+3083,T-Shirts,Crop Top,,1573.64,,0.0,08-07-2025,Delhi,,792.35
+3084,T-Shirts,Oversized T-shirt,,2316.64,0.7,0.0,2024/09/18,Ahmedabad,B2B,-657.76
+3085,T-Shirts,Crop Top,4.0,,,0.0,2024/08/28,Mumbai,B2C,2563.31
+3086,Accessories,Watches,-1.0,,,0.0,2023-11-23,Delhi,B2B,918.53
+3087,Jeans,Slim Fit Jeans,,692.46,1.2,0.0,2024/09/07,Bangalore,,-901.21
+1028,Jeans,Slim Fit Jeans,-2.0,3344.74,1.1,668.95,2025/02/04,Ahmedabad,B2B,2728.08
+3089,Accessories,Belts,-2.0,3153.72,,0.0,2025/02/04,hyderbad,B2B,2686.96
+3090,Dresses,Wrap Dress,-2.0,3033.2,,0.0,2024-09-02,Pune,B2B,490.69
+3091,Accessories,Watches,,1091.76,0.54,0.0,2024/11/17,Hyderabad,,2584.69
+3092,Jackets,Puffer Coat,,,,0.0,2025-02-26,Bangalore,,250.05
+3093,Shoes,Boots,2.0,1551.41,0.54,1427.3,2024/12/20,Delhi,B2C,763.37
+3094,Dresses,Wrap Dress,,4382.86,,0.0,2025/04/25,Pune,,1172.7
+3095,Accessories,Watches,1.0,,,0.0,01-07-2025,Pune,,2699.57
+3096,Shoes,Boots,2.0,2312.09,,0.0,2025/06/13,Bangalore,,508.96
+3097,Shoes,Boots,,3111.65,,0.0,2024/09/03,Hyderabad,B2B,2868.09
+1028,Dresses,Maxi Dress,,2996.43,,0.0,,Pune,B2C,2205.57
+3099,Accessories,Watches,,4426.87,,0.0,2024/12/21,Pune,B2B,2480.95
+3100,Jackets,Leather Jacket,,,,0.0,29-08-2024,Ahmedabad,B2B,2379.74
+3101,Accessories,Belts,1.0,,,0.0,18-07-2025,Mumbai,B2B,478.53
+1025,Dresses,Maxi Dress,0.0,,,0.0,2024-11-11,Ahmedabad,B2B,-861.84
+3103,T-Shirts,Graphic Tee,5.0,,,0.0,18-11-2024,Bangalore,B2C,654.74
+3104,Dresses,Casual Midi,,4274.01,0.28,0.0,2024/12/11,Ahmedabad,B2B,2263.57
+3105,Accessories,Belts,,,,0.0,2025-05-09,Hyderabad,B2C,1488.64
+3106,Accessories,Sunglasses,6.0,,,0.0,24-06-2025,Delhi,,-521.15
+3107,Jeans,Slim Fit Jeans,,2068.64,,0.0,,Mumbai,B2C,2447.29
+3108,Dresses,Wrap Dress,,,,0.0,2025/07/09,Mumbai,,-815.76
+3109,T-Shirts,Crop Top,5.0,,0.35,0.0,,Ahmedabad,,445.05
+3110,Jeans,Boyfriend Jeans,,4103.32,,0.0,2025/02/21,Delhi,,-828.25
+3111,T-Shirts,Classic Tee,-1.0,839.87,,0.0,,bengaluru,B2C,-286.1
+3112,Shoes,Loafers,,3026.75,,0.0,2024-08-28,Delhi,B2B,-565.92
+3113,Shoes,Loafers,4.0,3256.86,0.77,2996.31,2024-09-13,bengaluru,B2B,-109.08
+3114,Jeans,Slim Fit Jeans,2.0,4082.61,,0.0,,Pune,,-454.61
+3115,Accessories,Caps,,,,0.0,2024-08-23,Hyderabad,,-546.69
+3116,Dresses,Wrap Dress,,1237.15,,0.0,24-03-2025,Bangalore,B2B,1357.42
+3117,Jackets,Denim Jacket,4.0,,0.29,0.0,2024/09/28,Bangalore,B2B,-706.51
+3118,Jackets,Puffer Coat,,948.06,0.6,0.0,15-11-2024,Pune,B2B,69.35
+3119,Jeans,Slim Fit Jeans,,722.74,,0.0,11-12-2024,Pune,B2C,1610.64
+3120,Accessories,Sunglasses,,824.59,0.13,0.0,2025/06/10,Hyd,,-276.22
+3121,Jackets,Bomber Jacket,,1049.27,,0.0,2025/03/01,Hyderabad,B2C,-648.45
+3122,Accessories,Belts,,,1.19,0.0,2024-12-23,Pune,B2C,551.79
+3123,Jackets,Bomber Jacket,5.0,,,0.0,06-03-2025,Hyderabad,B2C,1980.42
+3124,T-Shirts,Crop Top,,,0.87,0.0,2023-08-17,Pune,B2B,-399.81
+3125,Dresses,Casual Midi,5.0,4264.79,,0.0,03-10-2024,Ahmedabad,B2C,2388.91
+3126,T-Shirts,Graphic Tee,4.0,,,0.0,2024/11/13,Mumbai,B2B,2624.13
+3127,Shoes,Boots,,491.77,0.9,0.0,2025/01/06,Pune,B2B,2069.05
+3128,Dresses,Casual Midi,,3216.9,,0.0,2025-06-03,hyderbad,,192.22
+3129,Jeans,Straight Cut,,3201.09,,0.0,24-05-2025,Pune,B2C,2989.88
+3130,Dresses,Casual Midi,,3742.62,,0.0,2025/04/18,Mumbai,B2C,2886.26
+3131,Accessories,Belts,,4938.03,,0.0,2023-12-18,Delhi,B2B,878.99
+3132,Jackets,Denim Jacket,6.0,2940.45,,0.0,,Hyderabad,B2C,-583.81
+3133,Jackets,Denim Jacket,1.0,974.54,0.44,545.74,2024/10/05,Hyd,B2B,2655.22
+3134,Jackets,Bomber Jacket,,,0.53,0.0,,Ahmedabad,B2B,1130.74
+3135,Jackets,Puffer Coat,1.0,,0.67,0.0,,Hyderabad,B2B,2619.5
+3136,T-Shirts,Graphic Tee,,3622.93,,0.0,2024-01-22,Delhi,B2C,813.36
+3137,Jackets,Puffer Coat,,,,0.0,2024-11-17,bengaluru,,-122.35
+3138,Accessories,Caps,0.0,855.81,0.31,0.0,2025/07/04,Delhi,B2C,1801.0
+3139,T-Shirts,Oversized T-shirt,6.0,,,0.0,,Hyderabad,B2B,563.12
+3140,Jeans,Ripped Denim,,,,0.0,,Ahmedabad,B2B,2551.31
+3141,Jackets,Denim Jacket,,,,0.0,2024-05-18,Mumbai,B2C,2279.18
+3142,Dresses,Bodycon,1.0,4887.36,,0.0,2024/10/29,Hyderabad,B2B,-243.32
+3143,T-Shirts,Oversized T-shirt,,,,0.0,,hyderbad,B2B,-525.49
+3144,Dresses,Casual Midi,,2664.43,,0.0,2025-04-27,Hyderabad,,1324.18
+3145,Jackets,Bomber Jacket,,4414.97,,0.0,,Hyderabad,B2B,2754.74
+3146,Jackets,Bomber Jacket,,,,0.0,,Hyderabad,B2B,146.19
+3147,Dresses,Casual Midi,,,,0.0,15-07-2025,Bangalore,,2987.89
+3148,Dresses,Casual Midi,6.0,,0.5,0.0,2024-03-27,Ahmedabad,B2C,605.46
+3149,Shoes,Loafers,5.0,,,0.0,,Bangalore,B2C,-681.76
+3150,T-Shirts,Graphic Tee,0.0,850.69,0.41,0.0,10-09-2024,bengaluru,,2291.93
+3151,Jeans,Slim Fit Jeans,,,0.19,0.0,2025/06/28,Mumbai,B2B,-858.13
+3152,T-Shirts,Graphic Tee,-2.0,2116.65,0.21,-3344.31,2024/09/28,Mumbai,,385.42
+3153,Dresses,Casual Midi,,4723.02,0.52,0.0,,Ahmedabad,B2B,316.63
+1047,T-Shirts,Oversized T-shirt,1.0,3154.48,,0.0,2024/07/28,Ahmedabad,B2C,-243.92
+3155,Accessories,Caps,,,0.27,0.0,,Mumbai,B2C,2621.96
+3156,Shoes,Loafers,1.0,,0.52,0.0,,Ahmedabad,B2C,2568.9
+3157,Accessories,Caps,6.0,1768.88,,0.0,2024-01-19,Pune,B2B,-750.14
+3158,Shoes,Boots,,,,0.0,2024/07/27,Pune,,-274.09
+3159,T-Shirts,Graphic Tee,,,,0.0,12-03-2025,Delhi,B2B,1668.66
+3160,Jeans,Ripped Denim,6.0,4976.81,,0.0,2025/05/17,Ahmedabad,B2C,845.06
+3161,Accessories,Belts,,,,0.0,2024-05-10,Mumbai,B2C,1399.1
+3162,Accessories,Sunglasses,,,,0.0,2024/12/29,bengaluru,,344.06
+3163,Jeans,Ripped Denim,,,,0.0,2025/06/08,Ahmedabad,B2C,-13.76
+3164,Jackets,Bomber Jacket,3.0,,0.09,0.0,2025/04/02,Bangalore,B2C,-750.61
+3165,Dresses,Bodycon,,2994.31,,0.0,,Bangalore,B2C,-990.57
+3166,Dresses,Bodycon,-2.0,,,0.0,2025/01/17,Pune,B2B,1384.25
+3167,Jeans,Ripped Denim,,,,0.0,23-09-2024,Mumbai,B2B,1078.74
+3168,Jeans,Ripped Denim,-1.0,1845.75,,0.0,06-06-2025,bengaluru,B2B,268.45
+3169,Jackets,Puffer Coat,-2.0,,,0.0,2024-03-29,Hyderabad,B2C,796.19
+3170,Jackets,Denim Jacket,2.0,2229.77,,0.0,,Ahmedabad,B2C,2733.99
+3171,T-Shirts,Classic Tee,,3618.17,,0.0,2025-06-08,Ahmedabad,B2B,726.81
+3172,Shoes,Sneakers,3.0,4433.35,,0.0,28-11-2024,Pune,,329.75
+1050,Shoes,Sneakers,4.0,1205.98,,0.0,,Delhi,B2C,-794.73
+3174,Jackets,Puffer Coat,4.0,4345.79,1.14,-2433.64,17-02-2025,Pune,,2747.47
+3175,Jeans,Straight Cut,3.0,2937.09,,0.0,2024-03-27,Pune,B2C,2471.63
+3176,Dresses,Wrap Dress,,4473.84,0.3,0.0,2024/08/11,Pune,B2B,2874.33
+3177,Jeans,Slim Fit Jeans,-1.0,,,0.0,2025-02-09,Ahmedabad,B2C,2693.49
+3178,Jackets,Denim Jacket,,,0.66,0.0,,hyderbad,B2C,-174.17
+3179,Jackets,Puffer Coat,1.0,2057.88,,0.0,2024/10/23,Ahmedabad,B2C,932.33
+3180,Shoes,Boots,5.0,1981.32,,0.0,2024/08/15,Bangalore,,1113.19
+3181,Shoes,Loafers,,,,0.0,2024-05-29,Ahmedabad,,1727.03
+3182,Dresses,Wrap Dress,,3078.92,,0.0,,Hyderabad,B2B,1935.04
+3183,Accessories,Watches,,,,0.0,2024-06-01,bengaluru,,2332.84
+3184,Shoes,Slip-ons,3.0,,1.0,0.0,2023-07-28,Pune,,386.15
+3185,Jeans,Ripped Denim,2.0,,,0.0,2024-11-05,Ahmedabad,,-726.08
+3186,Jeans,Ripped Denim,5.0,,,0.0,,hyderbad,B2B,-637.71
+3187,Dresses,Maxi Dress,6.0,3998.97,,0.0,2024-01-30,Mumbai,B2C,716.49
+3188,Accessories,Belts,,936.76,,0.0,,Hyderabad,B2B,1308.49
+3189,Shoes,Boots,,1299.74,0.09,0.0,2024-12-18,Bangalore,B2C,1607.44
+3190,Shoes,Sneakers,,,0.44,0.0,,Hyderabad,B2B,620.19
+3191,Jackets,Denim Jacket,,,,0.0,2025-01-30,Delhi,,173.16
+3192,Jeans,Straight Cut,-2.0,3568.45,0.37,-4496.25,2023-07-29,Delhi,B2C,1683.74
+3193,Jeans,Boyfriend Jeans,3.0,,,0.0,2024-06-22,Ahmedabad,B2C,1236.54
+1022,Shoes,Sneakers,,3611.35,,0.0,2025-07-10,Ahmedabad,,-200.64
+3195,Jackets,Denim Jacket,,958.16,,0.0,2024-01-11,Delhi,B2C,2567.7
+3196,Dresses,Wrap Dress,,4897.24,,0.0,2024/08/14,Pune,B2B,2989.6
+3197,Accessories,Caps,5.0,,1.12,0.0,2024/09/05,hyderbad,B2C,2348.85
+3198,Jackets,Puffer Coat,,,,0.0,01-04-2025,Pune,B2C,816.72
+1003,Jeans,Slim Fit Jeans,,,,0.0,2024-04-14,Mumbai,B2C,-756.14
+3200,Accessories,Caps,,,,0.0,18-08-2024,Mumbai,B2B,2779.48
+3201,Shoes,Sneakers,,3494.89,,0.0,2024/09/11,Hyd,B2C,1036.32
+1006,Shoes,Loafers,,2520.44,0.15,0.0,10-02-2025,bengaluru,B2C,2408.28
+3203,Jackets,Denim Jacket,-1.0,4883.52,,0.0,,Pune,,1510.55
+3204,Accessories,Sunglasses,0.0,781.13,,0.0,28-07-2024,Mumbai,B2C,2822.85
+3205,Shoes,Sneakers,,,,0.0,20-12-2024,hyderbad,,1723.22
+3206,Dresses,Bodycon,-1.0,,0.54,0.0,2024-12-08,Delhi,B2C,550.46
+3207,Jeans,Straight Cut,,,,0.0,,Ahmedabad,B2C,-547.29
+3208,Accessories,Watches,4.0,4280.7,,0.0,19-09-2024,Pune,B2B,68.36
+3209,Shoes,Boots,,3221.55,,0.0,2023-12-19,Ahmedabad,B2B,1996.4
+3210,Jeans,Ripped Denim,0.0,,,0.0,19-01-2025,Mumbai,B2B,1580.66
+3211,T-Shirts,Crop Top,,1624.28,1.29,0.0,2025-02-09,Bangalore,B2B,1863.17
+3212,Jackets,Puffer Coat,,4606.85,0.28,0.0,26-08-2024,Ahmedabad,B2C,188.97
+3213,Jackets,Bomber Jacket,6.0,1213.25,1.11,-800.75,2024/10/27,Ahmedabad,B2C,-82.79
+3214,Jeans,Ripped Denim,,,,0.0,2025-04-27,Mumbai,B2C,1084.99
+3215,Jeans,Ripped Denim,1.0,552.81,0.57,237.71,,Delhi,,206.75
+3216,Shoes,Sneakers,0.0,,0.07,0.0,2024/10/31,Pune,,1989.05
+3217,Dresses,Wrap Dress,,1039.75,,0.0,2023-07-29,Pune,B2C,902.04
+3218,T-Shirts,Crop Top,0.0,,0.16,0.0,16-08-2024,Pune,B2B,946.6
+3219,Shoes,Boots,5.0,,,0.0,2024-03-24,bengaluru,B2C,908.45
+1006,Jeans,Ripped Denim,,732.96,0.21,0.0,,hyderbad,B2B,-702.58
+3221,Accessories,Belts,-2.0,,,0.0,17-07-2025,Pune,,2141.34
+3222,Dresses,Bodycon,-2.0,,,0.0,2025-02-15,Pune,B2B,-545.96
+3223,T-Shirts,Graphic Tee,,,,0.0,2024-03-05,Mumbai,B2C,1477.87
+3224,Jeans,Slim Fit Jeans,6.0,878.95,0.01,5220.96,22-04-2025,Mumbai,,2099.52
+3225,Dresses,Casual Midi,6.0,,,0.0,,Pune,,2666.58
+3226,Dresses,Wrap Dress,,,,0.0,2023-08-08,bengaluru,B2C,2715.65
+3227,Accessories,Belts,,,,0.0,2024/08/01,Mumbai,B2C,2498.22
+3228,T-Shirts,Graphic Tee,,2125.02,,0.0,2024/09/28,hyderbad,B2C,1154.25
+3229,Accessories,Caps,-1.0,,,0.0,,Delhi,B2C,1178.45
+3230,Jackets,Puffer Coat,3.0,4694.31,0.09,12815.47,,Bangalore,B2B,-215.18
+3231,Shoes,Loafers,,,,0.0,2024-02-23,Pune,B2B,2837.72
+3232,Jackets,Puffer Coat,-2.0,,0.3,0.0,30-11-2024,Bangalore,,1045.42
+3233,T-Shirts,Crop Top,,2654.66,,0.0,2024-07-18,Bangalore,B2B,2008.66
+3234,Jeans,Ripped Denim,,2068.3,,0.0,27-11-2024,Hyd,,-896.79
+3235,Shoes,Loafers,,3466.1,,0.0,27-05-2025,bengaluru,,1011.48
+3236,Jackets,Leather Jacket,,3253.51,0.55,0.0,2024/12/28,Pune,B2C,713.71
+3237,Jackets,Puffer Coat,3.0,,,0.0,27-09-2024,Ahmedabad,,1866.05
+3238,T-Shirts,Classic Tee,,,0.87,0.0,2024/09/25,Delhi,,744.17
+3239,Jeans,Straight Cut,1.0,4585.71,,0.0,2025/05/18,Ahmedabad,B2B,1277.56
+3240,Dresses,Casual Midi,,,,0.0,2024-10-10,bengaluru,B2B,940.05
+1026,T-Shirts,Crop Top,0.0,3186.11,0.74,0.0,18-10-2024,Ahmedabad,B2C,2939.87
+3242,Shoes,Loafers,,,0.16,0.0,2024-03-16,Mumbai,B2B,2996.49
+3243,Dresses,Bodycon,4.0,,0.87,0.0,,Delhi,B2B,1345.46
+3244,Accessories,Watches,-2.0,,0.47,0.0,2025/02/26,Ahmedabad,B2B,2205.34
+3245,Shoes,Sneakers,,,,0.0,2023-12-22,Hyderabad,B2B,1403.98
+3246,Jeans,Boyfriend Jeans,,4842.74,,0.0,,Pune,,2628.24
+3247,Dresses,Casual Midi,,,,0.0,2024/12/05,Delhi,B2B,2182.49
+3248,Dresses,Casual Midi,,2061.91,,0.0,2025/05/23,Ahmedabad,,-729.1
+3249,T-Shirts,Crop Top,,,,0.0,,Delhi,,1787.82
+3250,T-Shirts,Crop Top,,,,0.0,,Bangalore,,2200.6
+3251,Dresses,Maxi Dress,,,,0.0,15-01-2025,Delhi,B2C,2977.81
+3252,Shoes,Slip-ons,,,,0.0,2025/02/12,Ahmedabad,B2B,-544.7
+3253,Jackets,Bomber Jacket,5.0,4429.95,0.35,14397.34,11-03-2025,Hyderabad,,-746.94
+3254,Jackets,Bomber Jacket,-2.0,,1.02,0.0,2025/06/07,Pune,B2C,2285.19
+3255,Accessories,Watches,6.0,3904.86,,0.0,04-12-2024,Mumbai,B2C,1504.25
+3256,T-Shirts,Crop Top,2.0,,,0.0,2025-07-22,Mumbai,B2B,298.94
+3257,T-Shirts,Graphic Tee,-2.0,,,0.0,2025/03/18,Hyd,B2B,-271.48
+3258,Shoes,Loafers,,,,0.0,2025-03-06,Ahmedabad,B2B,682.17
+3259,Shoes,Boots,,,,0.0,2025-04-19,Mumbai,B2B,2448.22
+1024,Accessories,Watches,-2.0,940.64,0.67,-620.82,10-01-2025,Mumbai,B2C,1552.9
+3261,Jackets,Denim Jacket,-1.0,,,0.0,12-05-2025,Pune,B2C,-602.39
+3262,Accessories,Caps,,3727.53,,0.0,,Ahmedabad,,29.62
+3263,Shoes,Sneakers,6.0,3121.49,,0.0,2025-01-21,Bangalore,B2B,1156.27
+3264,Dresses,Wrap Dress,,944.36,0.07,0.0,2025/06/23,hyderbad,,1133.74
+3265,Jackets,Leather Jacket,-1.0,1882.93,,0.0,27-06-2025,Bangalore,B2B,520.85
+3266,T-Shirts,Classic Tee,,3349.58,,0.0,,Mumbai,B2B,1085.2
+3267,Dresses,Maxi Dress,1.0,3965.8,0.48,2062.22,2024-10-22,bengaluru,B2B,1222.85
+1045,Accessories,Sunglasses,-2.0,,,0.0,2024-02-25,Pune,B2C,454.74
+3269,T-Shirts,Crop Top,,2998.25,1.19,0.0,2024-03-29,Ahmedabad,,-781.65
+3270,T-Shirts,Oversized T-shirt,3.0,3190.74,0.96,382.89,,Ahmedabad,,2195.96
+3271,Accessories,Watches,0.0,2672.26,0.29,0.0,2025-01-05,Ahmedabad,B2C,722.57
+3272,Shoes,Boots,3.0,4236.45,,0.0,2024-08-27,Mumbai,B2C,-849.83
+3273,Shoes,Boots,,4089.68,,0.0,2024/08/12,bengaluru,B2B,-713.14
+3274,Dresses,Casual Midi,-2.0,4409.22,,0.0,2024-08-30,Delhi,B2C,2886.62
+3275,Accessories,Watches,6.0,,,0.0,2024/08/16,Ahmedabad,B2C,-733.06
+3276,T-Shirts,Oversized T-shirt,6.0,,,0.0,2025/01/07,Pune,B2C,-659.65
+3277,Jackets,Denim Jacket,,3583.06,,0.0,,Ahmedabad,B2C,2185.25
+3278,Accessories,Belts,,3767.69,0.46,0.0,2024/09/21,Bangalore,B2C,746.84
+3279,Accessories,Watches,0.0,4643.96,0.82,0.0,18-09-2024,bengaluru,B2C,2569.86
+3280,Dresses,Wrap Dress,,,,0.0,2023-10-12,Hyd,,601.65
+3281,Jackets,Bomber Jacket,,,0.23,0.0,2024-04-05,bengaluru,,1469.72
+3282,Jeans,Ripped Denim,2.0,4405.96,0.28,6344.58,2024-08-24,Bangalore,B2B,503.27
+3283,Dresses,Casual Midi,3.0,,,0.0,,Mumbai,B2C,1653.09
+3284,Accessories,Sunglasses,2.0,,,0.0,19-03-2025,Delhi,B2C,1560.64
+3285,T-Shirts,Graphic Tee,0.0,4347.43,,0.0,21-02-2025,Delhi,,1440.27
+3286,Jackets,Denim Jacket,-2.0,,,0.0,14-07-2025,Hyderabad,,2616.28
+3287,Jackets,Leather Jacket,,,0.21,0.0,2025-02-25,Bangalore,B2C,1684.69
+3288,Jackets,Bomber Jacket,5.0,,,0.0,,bengaluru,B2C,1657.65
+3289,Accessories,Sunglasses,,,1.08,0.0,,Ahmedabad,B2B,-272.84
+3290,Jackets,Puffer Coat,,,,0.0,2025-06-20,Pune,B2B,1001.31
+3291,Accessories,Belts,3.0,,0.27,0.0,2024/11/29,Delhi,B2C,1907.94
+3292,T-Shirts,Oversized T-shirt,,,0.5,0.0,2024-03-27,hyderbad,B2B,-774.38
+1045,T-Shirts,Graphic Tee,4.0,,0.98,0.0,2025/04/15,Pune,,1009.78
+3294,T-Shirts,Oversized T-shirt,4.0,1316.9,0.11,4688.16,15-09-2024,Delhi,B2C,2743.65
+3295,T-Shirts,Crop Top,,,,0.0,,Hyd,,-623.55
+1022,T-Shirts,Crop Top,5.0,,0.39,0.0,,Ahmedabad,B2B,-63.0
+3297,Shoes,Slip-ons,,,,0.0,2025/01/21,Delhi,B2C,1746.36
+3298,Accessories,Belts,1.0,2124.13,0.85,318.62,2024/08/03,Hyd,,1126.81
+3299,Jackets,Leather Jacket,-1.0,4090.34,0.99,-40.9,01-06-2025,Mumbai,B2B,1676.64
+3300,Accessories,Sunglasses,5.0,,1.06,0.0,,bengaluru,B2C,525.1
+3301,T-Shirts,Graphic Tee,5.0,2590.44,,0.0,2024/08/10,Hyderabad,,-613.96
+3302,Jeans,Straight Cut,3.0,,,0.0,27-05-2025,Delhi,B2B,2938.26
+3303,Shoes,Slip-ons,,,,0.0,2024/11/26,Hyderabad,,295.89
+3304,Accessories,Watches,,4452.04,,0.0,2024-03-27,bengaluru,B2C,2932.37
+3305,Jeans,Boyfriend Jeans,,,,0.0,27-11-2024,Mumbai,B2C,1362.42
+3306,T-Shirts,Oversized T-shirt,,4536.09,,0.0,,Hyderabad,,1015.71
+3307,Accessories,Sunglasses,,3896.07,,0.0,2025/03/29,Pune,B2C,409.14
+3308,Jackets,Denim Jacket,,,,0.0,2024-01-13,Ahmedabad,B2C,1711.84
+3309,Dresses,Casual Midi,-2.0,3944.46,,0.0,2023-10-02,Ahmedabad,B2C,1392.37
+3310,Dresses,Wrap Dress,,,,0.0,2023-08-25,Pune,B2C,463.6
+3311,Dresses,Maxi Dress,-1.0,3108.69,,0.0,2024-04-06,Delhi,,2986.53
+3312,T-Shirts,Classic Tee,2.0,4878.81,,0.0,2024/09/02,bengaluru,,327.38
+3313,Dresses,Bodycon,5.0,,1.03,0.0,2024/10/01,bengaluru,,2022.75
+3314,Jackets,Denim Jacket,,2537.59,,0.0,2024/09/26,Pune,B2B,2708.81
+3315,Dresses,Bodycon,4.0,,,0.0,,Hyd,B2C,2293.04
+3316,Jeans,Slim Fit Jeans,,,,0.0,31-05-2025,Mumbai,B2C,1628.03
+3317,Jackets,Leather Jacket,,2140.22,,0.0,2024/11/02,Ahmedabad,B2B,-415.92
+3318,Accessories,Watches,,2912.6,,0.0,2025/03/29,Delhi,,1847.45
+3319,Shoes,Loafers,,,,0.0,2023-12-24,Ahmedabad,,1419.51
+3320,Shoes,Slip-ons,,,,0.0,2024-10-14,Pune,,-251.71
+3321,Jackets,Bomber Jacket,5.0,1804.56,,0.0,2023-11-24,hyderbad,,2534.37
+3322,T-Shirts,Oversized T-shirt,,4480.24,,0.0,2024/09/09,Delhi,B2C,397.15
+3323,Shoes,Boots,3.0,4009.45,,0.0,,Hyderabad,,-495.81
+3324,Dresses,Casual Midi,,,0.51,0.0,,Ahmedabad,B2C,-214.24
+3325,Dresses,Maxi Dress,6.0,,0.61,0.0,2025/06/25,Bangalore,,686.84
+3326,Shoes,Boots,-2.0,3047.68,,0.0,22-08-2024,Bangalore,B2C,827.95
+3327,Jeans,Straight Cut,,,0.96,0.0,,bengaluru,,-361.79
+3328,Jeans,Boyfriend Jeans,1.0,4390.32,,0.0,2025/03/17,Bangalore,,2785.75
+3329,Jackets,Puffer Coat,0.0,,,0.0,2024-05-28,Delhi,B2C,1954.02
+3330,Shoes,Loafers,6.0,2217.95,,0.0,18-06-2025,hyderbad,,146.52
+1012,Jackets,Denim Jacket,,1364.73,0.71,0.0,2025/03/10,Mumbai,,-909.85
+3332,Shoes,Loafers,5.0,1297.04,0.3,4539.64,,Hyd,,2887.23
+3333,Jackets,Leather Jacket,-2.0,,,0.0,2023-08-12,Mumbai,B2C,617.99
+3334,Jeans,Boyfriend Jeans,,,,0.0,14-06-2025,Hyd,B2B,-933.34
+3335,Jackets,Bomber Jacket,5.0,4289.91,1.23,-4933.4,19-10-2024,Pune,,533.83
+3336,Jackets,Denim Jacket,2.0,,,0.0,2025/06/18,Ahmedabad,,1872.26
+1018,Dresses,Maxi Dress,1.0,2847.86,0.7,854.36,2024-03-09,Delhi,B2C,2190.67
+3338,Dresses,Wrap Dress,,,0.06,0.0,2025/07/18,Pune,B2C,1067.66
+3339,Accessories,Watches,,,,0.0,2024-03-16,Delhi,B2C,-735.83
+3340,Shoes,Sneakers,6.0,3924.28,0.15,20013.83,28-08-2024,Bangalore,,-831.93
+3341,Accessories,Watches,2.0,2080.09,,0.0,,hyderbad,,1818.51
+3342,Shoes,Loafers,2.0,2109.83,,0.0,,Pune,B2B,546.26
+3343,T-Shirts,Graphic Tee,,3677.95,0.42,0.0,2025/02/25,Mumbai,B2C,958.93
+3344,Jackets,Puffer Coat,,,,0.0,2025/06/03,Ahmedabad,B2B,1933.51
+3345,Dresses,Wrap Dress,0.0,,,0.0,22-01-2025,bengaluru,,461.25
+3346,Shoes,Sneakers,2.0,1266.23,0.81,481.17,2024/12/25,Ahmedabad,B2B,416.5
+3347,Jackets,Denim Jacket,,3873.27,,0.0,2024-12-30,Mumbai,,212.7
+3348,Jackets,Leather Jacket,,,0.98,0.0,2024/10/27,Hyderabad,B2B,1023.68
+3349,Jackets,Bomber Jacket,,1866.28,,0.0,02-07-2025,Pune,,1605.37
+3350,Shoes,Slip-ons,,,,0.0,2024-02-15,Mumbai,B2C,14.57
+3351,Jeans,Boyfriend Jeans,0.0,,0.57,0.0,24-11-2024,Pune,B2C,211.03
+3352,Accessories,Belts,,2559.35,,0.0,2023-10-08,Ahmedabad,,1386.39
+3353,Jackets,Leather Jacket,0.0,,,0.0,21-11-2024,Mumbai,,-766.44
+3354,Jackets,Leather Jacket,,,0.74,0.0,2025-04-17,Mumbai,,2840.37
+3355,Accessories,Belts,,3111.18,0.03,0.0,,Ahmedabad,,1851.74
+3356,Shoes,Slip-ons,1.0,966.41,,0.0,26-07-2024,bengaluru,B2C,924.69
+3357,Dresses,Maxi Dress,,4909.58,,0.0,2023-10-14,Pune,,-500.19
+3358,Dresses,Wrap Dress,-2.0,,,0.0,22-11-2024,Delhi,B2C,1541.97
+3359,Dresses,Maxi Dress,-2.0,1380.44,,0.0,,Mumbai,B2B,-329.81
+3360,Jeans,Slim Fit Jeans,5.0,,,0.0,2025/02/11,Hyd,B2B,2229.54
+3361,Accessories,Caps,2.0,,,0.0,,Bangalore,,1648.42
+3362,Accessories,Belts,2.0,,,0.0,25-05-2025,hyderbad,,1445.86
+3363,Jackets,Puffer Coat,,3754.24,,0.0,,Delhi,B2B,461.46
+3364,Jackets,Leather Jacket,,,,0.0,2025/07/08,Ahmedabad,,-552.43
+3365,Shoes,Loafers,,2414.93,,0.0,2025-04-24,Bangalore,,2493.6
+3366,Jackets,Leather Jacket,5.0,636.53,,0.0,01-04-2025,Mumbai,B2B,-513.44
+3367,Accessories,Watches,,4206.91,,0.0,2024-07-20,bengaluru,B2C,818.99
+3368,Accessories,Sunglasses,4.0,,,0.0,,Ahmedabad,,-862.24
+3369,Jeans,Boyfriend Jeans,,,,0.0,21-01-2025,bengaluru,B2B,245.55
+3370,Jackets,Denim Jacket,,,,0.0,2024-02-25,bengaluru,B2B,1069.18
+3371,Jeans,Straight Cut,5.0,,,0.0,2024/12/04,Delhi,,-276.12
+3372,Jeans,Slim Fit Jeans,,2291.31,,0.0,2023-08-19,hyderbad,B2B,-169.68
+3373,Shoes,Slip-ons,,3507.48,,0.0,16-12-2024,Mumbai,,2821.27
+3374,Dresses,Wrap Dress,,2489.23,,0.0,2025/01/09,Hyderabad,B2C,2977.05
+3375,Jackets,Denim Jacket,,442.08,,0.0,2025/01/15,Hyd,,944.55
+3376,Jeans,Ripped Denim,,,,0.0,2023-12-09,Delhi,B2B,1936.25
+3377,Dresses,Wrap Dress,,1064.37,,0.0,2025/06/08,Delhi,,-671.09
+3378,Jackets,Leather Jacket,,3675.0,,0.0,,Pune,B2C,2641.65
+3379,Accessories,Caps,-2.0,,,0.0,2024-06-02,Pune,B2C,-861.83
+3380,Dresses,Bodycon,2.0,4166.34,,0.0,14-10-2024,Hyderabad,B2B,317.31
+3381,Shoes,Slip-ons,-1.0,,0.1,0.0,2024-09-28,Ahmedabad,,2205.09
+3382,Shoes,Boots,1.0,,,0.0,2025/04/08,Hyd,,1711.89
+3383,Jeans,Boyfriend Jeans,,,0.64,0.0,2023-07-26,Ahmedabad,B2B,1101.95
+3384,Dresses,Wrap Dress,1.0,2282.76,0.58,958.76,2024/11/04,bengaluru,,1133.68
+3385,Dresses,Bodycon,,2394.84,,0.0,2024/09/29,Ahmedabad,B2B,1007.9
+3386,T-Shirts,Classic Tee,1.0,,1.18,0.0,2025/06/03,Mumbai,B2C,21.39
+3387,Jeans,Ripped Denim,,,,0.0,2025/07/10,bengaluru,,-48.14
+1011,Dresses,Casual Midi,,2842.91,,0.0,2025/06/20,Mumbai,B2C,-835.65
+3389,Accessories,Watches,-1.0,,0.85,0.0,,Ahmedabad,,146.53
+3390,Shoes,Boots,1.0,1280.52,0.94,76.83,,bengaluru,B2B,1626.42
+3391,Jackets,Bomber Jacket,3.0,1730.64,0.7,1557.58,,Delhi,,719.69
+3392,Jackets,Puffer Coat,0.0,,0.38,0.0,17-09-2024,hyderbad,B2B,1036.57
+3393,Accessories,Sunglasses,5.0,,0.07,0.0,,Mumbai,B2C,560.09
+3394,Jeans,Boyfriend Jeans,,1509.34,,0.0,2025-02-04,Mumbai,,1037.85
+3395,Shoes,Slip-ons,,,,0.0,2024-11-01,Pune,B2B,-23.94
+3396,Jackets,Leather Jacket,2.0,3760.09,,0.0,12-12-2024,hyderbad,,-871.94
+3397,Jeans,Straight Cut,,,,0.0,,Ahmedabad,B2C,477.59
+3398,Dresses,Maxi Dress,,2784.25,,0.0,,Hyderabad,B2B,-348.84
+3399,Jeans,Ripped Denim,5.0,3111.73,,0.0,2024-07-11,bengaluru,B2C,800.89
+3400,Jackets,Puffer Coat,0.0,1249.64,,0.0,2025/06/22,Pune,B2C,-646.04
+3401,Jackets,Puffer Coat,,1960.15,,0.0,2024/10/05,Hyderabad,B2B,1816.17
+3402,Dresses,Maxi Dress,,,0.02,0.0,2024/12/31,Mumbai,B2C,619.2
+3403,T-Shirts,Graphic Tee,,2609.06,0.65,0.0,28-04-2025,hyderbad,B2C,2036.75
+3404,Accessories,Caps,5.0,,0.81,0.0,2025/05/05,Pune,B2B,1283.58
+3405,T-Shirts,Graphic Tee,,2310.47,,0.0,,Mumbai,B2C,393.88
+3406,Dresses,Maxi Dress,,,,0.0,2024-04-02,Mumbai,,-513.37
+3407,Jeans,Ripped Denim,1.0,,0.67,0.0,2023-08-28,Ahmedabad,B2C,-540.69
+3408,Accessories,Watches,,4003.66,,0.0,2024/10/05,Hyd,B2B,1340.94
+3409,Jackets,Denim Jacket,-1.0,2123.17,,0.0,,Delhi,,-717.75
+3410,Dresses,Wrap Dress,,4732.42,,0.0,2025/07/06,Ahmedabad,,916.47
+3411,Shoes,Boots,,,0.58,0.0,25-12-2024,Hyd,B2B,1693.4
+3412,Jeans,Ripped Denim,,,,0.0,2024/10/27,Ahmedabad,,2625.33
+3413,Dresses,Maxi Dress,,,,0.0,,Bangalore,B2C,2402.84
+3414,Shoes,Boots,1.0,,,0.0,26-12-2024,Ahmedabad,B2B,2783.42
+3415,T-Shirts,Oversized T-shirt,4.0,3185.58,1.15,-1911.35,2024-06-10,Delhi,,-767.38
+3416,Jackets,Puffer Coat,-1.0,,,0.0,12-08-2024,bengaluru,B2B,2344.15
+3417,Jeans,Straight Cut,,,,0.0,2025-01-29,Delhi,B2C,-938.64
+3418,Jeans,Slim Fit Jeans,6.0,,0.56,0.0,,Ahmedabad,,-796.3
+3419,T-Shirts,Crop Top,,,,0.0,,Ahmedabad,B2B,804.16
+1002,Jackets,Leather Jacket,3.0,,,0.0,2025/07/15,Mumbai,B2C,2315.23
+3421,Shoes,Loafers,,2933.45,,0.0,08-05-2025,Bangalore,B2C,2339.14
+3422,Accessories,Caps,6.0,,,0.0,12-08-2024,Pune,,20.64
+3423,Shoes,Boots,-2.0,,,0.0,2024/08/15,Ahmedabad,B2C,960.12
+3424,Accessories,Watches,5.0,4754.22,0.82,4278.8,17-05-2025,hyderbad,B2B,2415.19
+3425,Jackets,Denim Jacket,-2.0,2942.33,0.16,-4943.11,2024-02-19,Pune,,977.57
+3426,Jackets,Denim Jacket,,3441.89,,0.0,07-11-2024,Ahmedabad,,-872.49
+3427,Accessories,Belts,,,0.51,0.0,2024-08-08,Delhi,B2B,-63.0
+3428,Jackets,Puffer Coat,3.0,,,0.0,2025/03/13,Mumbai,,670.29
+3429,Dresses,Wrap Dress,,,,0.0,15-02-2025,Delhi,,859.23
+3430,Accessories,Watches,,2244.07,,0.0,,Bangalore,B2C,195.31
+3431,Dresses,Maxi Dress,0.0,,0.25,0.0,17-11-2024,Delhi,B2C,669.94
+3432,Dresses,Bodycon,-2.0,,,0.0,31-12-2024,Bangalore,,980.18
+3433,T-Shirts,Crop Top,,4971.56,0.87,0.0,22-01-2025,Bangalore,,1202.34
+3434,Shoes,Loafers,-1.0,636.92,0.51,-312.09,08-03-2025,Pune,B2B,2399.61
+3435,Jackets,Leather Jacket,,,,0.0,2023-08-07,Delhi,,-453.03
+3436,Dresses,Maxi Dress,,,0.91,0.0,2024/08/28,Bangalore,B2B,791.96
+3437,T-Shirts,Crop Top,,987.68,1.25,0.0,2025/06/24,Bangalore,B2C,2597.2
+1006,Accessories,Belts,3.0,3891.07,0.2,9338.57,18-07-2025,Ahmedabad,B2C,-861.28
+3439,Shoes,Slip-ons,-2.0,400.21,,0.0,23-06-2025,Bangalore,B2C,914.27
+3440,T-Shirts,Oversized T-shirt,,1536.14,0.87,0.0,2025/03/13,Ahmedabad,B2C,-382.45
+3441,Dresses,Maxi Dress,5.0,,1.21,0.0,2025/05/06,Delhi,B2B,2953.52
+3442,T-Shirts,Oversized T-shirt,0.0,,1.11,0.0,2024/08/02,Ahmedabad,,1331.63
+3443,T-Shirts,Oversized T-shirt,,,0.37,0.0,2025-06-05,Delhi,,2632.33
+3444,Dresses,Casual Midi,,2924.37,,0.0,2024-12-26,Pune,,461.83
+3445,Accessories,Caps,4.0,973.52,,0.0,2024/08/10,hyderbad,,2406.66
+3446,T-Shirts,Crop Top,3.0,4758.24,0.49,7280.11,17-03-2025,Mumbai,,2863.66
+3447,Jackets,Puffer Coat,4.0,4762.62,,0.0,02-07-2025,Hyderabad,B2B,1483.83
+3448,Jeans,Slim Fit Jeans,3.0,,,0.0,2024-12-23,Ahmedabad,B2C,734.88
+3449,Dresses,Casual Midi,4.0,803.79,,0.0,16-07-2025,Pune,B2C,2948.6
+3450,T-Shirts,Classic Tee,,,0.89,0.0,2023-07-26,Mumbai,,1339.05
+3451,T-Shirts,Graphic Tee,-2.0,2339.36,0.35,-3041.17,19-06-2025,Bangalore,B2B,-5.05
+3452,Shoes,Boots,,2562.47,,0.0,2024/10/20,hyderbad,B2B,-883.82
+3453,Accessories,Watches,,4213.85,,0.0,18-05-2025,Delhi,,-209.3
+3454,Accessories,Watches,6.0,1987.62,,0.0,2024-08-31,hyderbad,B2B,1184.77
+3455,Dresses,Casual Midi,,,,0.0,,Bangalore,,382.53
+3456,T-Shirts,Oversized T-shirt,,,,0.0,,Delhi,,-695.67
+3457,Accessories,Caps,,983.84,0.9,0.0,11-03-2025,Delhi,,254.71
+1013,Shoes,Slip-ons,6.0,,0.56,0.0,24-10-2024,hyderbad,,-270.22
+3459,T-Shirts,Oversized T-shirt,2.0,,,0.0,,Pune,B2B,1284.57
+3460,Jeans,Boyfriend Jeans,3.0,,,0.0,,Bangalore,,-266.63
+3461,Dresses,Maxi Dress,,,,0.0,11-04-2025,Ahmedabad,B2B,2059.24
+3462,Accessories,Sunglasses,,3607.23,,0.0,2023-08-12,hyderbad,B2C,2531.75
+3463,Accessories,Sunglasses,6.0,1139.77,,0.0,,Pune,,992.89
+3464,Jeans,Ripped Denim,5.0,,,0.0,,Delhi,,2091.3
+3465,Jeans,Boyfriend Jeans,-1.0,,0.7,0.0,2024-09-07,Hyd,B2B,-288.96
+3466,Jeans,Ripped Denim,,4059.53,,0.0,2023-09-09,Ahmedabad,B2B,-74.57
+3467,T-Shirts,Graphic Tee,,,,0.0,06-04-2025,bengaluru,B2B,1246.62
+3468,Dresses,Maxi Dress,,,,0.0,,Delhi,,287.33
+3469,T-Shirts,Classic Tee,,2932.58,1.26,0.0,2024/12/03,Bangalore,B2B,333.94
+3470,Accessories,Belts,,,,0.0,19-07-2025,Delhi,B2C,1387.75
+3471,Jackets,Denim Jacket,6.0,,,0.0,2025/02/26,Mumbai,B2B,-673.81
+3472,Dresses,Casual Midi,,,0.5,0.0,,Mumbai,,-898.19
+3473,Accessories,Belts,1.0,,0.15,0.0,24-09-2024,Mumbai,B2B,287.25
+3474,Shoes,Slip-ons,,3494.86,,0.0,,Mumbai,,-76.85
+3475,Jackets,Bomber Jacket,,2185.83,0.13,0.0,,Mumbai,B2B,714.12
+3476,Dresses,Maxi Dress,,4804.91,,0.0,2024-08-15,Delhi,B2C,407.85
+3477,Dresses,Wrap Dress,,,0.86,0.0,,Mumbai,,292.83
+3478,Jackets,Denim Jacket,,,,0.0,2023-12-31,Pune,B2B,2602.44
+3479,Jackets,Leather Jacket,,2858.94,1.19,0.0,19-09-2024,Mumbai,,-262.73
+3480,Shoes,Sneakers,,,0.28,0.0,,Pune,B2C,1553.3
+3481,Jeans,Boyfriend Jeans,,,,0.0,2025/07/09,bengaluru,B2C,-38.12
+3482,Accessories,Watches,-2.0,1169.89,,0.0,,Pune,B2C,161.95
+1030,T-Shirts,Graphic Tee,3.0,,,0.0,,Hyd,B2B,1528.52
+3484,T-Shirts,Graphic Tee,,,,0.0,,Pune,B2C,237.05
+3485,Accessories,Watches,,2951.53,,0.0,2024-09-12,Pune,B2C,-492.53
+3486,T-Shirts,Classic Tee,-2.0,,,0.0,,hyderbad,,-439.26
+3487,T-Shirts,Crop Top,5.0,1683.74,0.58,3535.85,2025/01/13,Bangalore,B2C,419.44
+3488,Accessories,Watches,,3029.54,,0.0,2024/12/15,Mumbai,,2537.46
+3489,Jackets,Bomber Jacket,2.0,599.07,0.15,1018.42,,Delhi,B2B,1962.34
+3490,Dresses,Bodycon,,2784.76,0.86,0.0,2023-11-16,Hyd,,1373.37
+3491,Jeans,Boyfriend Jeans,,4126.39,,0.0,25-11-2024,Mumbai,B2B,638.9
+3492,Jeans,Ripped Denim,,3084.73,0.86,0.0,,Mumbai,,2534.32
+3493,Dresses,Casual Midi,5.0,2935.56,,0.0,2025-01-21,Delhi,,-410.86
+3494,Jeans,Slim Fit Jeans,0.0,,,0.0,,Ahmedabad,,-219.82
+3495,T-Shirts,Oversized T-shirt,,848.79,,0.0,,Mumbai,,2259.0
+3496,Shoes,Loafers,4.0,,,0.0,2024-03-10,Hyderabad,B2B,2232.98
+3497,Jackets,Bomber Jacket,,3389.24,1.06,0.0,,Ahmedabad,B2C,1955.31
+3498,Jeans,Straight Cut,5.0,3844.19,,0.0,24-07-2024,Hyd,,2967.0
+3499,T-Shirts,Graphic Tee,6.0,1239.75,,0.0,,Mumbai,B2C,715.15
