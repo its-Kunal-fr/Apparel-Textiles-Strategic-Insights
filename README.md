@@ -1,86 +1,49 @@
 # Apparel & Textiles Strategic Insights
 
-An end-to-end business analytics project for a fictional apparel retailer, Threadline Apparel. It demonstrates how data collection, cleaning, integration, exploratory data analysis (EDA), KPI visualization, and demand forecasting can support merchandising and supply-chain decisions.
+An end-to-end analytics project for a fictional apparel retailer using a publicly shared **synthetic** fashion-sales dataset. The project demonstrates source documentation, data cleaning, KPI calculations, EDA visualizations, chronological baseline forecasting, and strategic recommendations.
 
-> **Evidence note:** This is an academic project. Numerical examples are illustrative unless explicitly calculated from a documented dataset. Simulated examples must not be presented as real company results.
+> **Important:** The source data is explicitly described by its publisher as synthetic. Results demonstrate analytical methods and are not claims about a real retailer. The source currency is unspecified.
 
-## Business problem
+## Dataset
+Source repository: [Wattzp/Snitch-Clothing-Sales](https://github.com/Wattzp/Snitch-Clothing-Sales)  
+Original dataset: [Snitch_Fashion_Sales_Uncleaned.csv](https://github.com/Wattzp/Snitch-Clothing-Sales/blob/main/Snitch_Fashion_Sales_Uncleaned.csv)  
+A copy with customer names removed is stored at [data/raw/snitch_fashion_sales_uncleaned.csv](data/raw/snitch_fashion_sales_uncleaned.csv).
 
-Apparel retailers balance changing consumer demand with supplier lead times, seasonal buying, inventory availability, returns, discounts, and margin pressure. Fragmented sales, product, inventory, marketing, and supplier records make decisions harder.
+## Measured results on the cleaned subset
+- 2,500 source rows; 283 rows retained by the documented primary KPI rules (11.32%).
+- Calculated sales: 2,291,800.92 source currency units across 978 units.
+- Accessories is the largest category in the retained subset at 485,867.32 source currency units.
+- One-step naive forecast evaluated on the final five months: MAE 24,655.09 and WAPE 20.00%.
 
-## Objectives
+These numbers are limited by missing and invalid data; see the report for caveats.
 
-- Establish a documented, repeatable data workflow.
-- Clean and validate source data before analysis.
-- Integrate sales and product information using stable identifiers.
-- Explore sales, category, pricing, returns, and inventory patterns.
-- Define actionable KPIs for a retail dashboard.
-- Compare demand forecasts against a transparent baseline.
-- Translate verified findings into practical recommendations.
+## Visual results
+- [Monthly estimated sales chart](visualizations/monthly_sales.svg)
+- [Estimated sales by category chart](visualizations/category_sales.svg)
+- [Forecast versus actual chart](visualizations/forecast_holdout.svg)
 
 ## Project workflow
+1. Data source and quality review
+2. Cleaning and normalization
+3. EDA and category/monthly/city KPI tables
+4. Chronological naive forecast baseline
+5. Strategic recommendations and final report
 
-1. **Data collection:** document source files, fields, date coverage, permissions, and limitations.
-2. **Data cleaning:** standardize types and labels; inspect missing values, duplicates, ranges, and keys.
-3. **Data integration:** join sources using stable identifiers and validate row counts and totals.
-4. **EDA:** analyze trends, category mix, product contribution, discounting, returns, and inventory risks.
-5. **Visualization:** present decision-focused KPIs and drill-downs.
-6. **Forecasting:** establish a baseline, validate on later periods, and assess MAE, WAPE, and bias.
-7. **Recommendations:** connect each action to a measured result, owner, and success metric.
-
-## Repository structure
-
-- `data/` — source-data instructions and data governance
-- `notebooks/` — planned, sequential analysis notebooks
-- `src/` — reusable Python analysis pipeline
-- `visualizations/` — charts and dashboard exports
-- `reports/` — final report and evaluation summaries
-- `requirements.txt` — Python dependencies
-
-## Getting started
-
+## Run the pipeline
 Python 3.10 or newer is recommended.
-
-Create and activate a virtual environment, then install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+python src/analysis_pipeline.py --input data/raw/snitch_fashion_sales_uncleaned.csv --output-dir outputs
 ```
 
-The starter pipeline expects a CSV with `order_date`, `sku`, and `quantity` columns. Optional fields include `category`, `unit_price`, and `discount`.
-
-```bash
-python src/analysis_pipeline.py --input data/sales.csv --output-dir outputs
-```
-
-The command creates a cleaned dataset and summary tables. It does not create a forecast; forecasting should be evaluated separately on a time-based holdout period.
-
-## Core KPI definitions
-
-| KPI | Definition |
-|---|---|
-| Net sales | Gross item sales less discounts and refunds, using a documented policy |
-| Gross margin % | (Net sales − cost of goods sold) / net sales × 100 |
-| Units sold | Sum of valid sold quantities in the chosen period |
-| Sell-through % | Units sold / units available to sell for a defined cohort and period |
-| MAE | Mean absolute difference between actual and forecast demand |
-| WAPE | Sum of absolute forecast errors / sum of actual demand × 100 |
-
-Definitions must be aligned with the actual data and accounting rules before results are reported.
-
-## Expected deliverables
-
-- Data-quality and cleaning summary
-- Integrated analytical dataset
-- EDA tables and charts
-- KPI dashboard or dashboard design
-- Forecast baseline and time-based validation results
-- Final strategic report with evidence-backed recommendations
+The pipeline writes cleaned rows, quality checks, KPI tables, holdout predictions and metrics, and PNG charts. Generated outputs are ignored by Git so raw or derived data is not accidentally committed wholesale.
 
 ## Limitations
+- The dataset is synthetic.
+- Only 11.32% of source rows passed the primary KPI rules.
+- Currency and profit definitions are unspecified.
+- The forecast holdout has five months, so error estimates are unstable.
+- Inventory, return, cost, and supplier tables are not provided.
 
-This repository begins with a reusable workflow, not verified company data. Add the actual dataset source, licence details, date range, data dictionary, charts, and measured findings as the project progresses. Do not upload private customer data, credentials, or unlicensed datasets.
-
-## Author
-
-Academic portfolio project in apparel and textiles business analytics.
+See [reports/analysis_findings.md](reports/analysis_findings.md) for the complete Week 6 strategic analysis.
