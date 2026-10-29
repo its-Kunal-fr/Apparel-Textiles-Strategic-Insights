@@ -1,11 +1,6 @@
 # Reports
 
-Store final project documents and concise findings here.
+- [Week 6 strategic analysis and measured findings](analysis_findings.md) — source, cleaning rules, data quality, calculated KPIs, naive forecasting holdout, recommendations, and limitations.
+- [Forecast holdout results](forecast_holdout.csv) — actual versus naive forecast for the final five months.
 
-Recommended deliverables:
-- Final strategic analysis report (.docx or .pdf)
-- Data-quality summary
-- Forecast evaluation summary
-- Recommendation-to-evidence table
-
-Distinguish observed results from assumptions and illustrative examples. When adding a report, include the dataset version/date and explain how figures were generated.
+The source dataset is synthetic. The report labels findings accordingly and does not claim real company performance. The Markdown report is the version currently committed in this repository.
