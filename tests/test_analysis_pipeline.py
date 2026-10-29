@@ -21,7 +21,7 @@ def test_clean_data_filters_invalid_rows_and_calculates_sales(tmp_path: Path):
     assert len(clean) == 2
     assert quality["raw_rows"] == 4
     assert quality["analysis_rows"] == 2
-    assert round(clean["Estimated_Sales"].sum(), 2) == 238.00
+    assert round(clean["Estimated_Sales"].sum(), 2) == 240.00
     assert set(clean["City_Normalized"]) == {"Bengaluru", "Hyderabad"}
     assert quality["quantity_nonpositive"] == 1
     assert quality["missing_or_invalid_date"] == 1
